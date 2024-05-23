@@ -9642,8 +9642,8 @@
         "event_type": "car_dealerships",
         "id": "10",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "Car Maintenance Service",
-        "price": "75",
+        "title": "Car for Sale",
+        "price":"4250",
         "model": "2010 Mercedes E Class",
         "type": "Sedan",
         "seller": "Best Auto Dealership",
@@ -9824,7 +9824,7 @@
         "zip_code": "93301"
       },
       {
-        "event_type": "कार डीलरशिप्स",
+        "event_type": "car_dealerships",
         "id": "2",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "कार बिक्री के लिए",
@@ -9844,7 +9844,7 @@
         "review": "101"
       },
       {
-        "event_type": "कार डीलरशिप्स",
+        "event_type": "car_dealerships",
         "id": "3",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "कार बिक्री के लिए",
@@ -9865,7 +9865,7 @@
         "review": "173"
       },
       {
-        "event_type": "कार डीलरशिप्स",
+        "event_type": "car_dealerships",
         "id": "4",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "कार बिक्री के लिए",
@@ -9968,8 +9968,8 @@
         "event_type": "car_dealerships",
         "id": "10",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "कार रखरखाव सेवा",
-        "price": "75",
+        "title": "गाड़ी बिक्री के लिए",
+        "price":"4250",
         "model": "2010 मर्सिडीज ई क्लास",
         "type": "सेडान",
         "seller": "बेस्ट ऑटो डीलरशिप",
@@ -10134,7 +10134,7 @@
         "event_type": "car_dealerships",
         "id": "1",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "అనుమతి లేని రుబ్బు",
+        "title": "అమ్మకానికి కారు",
         "price": "$5,500 (అమర్పులేని)",
         "model": "2006 వోక్స్‌వాగన్ టొయారెగ్",
         "type": "స్పోర్ట్స్ యూటిలిటీ 4D",
@@ -10148,10 +10148,10 @@
         "zip_code": "93301"
       },
       {
-        "event_type": "కార్_డీలర్షిప్స్",
+        "event_type": "car_dealerships",
         "id": "2",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "అనుమతించబడని కారు",
+        "title": "అమ్మకానికి కారు",
         "price": "$32,483 (పోరాటం లేదు)",
         "model": "2024 క్యామ్రి SE FWD",
         "type": "సిడాన్",
@@ -10168,10 +10168,10 @@
         "review": "101"
       },
       {
-        "event_type": "కార్_డీలర్షిప్స్",
+        "event_type": "car_dealerships",
         "id": "3",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "అనుమతించబడని కారు",
+        "title": "అమ్మకానికి కారు",
         "price": "$16,846 (పోరాటం లేదు)",
         "model": "2017 ఓడి Q3 2.0 TFSI ప్రెస్టిజ్ FWD",
         "type": "సిడాన్",
@@ -10189,10 +10189,10 @@
         "review": "173"
       },
       {
-        "event_type": "కార్_డీలర్షిప్స్",
+        "event_type": "car_dealerships",
         "id": "4",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "అనుమతించబడని కారు",
+        "title": "అమ్మకానికి కారు",
         "price": "$14,995 (పోరాటం లేదు)",
         "model": "2016 డాడ్జ్ చార్జర్",
         "type": "సిడాన్",
@@ -10210,7 +10210,7 @@
         "review": "1500"
       },
       {
-        "event_type": "car_dealerships",
+        "event_type": "tire_services",
         "id": "5",
         "icon_url": "/svgs/ClothesPattern.svg",
         "title": "టైర్ రెంటల్‌లు",
@@ -10242,7 +10242,7 @@
         "event_type": "car_dealerships",
         "id": "7",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "కారు అనుమతి లేని",
+        "title": "అమ్మకానికి కారు",
         "price": "$4,000",
         "model": "2010 మర్సిడీస్ ఈ క్లాస్",
         "type": "సెడాన్",
@@ -10292,8 +10292,8 @@
         "event_type": "car_dealerships",
         "id": "10",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "కారు రక్షణ సేవ",
-        "price": "75",
+        "title": "అమ్మకానికి కారు",
+        "price":"4250",
         "model": "2010 మర్సిడీస్ ఈ క్లాస్",
         "type": "సెడాన్",
         "seller": "బెస్ట్ ఆటో డీలర్‌షిప్",
@@ -10458,7 +10458,7 @@
         "event_type": "car_dealerships",
         "id": "1",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "വണ്ടി വില്പനക്ക്",
+        "title": "കാർ വിൽപ്പനയ്ക്ക്",
         "price": "$5,500 (പരിഗണിക്കുകയില്ല)",
         "model": "2006 വോൾക്സ്വഗൺ ടൊയറെഗ്",
         "type": "സ്പോർട്സ് യൂട്ടിലിറ്റി 4D",
@@ -10472,10 +10472,10 @@
         "zip_code": "93301"
       },
       {
-        "event_type": "കാർ_ഡീലർഷിപ്പുകൾ",
+        "event_type": "car_dealerships",
         "id": "2",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "വിൽപ്പനയ്ക്കുള്ള കാർ",
+        "title": "കാർ വിൽപ്പനയ്ക്ക്",
         "price": "$32,483 (ചർച്ച ചെയ്യാനാവില്ല)",
         "model": "2024 ക്യാമ്രി SE FWD",
         "type": "സെഡാൻ",
@@ -10492,10 +10492,10 @@
         "review": "101"
       },
       {
-        "event_type": "കാർ_ഡീലർഷിപ്പുകൾ",
+        "event_type": "car_dealerships",
         "id": "3",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "വിൽപ്പനയ്ക്കുള്ള കാർ",
+        "title": "കാർ വിൽപ്പനയ്ക്ക്",
         "price": "$16,846 (ചർച്ച ചെയ്യാനാവില്ല)",
         "model": "2017 ഓഡി Q3 2.0 TFSI പ്രെസ്റ്റീജ് FWD",
         "type": "സെഡാൻ",
@@ -10513,10 +10513,10 @@
         "review": "173"
       },
       {
-        "event_type": "കാർ_ഡീലർഷിപ്പുകൾ",
+        "event_type": "car_dealerships",
         "id": "4",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "വിൽപ്പനയ്ക്കുള്ള കാർ",
+        "title": "കാർ വിൽപ്പനയ്ക്ക്",
         "price": "$14,995 (ചർച്ച ചെയ്യാനാവില്ല)",
         "model": "2016 ഡോഡ്ജ് ചാർജർ",
         "type": "സെഡാൻ",
@@ -10566,7 +10566,7 @@
         "event_type": "car_dealerships",
         "id": "7",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "വണ്ടി വില്പനക്ക്",
+        "title": "കാർ വിൽപ്പനയ്ക്ക്",
         "price": "$4,000",
         "model": "2010 മെർസിഡസ് ഇ ക്ലാസ്",
         "type": "സെഡാൻ",
@@ -10616,8 +10616,8 @@
         "event_type": "car_dealerships",
         "id": "10",
         "icon_url": "/svgs/CarForSale.svg",
-        "title": "വണ്ടി പരിപാലന സർവീസ്",
-        "price": "75",
+        "title": "കാർ വിൽപ്പനയ്ക്ക്",
+        "price":"4250",
         "model": "2010 മെർസിഡസ് ഇ ക്ലാസ്",
         "type": "സെഡാൻ",
         "seller": "ബെസ്റ്റ് ഓട്ടോ ഡിലർഷിപ്പ്",
@@ -10702,7 +10702,7 @@
         "longitude": "99.7331"
       },
       {
-        "event_type": "വാടക",
+        "event_type": "rentals",
         "id": "15",
         "icon_url": "",
         "title": "വാടക",
@@ -10717,7 +10717,7 @@
         "longitude": "-119.10996"
       },
       {
-        "event_type": "വാടക",
+        "event_type": "rentals",
         "id": "16",
         "icon_url": "",
         "title": "വാടക",
@@ -10732,7 +10732,7 @@
         "longitude": "-119.00778"
       },
       {
-        "event_type": "വാടക",
+        "event_type": "rentals",
         "id": "17",
         "icon_url": "",
         "title": "വാടക",
@@ -10747,7 +10747,7 @@
         "longitude": "-119.01366"
       },
       {
-        "event_type": "വാടക",
+        "event_type": "rentals",
         "id": "18",
         "icon_url": "",
         "title": "വാടക",
@@ -10762,7 +10762,7 @@
         "longitude": "119.12673"
       },
       {
-        "event_type": "വാടക",
+        "event_type": "rentals",
         "id": "19",
         "icon_url": "",
         "title": "വാടക",
@@ -10779,7 +10779,7 @@
     ],
     "kn": [
       {
-        "event_type": "ಕಾರ್ ಡೀಲರ್‌ಶಿಪ್ಸ್",
+        "event_type": "car_dealerships",
         "id": "1",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "ಮಾರಾಟಕ್ಕಾಗಿ ಕಾರು",
@@ -10798,7 +10798,7 @@
         "review": "99"
       },
       {
-        "event_type": "ಕಾರು_ಡೀಲರ್‌ಶಿಪ್ಸ್",
+        "event_type": "car_dealerships",
         "id": "2",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "ಮಾರಾಟಕ್ಕೆ ಕಾರು",
@@ -10818,7 +10818,7 @@
         "review": "101"
       },
       {
-        "event_type": "ಕಾರು_ಡೀಲರ್‌ಶಿಪ್ಸ್",
+        "event_type": "car_dealerships",
         "id": "3",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "ಮಾರಾಟಕ್ಕೆ ಕಾರು",
@@ -10839,7 +10839,7 @@
         "review": "173"
       },
       {
-        "event_type": "ಕಾರು_ಡೀಲರ್‌ಶಿಪ್ಸ್",
+        "event_type": "car_dealerships",
         "id": "4",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "ಮಾರಾಟಕ್ಕೆ ಕಾರು",
@@ -10860,7 +10860,7 @@
         "review": "1500"
       },
       {
-        "event_type": "ಟೈರ್ ಸೇವೆಗಳು",
+        "event_type": "tire_services",
         "id": "5",
         "icon_url": "/svgs/ClothesPattern.svg",
         "title": "ಟೈರ್ ವಾಡಿಕೆ",
@@ -10875,7 +10875,7 @@
         "zip_code": "93301"
       },
       {
-        "event_type": "ಅಪರಾಧ",
+        "event_type": "crime",
         "id": "6",
         "icon_url": "/svgs/Burglary.svg",
         "title": "ಕಳ್ಳತನ",
@@ -10889,7 +10889,7 @@
         "zip_code": "93301"
       },
       {
-        "event_type": "ಕಾರ್ ಡೀಲರ್‌ಶಿಪ್ಸ್",
+        "event_type": "car_dealerships",
         "id": "7",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "ಮಾರಾಟಕ್ಕಾಗಿ ಕಾರು",
@@ -10910,7 +10910,7 @@
         "review": "101"
       },
       {
-        "event_type": "ಟೈರ್ ಸೇವೆಗಳು",
+        "event_type": "tire_services",
         "id": "8",
         "icon_url": "/svgs/ClothesPattern.svg",
         "title": "ಟೈರ್ ಸೇವೆಗಳು",
@@ -10925,7 +10925,7 @@
         "zip_code": "93301"
       },
       {
-        "event_type": "ಅಪರಾಧ",
+        "event_type": "crime",
         "id": "9",
         "icon_url": "/svgs/Safety.svg",
         "title": "ಭದ್ರತಾ ಎಚ್ಚರಿಕೆ",
@@ -10939,11 +10939,11 @@
         "zip_code": "93301"
       },
       {
-        "event_type": "ಕಾರ್ ಡೀಲರ್‌ಶಿಪ್ಸ್",
+        "event_type": "car_dealerships",
         "id": "10",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "ಕಾರ್ ಮೆಂಟನ್ಸ್ ಸೇವೆ",
-        "price": "75",
+        "price":"4250",
         "model": "2010 ಮೆರ್ಸಿಡಿಸ್ ಇ ಕ್ಲಾಸ್",
         "type": "ಸೆಡಾನ್",
         "seller": "ಬೆಸ್ಟ್ ಆಟೋ ಡೀಲರ್‌ಶಿಪ್",
@@ -10962,7 +10962,7 @@
         "review": "150"
       },
       {
-        "event_type": "ಕಾಣೆಯಾಗಿರುವ ವ್ಯಕ್ತಿಗಳು",
+        "event_type": "missing_persons",
         "id": "11",
         "icon_url": "/svgs/SafetyMissingPeople.svg",
         "title": "ಕಾಣೆಯಾದ",
@@ -10979,7 +10979,7 @@
         "longitude": "91.8295"
       },
       {
-        "event_type": "ಕಾಣೆಯಾಗಿರುವ ವ್ಯಕ್ತಿಗಳು",
+        "event_type": "missing_persons",
         "id": "12",
         "icon_url": "/svgs/SafetyMissingPeople.svg",
         "title": "ಕಾಣೆಯಾದ",
@@ -10996,7 +10996,7 @@
         "longitude": "-119.02129"
       },
       {
-        "event_type": "ಕಾಣೆಯಾಗಿರುವ ವ್ಯಕ್ತಿಗಳು",
+        "event_type": "missing_persons",
         "id": "13",
         "icon_url": "/svgs/SafetyMissingPeople.svg",
         "title": "ಕಾಣೆಯಾದ",
@@ -11013,7 +11013,7 @@
         "longitude": "82.961337"
       },
       {
-        "event_type": "ಕಾಣೆಯಾಗಿರುವ ವ್ಯಕ್ತಿಗಳು",
+        "event_type": "missing_persons",
         "id": "14",
         "icon_url": "/svgs/SafetyMissingPeople.svg",
         "title": "ಕಾಣೆಯಾದ",
@@ -11030,7 +11030,7 @@
         "longitude": "-119.043732"
       },
       {
-        "event_type": "ವಾಡಿಕೆ",
+        "event_type": "rentals",
         "id": "15",
         "icon_url": "",
         "title": "ವಾಡಿಕೆ",
@@ -11045,7 +11045,7 @@
         "longitude": "-119.10996"
       },
       {
-        "event_type": "ವಾಡಿಕೆ",
+        "event_type": "rentals",
         "id": "16",
         "icon_url": "",
         "title": "ವಾಡಿಕೆ",
@@ -11060,7 +11060,7 @@
         "longitude": "-119.00778"
       },
       {
-        "event_type": "ವಾಡಿಕೆ",
+        "event_type": "rentals",
         "id": "17",
         "icon_url": "",
         "title": "ವಾಡಿಕೆ",
@@ -11075,7 +11075,7 @@
         "longitude": "-119.01366"
       },
       {
-        "event_type": "ವಾಡಿಕೆ",
+        "event_type": "rentals",
         "id": "18",
         "icon_url": "",
         "title": "ವಾಡಿಕೆ",
@@ -11090,7 +11090,7 @@
         "longitude": "119.12673"
       },
       {
-        "event_type": "ವಾಡಿಕೆ",
+        "event_type": "rentals",
         "id": "19",
         "icon_url": "",
         "title": "ವಾಡಿಕೆ",
@@ -11124,7 +11124,7 @@
         "zip_code": "93301"
       },
       {
-        "event_type": "கார்_டீலர்ஷிப்ஸ்",
+        "event_type": "car_dealerships",
         "id": "2",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "விற்பனைக்கான கார்",
@@ -11144,7 +11144,7 @@
         "review": "101"
       },
       {
-        "event_type": "கார்_டீலர்ஷிப்ஸ்",
+        "event_type": "car_dealerships",
         "id": "3",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "விற்பனைக்கான கார்",
@@ -11165,7 +11165,7 @@
         "review": "173"
       },
       {
-        "event_type": "கார்_டீலர்ஷிப்ஸ்",
+        "event_type": "car_dealerships",
         "id": "4",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "விற்பனைக்கான கார்",
@@ -11269,7 +11269,7 @@
         "id": "10",
         "icon_url": "/svgs/CarForSale.svg",
         "title": "கார் பராமரிப்பு சேவை",
-        "price": "75",
+        "price":"4250",
         "model": "2010 மெர்சீடீஸ் E கிளாஸ்",
         "type": "செடன்",
         "seller": "சிறந்த ஆட்டோ டீலர்ஷிப்",
