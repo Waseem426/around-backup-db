@@ -9481,12 +9481,12 @@
       {
         "event_type": "car_dealerships",
         "id": "1",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "Car for Sale",
         "price": "5,500",
         "model": "2006 Volkswagen Touareg",
         "type": "Sports Utility 4D",
-        "seller": "Red Fleet auto sales-California’s trusted car dealer",
+        "seller": "Red Fleet auto sales",
         "phone_number": "(702) 414-1000",
         "miles_driven": "121k miles driven",
         "latitude": "35.3833",
@@ -9500,14 +9500,14 @@
       {
         "event_type": "car_dealerships",
         "id": "2",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "Car for Sale",
         "price": "32,483",
         "model": "2024 Camry SE FWD",
         "type": "Sedan",
         "seller": "North Bakersfield Toyota",
         "phone_number": "(661) 615-1100",
-        "miles_driven": "0 miles driven",
+        "miles_driven": "50 miles driven",
         "latitude": "35.437811",
         "longitude": "-119.07699",
         "state": "California",
@@ -9520,7 +9520,7 @@
       {
         "event_type": "car_dealerships",
         "id": "3",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "Car for Sale",
         "price": "16,846",
         "model": "2017 Audi Q3 2.0 TFSI Prestige FWD",
@@ -9541,7 +9541,7 @@
       {
         "event_type": "car_dealerships",
         "id": "4",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "Car for Sale",
         "price": "14,995",
         "model": "2016 DODGE CHARGER",
@@ -9550,8 +9550,8 @@
         "phone_number": "(661) 404-4213",
         "miles_driven": "165k miles driven",
         "street": "1220 Brundage Lane,Bakersfield",
-        "latitude": "35.33811",
-        "longitude": "-119.01687",
+        "latitude": "35.35429",
+        "longitude": "-119.01587",
         "state": "California",
         "engine_type": "Gas",
         "state_code": "CA",
@@ -9562,7 +9562,7 @@
       {
         "event_type": "tire_services",
         "id": "5",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "Tire Rentals",
         "price": "199-399",
         "description": "Renting is the new buying, rent for upto 7 days",
@@ -9577,7 +9577,7 @@
       {
         "event_type": "crime",
         "id": "6",
-        "icon_url": "/svgs/Burglary.svg",
+        "icon_url": "/svgs/SMediacrime.svg",
         "title": "Burglary",
         "time": "Nov 26, 2023 | 8:00PM",
         "description": "Stole 40 computers in Maria Hospital",
@@ -9591,7 +9591,7 @@
       {
         "event_type": "car_dealerships",
         "id": "7",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "Car for sale",
         "price": "4,000",
         "model": "2010 Mercedes E Class",
@@ -9612,7 +9612,7 @@
       {
         "event_type": "tire_services",
         "id": "8",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "Tire Services",
         "price": "$50-$100",
         "description": "Offering tire repair and replacement services",
@@ -9627,7 +9627,7 @@
       {
         "event_type": "crime",
         "id": "9",
-        "icon_url": "/svgs/Safety.svg",
+        "icon_url": "/svgs/SMediacrime.svg",
         "title": "Security Alert",
         "time": "Dec 10, 2023 | 9:30AM",
         "description": "Attempted break-in at local convenience store",
@@ -9641,7 +9641,7 @@
       {
         "event_type": "car_dealerships",
         "id": "10",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "Car for Sale",
         "price":"4250",
         "model": "2010 Mercedes E Class",
@@ -9674,9 +9674,9 @@
         "last_seen": "Mar 3, Saint Martinvillle, LA",
         "phone": "Call +1-212-456-7890",
         "contact_person": "Saint Martin Sheriff",
-        "missing_person_img": "",
-        "latitude": "30.1231",
-        "longitude": "91.8295"
+        "missing_person_img": "/svgs/MissingPerson.svg",
+        "latitude": "35.2231",
+        "longitude": "-119.8295"
       },
       {
         "event_type": "missing_persons",
@@ -9709,8 +9709,8 @@
         "phone": "Call +1-661-327-7111",
         "contact_person": "Saint Martin Sheriff",
         "missing_person_img": "/images/missing_holly.png",
-        "latitude": "39.974062",
-        "longitude": "82.961337"
+        "latitude": "35.174062",
+        "longitude": "-119.061337"
       },
       {
         "event_type": "missing_persons",
@@ -9724,7 +9724,7 @@
         "weight": "100 lbs",
         "last_seen": "July 27, Pesante Road, LA",
         "phone": "Call +1-661-861-3110",
-        "contact_person": " Kern Secret Witness Line",
+        "contact_person": " Kern Secret Witness",
         "missing_person_img": "/images/missing_jessica.png",
         "latitude": "35.393528",
         "longitude": "-119.043732"
@@ -9732,7 +9732,7 @@
       {
         "event_type": "rentals",
         "id": "15",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "Rentals",
         "min_price_range": "1,935",
         "max_price_range": "2,935",
@@ -9747,7 +9747,7 @@
       {
         "event_type": "rentals",
         "id": "16",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "Rentals",
         "min_price_range": "1,650",
         "max_price_range": "1,895",
@@ -9762,7 +9762,7 @@
       {
         "event_type": "rentals",
         "id": "17",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "Rentals",
         "min_price_range": "2,180",
         "max_price_range": "2,300",
@@ -9777,7 +9777,7 @@
       {
         "event_type": "rentals",
         "id": "18",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "Rentals",
         "min_price_range": "1,765",
         "max_price_range": "2,305",
@@ -9787,12 +9787,12 @@
         "address": "11200 Harris, Bakersfield, CA 93311",
         "phone": "1(661)387-2445",
         "latitude": "35.30469",
-        "longitude": "119.12673"
+        "longitude": "-119.12673"
       },
       {
         "event_type": "rentals",
         "id": "19",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "Rentals",
         "min_price_range": "1,725",
         "max_price_range": "2,360",
@@ -9801,20 +9801,20 @@
         "review": "11",
         "address": "5601 Coffee Rd, Bakersfield, CA 93308",
         "phone": "1(661)384-7988",
-        "latitude": "35.30469",
-        "longitude": "119.12673"
+        "latitude": "35.40169",
+        "longitude": "-119.15673"
       }
     ],
     "hi": [
       {
         "event_type": "car_dealerships",
         "id": "1",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "गाड़ी बिक्री के लिए",
-        "price": "$5,500 (गैर-बदलनेवाली)",
+        "price": "$5,500",
         "model": "2006 वोल्क्सवेगन टुआरेग",
         "type": "स्पोर्ट्स उपयोगिता 4D",
-        "seller": "रेड फ्लीट ऑटो सेल्स - कैलिफोर्निया के विश्वसनीय कार डीलर",
+        "seller": "रेड फ्लीट ऑटो सेल्स",
         "phone_number": "(702) 414-1000",
         "miles_driven": "121 हजार मील चलाई गई",
         "latitude": "35.3833",
@@ -9826,14 +9826,14 @@
       {
         "event_type": "car_dealerships",
         "id": "2",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "कार बिक्री के लिए",
-        "price": "$32,483 (अपरिष्कृत)",
+        "price": "$32,483",
         "model": "2024 कैमरी SE FWD",
         "type": "सेडान",
         "seller": "नार्थ बेकर्सफील्ड टोयोटा",
         "phone_number": "(661) 615-1100",
-        "miles_driven": "0 मील चलाया गया",
+        "miles_driven": "50 मील चलाया गया",
         "latitude": "35.437811",
         "longitude": "-119.07699",
         "state": "कैलिफोर्निया",
@@ -9846,9 +9846,9 @@
       {
         "event_type": "car_dealerships",
         "id": "3",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "कार बिक्री के लिए",
-        "price": "$16,846 (अपरिष्कृत)",
+        "price": "$16,846",
         "model": "2017 ऑडी Q3 2.0 TFSI प्रेस्टीज़ FWD",
         "type": "सेडान",
         "seller": "नारंजो ऑटो सेल्स",
@@ -9867,17 +9867,17 @@
       {
         "event_type": "car_dealerships",
         "id": "4",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "कार बिक्री के लिए",
-        "price": "$14,995 (अपरिष्कृत)",
+        "price": "$14,995",
         "model": "2016 डॉज चार्जर",
         "type": "सेडान",
         "seller": "डील टाइम ऑटो सेल्स",
         "phone_number": "(661) 404-4213",
         "miles_driven": "165k मील चलाया गया",
         "street": "1220 ब्रंडेज लेन, बेकर्सफील्ड",
-        "latitude": "35.33811",
-        "longitude": "-119.01687",
+        "latitude": "35.35429",
+        "longitude": "-119.01587",
         "state": "कैलिफोर्निया",
         "engine_type": "गैस",
         "state_code": "CA",
@@ -9888,7 +9888,7 @@
       {
         "event_type": "tire_services",
         "id": "5",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "टायर रेंटल",
         "price": "$199-$399",
         "description": "किराए पर लेना नयी खरीदारी है, 7 दिनों तक किराए पर लें",
@@ -9917,7 +9917,7 @@
       {
         "event_type": "car_dealerships",
         "id": "7",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "गाड़ी बिक्री के लिए",
         "price": "$4,000",
         "model": "2010 मर्सिडीज ई क्लास",
@@ -9938,7 +9938,7 @@
       {
         "event_type": "tire_services",
         "id": "8",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "टायर सेवाएँ",
         "price": "$50-$100",
         "description": "टायर मरम्मत और प्रतिस्थापन सेवाएँ प्रदान करते हुए",
@@ -9953,7 +9953,7 @@
       {
         "event_type": "crime",
         "id": "9",
-        "icon_url": "/svgs/Safety.svg",
+        "icon_url": "/svgs/SMediacrime.svg",
         "title": "सुरक्षा अलर्ट",
         "time": "Dec 10, 2023 | 9:30AM",
         "description": "स्थानीय सुविधा स्टोर में तोड़फोड़ का प्रयास",
@@ -9967,7 +9967,7 @@
       {
         "event_type": "car_dealerships",
         "id": "10",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "गाड़ी बिक्री के लिए",
         "price":"4250",
         "model": "2010 मर्सिडीज ई क्लास",
@@ -9998,9 +9998,9 @@
         "last_seen": "मार्च 3, सेंट मार्टिनविल, ला",
         "phone": "+1-212-456-7890 पर कॉल करें",
         "contact_person": "सेंट मार्टिन शेरिफ",
-        "missing_person_img": "",
-        "latitude": "30.1231",
-        "longitude": "91.8295"
+        "missing_person_img": "/svgs/MissingPerson.svg",
+        "latitude": "35.2231",
+        "longitude": "-119.8295"
       },
       {
         "event_type": "missing_persons",
@@ -10033,8 +10033,8 @@
         "phone": "+1-661-327-7111 पर कॉल करें",
         "contact_person": "सेंट मार्टिन शेरिफ",
         "missing_person_img": "/images/missing_holly.png",
-        "latitude": "39.974062",
-        "longitude": "82.961337"
+        "latitude": "35.174062",
+        "longitude": "-119.061337"
       },
       {
         "event_type": "missing_persons",
@@ -10048,7 +10048,7 @@
         "weight": "100 पाउंड",
         "last_seen": "जुलाई 27, पेसांते रोड, ला",
         "phone": "+1-661-861-3110 पर कॉल करें",
-        "contact_person": "कर्न सीक्रेट गवाह लाइन",
+        "contact_person": "कर्न सीक्रेट विटनेस",
         "missing_person_img": "/images/missing_jessica.png",
         "latitude": "35.393528",
         "longitude": "-119.043732"
@@ -10056,7 +10056,7 @@
       {
         "event_type": "rentals",
         "id": "15",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "किराए",
         "min_price_range": "1,935",
         "max_price_range": "2,935",
@@ -10071,7 +10071,7 @@
       {
         "event_type": "rentals",
         "id": "16",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "किराए",
         "min_price_range": "1,650",
         "max_price_range": "1,895",
@@ -10086,7 +10086,7 @@
       {
         "event_type": "rentals",
         "id": "17",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "किराए",
         "min_price_range": "2,180",
         "max_price_range": "2,300",
@@ -10101,7 +10101,7 @@
       {
         "event_type": "rentals",
         "id": "18",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "किराए",
         "min_price_range": "1,765",
         "max_price_range": "2,305",
@@ -10111,12 +10111,12 @@
         "address": "11200 हैरिस, बेकर्सफ़ील्ड, कैलिफोर्निया 93311",
         "phone": "1(661)387-2445",
         "latitude": "35.30469",
-        "longitude": "119.12673"
+        "longitude": "-119.12673"
       },
       {
         "event_type": "rentals",
         "id": "19",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "किराए",
         "min_price_range": "1,725",
         "max_price_range": "2,360",
@@ -10125,20 +10125,20 @@
         "review": "11",
         "address": "5601 कॉफ़ी रोड, बेकर्सफ़ील्ड, कैलिफोर्निया 93308",
         "phone": "1(661)384-7988",
-        "latitude": "35.30469",
-        "longitude": "119.12673"
+        "latitude": "35.40169",
+        "longitude": "-119.15673"
       }
     ],
     "te": [
       {
         "event_type": "car_dealerships",
         "id": "1",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "అమ్మకానికి కారు",
-        "price": "$5,500 (అమర్పులేని)",
+        "price": "$5,500",
         "model": "2006 వోక్స్‌వాగన్ టొయారెగ్",
         "type": "స్పోర్ట్స్ యూటిలిటీ 4D",
-        "seller": "రెడ్ ఫ్లీట్ ఆటో అమ్మకం - కెలిఫోర్నియా నమ్మకం కారు డీలర్",
+        "seller": "రెడ్ ఫ్లీట్ ఆటో అమ్మకం",
         "phone_number": "(702) 414-1000",
         "miles_driven": "121కిలోమీటర్లు డ్రైవ్ చేయబడింది",
         "latitude": "35.3833",
@@ -10150,14 +10150,14 @@
       {
         "event_type": "car_dealerships",
         "id": "2",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "అమ్మకానికి కారు",
-        "price": "$32,483 (పోరాటం లేదు)",
+        "price": "$32,483",
         "model": "2024 క్యామ్రి SE FWD",
         "type": "సిడాన్",
         "seller": "ఉత్తర బేకర్స్ఫీల్డ్ టోయోటా",
         "phone_number": "(661) 615-1100",
-        "miles_driven": "0 మైళ్లు డ్రైవ్ చేయబడినవి",
+        "miles_driven": "50 మైళ్లు డ్రైవ్ చేయబడినవి",
         "latitude": "35.437811",
         "longitude": "-119.07699",
         "state": "కాలిఫోర్నియా",
@@ -10170,9 +10170,9 @@
       {
         "event_type": "car_dealerships",
         "id": "3",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "అమ్మకానికి కారు",
-        "price": "$16,846 (పోరాటం లేదు)",
+        "price": "$16,846",
         "model": "2017 ఓడి Q3 2.0 TFSI ప్రెస్టిజ్ FWD",
         "type": "సిడాన్",
         "seller": "నరాంజో ఆటో విక్రేత",
@@ -10191,17 +10191,17 @@
       {
         "event_type": "car_dealerships",
         "id": "4",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "అమ్మకానికి కారు",
-        "price": "$14,995 (పోరాటం లేదు)",
+        "price": "$14,995",
         "model": "2016 డాడ్జ్ చార్జర్",
         "type": "సిడాన్",
         "seller": "డీల్ టైమ్ ఆటో విక్రేత",
         "phone_number": "(661) 404-4213",
         "miles_driven": "165k మైళ్లు డ్రైవ్ చేయబడినవి",
         "street": "1220 బ్రండేజ్ లేన్, బేకర్స్ఫీల్డ్",
-        "latitude": "35.33811",
-        "longitude": "-119.01687",
+        "latitude": "35.35429",
+        "longitude": "-119.01587",
         "state": "కాలిఫోర్నియా",
         "engine_type": "గ్యాస్",
         "state_code": "CA",
@@ -10212,7 +10212,7 @@
       {
         "event_type": "tire_services",
         "id": "5",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "టైర్ రెంటల్‌లు",
         "price": "$199-$399",
         "description": "అద్దె చేయడం కొత్త కొత్తది, 7 రోజుల కోసం అద్దె చేయండి",
@@ -10241,7 +10241,7 @@
       {
         "event_type": "car_dealerships",
         "id": "7",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "అమ్మకానికి కారు",
         "price": "$4,000",
         "model": "2010 మర్సిడీస్ ఈ క్లాస్",
@@ -10262,7 +10262,7 @@
       {
         "event_type": "tire_services",
         "id": "8",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "టైర్ సేవలు",
         "price": "$50-$100",
         "description": "టైర్ రిపేరు మరియు మార్పు సేవలు అందించుటకు",
@@ -10277,7 +10277,7 @@
       {
         "event_type": "crime",
         "id": "9",
-        "icon_url": "/svgs/Safety.svg",
+        "icon_url": "/svgs/SMediacrime.svg",
         "title": "భద్రత హెచ్చరిక",
         "time": "డిసెంబరు 10, 2023 | 9:30AM",
         "description": "స్థానిక సులభ సర్వీస్ లో ప్రయత్నించబడింది",
@@ -10291,7 +10291,7 @@
       {
         "event_type": "car_dealerships",
         "id": "10",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "అమ్మకానికి కారు",
         "price":"4250",
         "model": "2010 మర్సిడీస్ ఈ క్లాస్",
@@ -10322,9 +10322,9 @@
         "last_seen": "మార్చి 3, సెయింట్ మార్టిన్విల్లే, LA",
         "phone": "+1-212-456-7890కి కాల్ చేయండి",
         "contact_person": "సెయింట్ మార్టిన్ షెరిఫ్",
-        "missing_person_img": "",
-        "latitude": "30.1231",
-        "longitude": "91.8295"
+        "missing_person_img": "/svgs/MissingPerson.svg",
+        "latitude": "35.2231",
+        "longitude": "-119.8295"
       },
       {
         "event_type": "missing_persons",
@@ -10357,8 +10357,8 @@
         "phone": "+1-661-327-7111కి కాల్ చేయండి",
         "contact_person": "సెయింట్ మార్టిన్ షెరిఫ్",
         "missing_person_img": "/images/missing_holly.png",
-        "latitude": "39.974062",
-        "longitude": "82.961337"
+        "latitude": "35.174062",
+        "longitude": "-119.061337"
       },
       {
         "event_type": "missing_persons",
@@ -10372,7 +10372,7 @@
         "weight": "100 పౌండ్లు",
         "last_seen": "జూలై 27, పెసాంటే రోడ్, LA",
         "phone": "+1-661-861-3110కి కాల్ చేయండి",
-        "contact_person": "కెర్న్ సీక్రెట్ సాక్షి లైన్",
+        "contact_person": "కేర్న్ సీక్రెట్ విట్‌నెస్",
         "missing_person_img": "/images/missing_jessica.png",
         "latitude": "35.393528",
         "longitude": "-119.043732"
@@ -10380,7 +10380,7 @@
       {
         "event_type": "rentals",
         "id": "15",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "రెంటల్స్",
         "min_price_range": "1,935",
         "max_price_range": "2,935",
@@ -10395,7 +10395,7 @@
       {
         "event_type": "rentals",
         "id": "16",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "రెంటల్స్",
         "min_price_range": "1,650",
         "max_price_range": "1,895",
@@ -10410,7 +10410,7 @@
       {
         "event_type": "rentals",
         "id": "17",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "రెంటల్స్",
         "min_price_range": "2,180",
         "max_price_range": "2,300",
@@ -10425,7 +10425,7 @@
       {
         "event_type": "rentals",
         "id": "18",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "రెంటల్స్",
         "min_price_range": "1,765",
         "max_price_range": "2,305",
@@ -10435,12 +10435,12 @@
         "address": "11200 హెర్రిస్, బేకర్స్‌ఫీల్డ్, CA 93311",
         "phone": "1(661)387-2445",
         "latitude": "35.30469",
-        "longitude": "119.12673"
+        "longitude": "-119.12673"
       },
       {
         "event_type": "rentals",
         "id": "19",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "రెంటల్స్",
         "min_price_range": "1,725",
         "max_price_range": "2,360",
@@ -10449,20 +10449,20 @@
         "review": "11",
         "address": "5601 కాఫీ రోడ్, బేకర్స్‌ఫీల్డ్, CA 93308",
         "phone": "1(661)384-7988",
-        "latitude": "35.30469",
-        "longitude": "119.12673"
+        "latitude": "35.40169",
+        "longitude": "-119.15673"
       }
     ],
     "ml": [
       {
         "event_type": "car_dealerships",
         "id": "1",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "കാർ വിൽപ്പനയ്ക്ക്",
-        "price": "$5,500 (പരിഗണിക്കുകയില്ല)",
+        "price": "$5,500",
         "model": "2006 വോൾക്സ്വഗൺ ടൊയറെഗ്",
         "type": "സ്പോർട്സ് യൂട്ടിലിറ്റി 4D",
-        "seller": "റെഡ് ഫ്ലീറ്റ് ഓട്ടോ സെൽസ്- കാലിഫോർണിയയുടെ വിശ്വസ്ത വണ്ടി വ്യാപാരി",
+        "seller": "റെഡ് ഫ്ലീറ്റ് ഓട്ടോ സെൽസ്",
         "phone_number": "(702) 414-1000",
         "miles_driven": "121k മൈൽകൾ ഓടി",
         "latitude": "35.3833",
@@ -10474,14 +10474,14 @@
       {
         "event_type": "car_dealerships",
         "id": "2",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "കാർ വിൽപ്പനയ്ക്ക്",
-        "price": "$32,483 (ചർച്ച ചെയ്യാനാവില്ല)",
+        "price": "$32,483",
         "model": "2024 ക്യാമ്രി SE FWD",
         "type": "സെഡാൻ",
         "seller": "നോർത്ത് ബേക്കർസ്ഫീൽഡ് ടൊയോട്ട",
         "phone_number": "(661) 615-1100",
-        "miles_driven": "0 മൈലുകൾ ഓടിച്ചിരിക്കുന്നു",
+        "miles_driven": "50 മൈലുകൾ ഓടിച്ചിരിക്കുന്നു",
         "latitude": "35.437811",
         "longitude": "-119.07699",
         "state": "കാലിഫോർണിയ",
@@ -10494,9 +10494,9 @@
       {
         "event_type": "car_dealerships",
         "id": "3",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "കാർ വിൽപ്പനയ്ക്ക്",
-        "price": "$16,846 (ചർച്ച ചെയ്യാനാവില്ല)",
+        "price": "$16,846",
         "model": "2017 ഓഡി Q3 2.0 TFSI പ്രെസ്റ്റീജ് FWD",
         "type": "സെഡാൻ",
         "seller": "നാരന്ജോ ഓട്ടോ സെയിൽസ്",
@@ -10515,17 +10515,17 @@
       {
         "event_type": "car_dealerships",
         "id": "4",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "കാർ വിൽപ്പനയ്ക്ക്",
-        "price": "$14,995 (ചർച്ച ചെയ്യാനാവില്ല)",
+        "price": "$14,995",
         "model": "2016 ഡോഡ്ജ് ചാർജർ",
         "type": "സെഡാൻ",
         "seller": "ഡീൽ ടൈം ഓട്ടോ സെയിൽസ്",
         "phone_number": "(661) 404-4213",
         "miles_driven": "165k മൈലുകൾ ഓടിച്ചിരിക്കുന്നു",
         "street": "1220 ബ്രണ്ടേജ് ലെയ്ൻ, ബേക്കർസ്ഫീൽഡ്",
-        "latitude": "35.33811",
-        "longitude": "-119.01687",
+        "latitude": "35.35429",
+        "longitude": "-119.01587",
         "state": "കാലിഫോർണിയ",
         "engine_type": "ഗ്യാസ്",
         "state_code": "CA",
@@ -10536,7 +10536,7 @@
       {
         "event_type": "tire_services",
         "id": "5",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "ടയർ റെന്റൽസ്",
         "price": "$199-$399",
         "description": "വാടകയാണ് പുതിയ വാങ്ങിക്കൽ, ഒരു ആഴ്ചക്കിതാഴേക്ക് വാടക",
@@ -10565,7 +10565,7 @@
       {
         "event_type": "car_dealerships",
         "id": "7",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "കാർ വിൽപ്പനയ്ക്ക്",
         "price": "$4,000",
         "model": "2010 മെർസിഡസ് ഇ ക്ലാസ്",
@@ -10586,7 +10586,7 @@
       {
         "event_type": "tire_services",
         "id": "8",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "ടയർ സർവീസുകൾ",
         "price": "$50-$100",
         "description": "ടയർ പരിഷ്കരണവും മാറ്റവും സർവീസുകൾ സൗജന്യമാക്കുന്നു",
@@ -10601,7 +10601,7 @@
       {
         "event_type": "crime",
         "id": "9",
-        "icon_url": "/svgs/Safety.svg",
+        "icon_url": "/svgs/SMediacrime.svg",
         "title": "സുരക്ഷാ അലർട്ട്",
         "time": "ഡിസം 10, 2023 | 9:30AM",
         "description": "സ്ഥാനീയ സുവിനീയന്‍സ് സ്റ്റോർയിലേക്ക് താക്കേര്‍ നൽകി",
@@ -10615,7 +10615,7 @@
       {
         "event_type": "car_dealerships",
         "id": "10",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "കാർ വിൽപ്പനയ്ക്ക്",
         "price":"4250",
         "model": "2010 മെർസിഡസ് ഇ ക്ലാസ്",
@@ -10646,9 +10646,9 @@
         "last_seen": "മാർ 3, സെയ്ന്റ് മാർട്ടിൻവില്ലെ, ലൂയിസിയാ",
         "phone": "വിളിക്കുക +1-212-456-7890",
         "contact_person": "സെയ്ന്റ് മാർട്ടിൻ ഷെരിഫ്",
-        "missing_person_img": "",
-        "latitude": "30.1231",
-        "longitude": "91.8295"
+        "missing_person_img": "/svgs/MissingPerson.svg",
+        "latitude": "35.2231",
+        "longitude": "-119.8295"
       },
       {
         "event_type": "missing_persons",
@@ -10681,8 +10681,8 @@
         "phone": "വിളിക്കുക +1-661-327-7111",
         "contact_person": "സെയ്ന്റ് മാർട്ടിൻ ഷെരിഫ്",
         "missing_person_img": "/images/മറക്കപ്പെട്ട_ഹോളി.png",
-        "latitude": "39.974062",
-        "longitude": "82.961337"
+        "latitude": "35.174062",
+        "longitude": "-119.061337"
       },
       {
         "event_type": "missing_persons",
@@ -10696,7 +10696,7 @@
         "weight": "100 പൗണ്ട്",
         "last_seen": "ജൂൺ 27, പെസാൻറെ റോഡ്, ലൂയിസിയാ",
         "phone": "വിളിക്കുക +1-661-861-3110",
-        "contact_person": "കേര്‍ണ്‍ സീക്രട്ട് സാക്കിൾ വിറ്റ്നസ്",
+        "contact_person": "കേൺ സീക്രട്ട് വിറ്റ്നസ്",
         "missing_person_img": "/images/മറക്കപ്പെട്ട_ജെസിക്ക.png",
         "latitude": "32.4666",
         "longitude": "99.7331"
@@ -10704,7 +10704,7 @@
       {
         "event_type": "rentals",
         "id": "15",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "വാടക",
         "min_price_range": "1,935",
         "max_price_range": "2,935",
@@ -10719,7 +10719,7 @@
       {
         "event_type": "rentals",
         "id": "16",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "വാടക",
         "min_price_range": "1,650",
         "max_price_range": "1,895",
@@ -10734,7 +10734,7 @@
       {
         "event_type": "rentals",
         "id": "17",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "വാടക",
         "min_price_range": "2,180",
         "max_price_range": "2,300",
@@ -10749,7 +10749,7 @@
       {
         "event_type": "rentals",
         "id": "18",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "വാടക",
         "min_price_range": "1,765",
         "max_price_range": "2,305",
@@ -10759,12 +10759,12 @@
         "address": "11200 ഹാരിസ്, ബേക്കേഴ്സ്‌ഫീൽഡ്, CA 93311",
         "phone": "1(661)387-2445",
         "latitude": "35.30469",
-        "longitude": "119.12673"
+        "longitude": "-119.12673"
       },
       {
         "event_type": "rentals",
         "id": "19",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "വാടക",
         "min_price_range": "1,725",
         "max_price_range": "2,360",
@@ -10773,20 +10773,20 @@
         "review": "11",
         "address": "5601 കോഫി റോഡ്, ബേക്കേഴ്സ്‌ഫീൽഡ്, CA 93308",
         "phone": "1(661)384-7988",
-        "latitude": "35.30469",
-        "longitude": "119.12673"
+        "latitude": "35.40169",
+        "longitude": "-119.15673"
       }
     ],
     "kn": [
       {
         "event_type": "car_dealerships",
         "id": "1",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "ಮಾರಾಟಕ್ಕಾಗಿ ಕಾರು",
-        "price": "$5,500 (ಚರ್ಚಿಸಬಲ್ಲದು)",
+        "price": "$5,500",
         "model": "2006 ಫೋಕ್ಸ್‌ವ್ಯಾಗನ್ ಟೋಯಾರೆಗ್",
         "type": "ಸ್ಪೋರ್ಟ್ಸ್ ಯೂಟಿಲಿಟಿ 4D",
-        "seller": "ರೆಡ್ ಫ್ಲೀಟ್ ಆಟೋ ಸೇಲ್ಸ್-ಕ್ಯಾಲಿಫೋರ್ನಿಯಾದ ವಿಶ್ವಾಸಾರ್ಹ ಕಾರ್ ಡೀಲರ್",
+        "seller": "ರೆಡ್ ಫ್ಲೀಟ್ ಆಟೋ ಸೇಲ್ಸ್",
         "phone_number": "(702) 414-1000",
         "miles_driven": "121k ಮೈಲುಗಳ ಚಾಲನೆ",
         "latitude": "35.3833",
@@ -10800,14 +10800,14 @@
       {
         "event_type": "car_dealerships",
         "id": "2",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "ಮಾರಾಟಕ್ಕೆ ಕಾರು",
-        "price": "$32,483 (ಸಂಶೋಧನೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ)",
+        "price": "$32,483",
         "model": "2024 ಕ್ಯಾಮ್ರಿ SE FWD",
         "type": "ಸೆಡಾನ್",
         "seller": "ನಾರ್ಥ್ ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್ ಟೊಯೋಟಾ",
         "phone_number": "(661) 615-1100",
-        "miles_driven": "0 ಮೈಲುಗಳು ಚಾಲನೆ ಮಾಡಲಾಗಿದೆ",
+        "miles_driven": "50 ಮೈಲುಗಳು ಚಾಲನೆ ಮಾಡಲಾಗಿದೆ",
         "latitude": "35.437811",
         "longitude": "-119.07699",
         "state": "ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ",
@@ -10820,9 +10820,9 @@
       {
         "event_type": "car_dealerships",
         "id": "3",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "ಮಾರಾಟಕ್ಕೆ ಕಾರು",
-        "price": "$16,846 (ಸಂಶೋಧನೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ)",
+        "price": "$16,846",
         "model": "2017 ಆಡಿ Q3 2.0 TFSI ಪ್ರೆಸ್ಟೀಜ್ FWD",
         "type": "ಸೆಡಾನ್",
         "seller": "ನಾರಂಜೊ ಆಟೋ ಸೇಲ್ಸ್",
@@ -10841,17 +10841,17 @@
       {
         "event_type": "car_dealerships",
         "id": "4",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "ಮಾರಾಟಕ್ಕೆ ಕಾರು",
-        "price": "$14,995 (ಸಂಶೋಧನೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ)",
+        "price": "$14,995",
         "model": "2016 ಡೋಜ್ ಚಾರ್ಜರ್",
         "type": "ಸೆಡಾನ್",
         "seller": "ಡೀಲ್ ಟೈಮ್ ಆಟೋ ಸೇಲ್ಸ್",
         "phone_number": "(661) 404-4213",
         "miles_driven": "165k ಮೈಲುಗಳು ಚಾಲನೆ ಮಾಡಲಾಗಿದೆ",
         "street": "1220 ಬ್ರಂಡೇಜ್ ಲೇನ್, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್",
-        "latitude": "35.33811",
-        "longitude": "-119.01687",
+        "latitude": "35.35429",
+        "longitude": "-119.01587",
         "state": "ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ",
         "engine_type": "ಗ್ಯಾಸ್",
         "state_code": "CA",
@@ -10862,7 +10862,7 @@
       {
         "event_type": "tire_services",
         "id": "5",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "ಟೈರ್ ವಾಡಿಕೆ",
         "price": "$199-$399",
         "description": "ಇದು ಹೊಸದಾಗಿ ಖರೀದಿಸುವುದು, 7 ದಿನಗಳ ವರೆಗೆ ವಾಡಿಕೆ",
@@ -10891,7 +10891,7 @@
       {
         "event_type": "car_dealerships",
         "id": "7",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "ಮಾರಾಟಕ್ಕಾಗಿ ಕಾರು",
         "price": "$4,000",
         "model": "2010 ಮೆರ್ಸಿಡಿಸ್ ಇ ಕ್ಲಾಸ್",
@@ -10912,7 +10912,7 @@
       {
         "event_type": "tire_services",
         "id": "8",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "ಟೈರ್ ಸೇವೆಗಳು",
         "price": "$50-$100",
         "description": "ಟೈರ್ ರಿಪೇರ್ ಮತ್ತು ಬದಲಾವಣೆ ಸೇವೆಗಳು",
@@ -10927,7 +10927,7 @@
       {
         "event_type": "crime",
         "id": "9",
-        "icon_url": "/svgs/Safety.svg",
+        "icon_url": "/svgs/SMediacrime.svg",
         "title": "ಭದ್ರತಾ ಎಚ್ಚರಿಕೆ",
         "time": "ಡಿಸೆಂಬರ್ 10, 2023 | 9:30AM",
         "description": "ಸ್ಥಳೀಯ ಸೌಲಭ್ಯ ಅಂಗಡಿಯಲ್ಲಿ ಕಳ್ಳತನದ ಪ್ರಯತ್ನ",
@@ -10941,7 +10941,7 @@
       {
         "event_type": "car_dealerships",
         "id": "10",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "ಕಾರ್ ಮೆಂಟನ್ಸ್ ಸೇವೆ",
         "price":"4250",
         "model": "2010 ಮೆರ್ಸಿಡಿಸ್ ಇ ಕ್ಲಾಸ್",
@@ -10974,9 +10974,9 @@
         "last_seen": "ಮಾರ್ಚ್ 3, ಸೆಂಟ್ ಮಾರ್ಟಿನ್ವಿಲ್ಲೆ, ಎಲ್‌ಎ",
         "phone": "ಕರೆ ಮಾಡಿ +1-212-456-7890",
         "contact_person": "ಸೆಂಟ್ ಮಾರ್ಟಿನ್ ಶೆರಿಫ್",
-        "missing_person_img": "",
-        "latitude": "30.1231",
-        "longitude": "91.8295"
+        "missing_person_img": "/svgs/MissingPerson.svg",
+        "latitude": "35.2231",
+        "longitude": "-119.8295"
       },
       {
         "event_type": "missing_persons",
@@ -11009,8 +11009,8 @@
         "phone": "ಕರೆ ಮಾಡಿ +1-661-327-7111",
         "contact_person": "ಸೆಂಟ್ ಮಾರ್ಟಿನ್ ಶೆರಿಫ್",
         "missing_person_img": "/images/missing_holly.png",
-        "latitude": "39.974062",
-        "longitude": "82.961337"
+        "latitude": "35.174062",
+        "longitude": "-119.061337"
       },
       {
         "event_type": "missing_persons",
@@ -11024,7 +11024,7 @@
         "weight": "100 ಪೌಂಡ್",
         "last_seen": "ಜುಲೈ 27, ಪೆಸಾಂಟೆ ರಸ್ತೆಯ, ಎಲ್‌ಎ",
         "phone": "ಕರೆ ಮಾಡಿ +1-661-861-3110",
-        "contact_person": "ಕೆರ್ಣ್ ಸೀಕ್ರೆಟ್ ವಿಟ್ನೆಸ್ ಲೈನ್",
+        "contact_person": "ಕೆರ್ನ್ ಸೀಕ್ರೆಟ್ ವಿಟ್ನೆಸ್",
         "missing_person_img": "/images/missing_jessica.png",
         "latitude": "35.393528",
         "longitude": "-119.043732"
@@ -11032,7 +11032,7 @@
       {
         "event_type": "rentals",
         "id": "15",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "ವಾಡಿಕೆ",
         "min_price_range": "1,935",
         "max_price_range": "2,935",
@@ -11047,7 +11047,7 @@
       {
         "event_type": "rentals",
         "id": "16",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "ವಾಡಿಕೆ",
         "min_price_range": "1,650",
         "max_price_range": "1,895",
@@ -11062,7 +11062,7 @@
       {
         "event_type": "rentals",
         "id": "17",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "ವಾಡಿಕೆ",
         "min_price_range": "2,180",
         "max_price_range": "2,300",
@@ -11077,7 +11077,7 @@
       {
         "event_type": "rentals",
         "id": "18",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "ವಾಡಿಕೆ",
         "min_price_range": "1,765",
         "max_price_range": "2,305",
@@ -11087,12 +11087,12 @@
         "address": "11200 ಹ್ಯಾರಿಸ್, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, CA 93311",
         "phone": "1(661)387-2445",
         "latitude": "35.30469",
-        "longitude": "119.12673"
+        "longitude": "-119.12673"
       },
       {
         "event_type": "rentals",
         "id": "19",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "ವಾಡಿಕೆ",
         "min_price_range": "1,725",
         "max_price_range": "2,360",
@@ -11101,20 +11101,20 @@
         "review": "11",
         "address": "5601 ಕಾಫಿ ರಸ್ತೆ, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, CA 93308",
         "phone": "1(661)384-7988",
-        "latitude": "35.30469",
-        "longitude": "119.12673"
+        "latitude": "35.40169",
+        "longitude": "-119.15673"
       }
     ],
     "ta": [
       {
         "event_type": "car_dealerships",
         "id": "1",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "வாடிக்கைக்கு கார்",
-        "price": "$5,500 (போல் வேண்டாம்)",
+        "price": "$5,500",
         "model": "2006 வோல்க்ஸ்வேகன் டுவாரெக்",
         "type": "சார்பாக சேவை 4D",
-        "seller": "ரெட் ஃப்ளீட் ஆட்டோ விற்பனைக் கார் வாடிக்கையாளர்-காலிபோர்னியாவின் நம்பகமான கார் விற்பனையாளர்",
+        "seller": "ரெட் ப்ளீட் ஆட்டோ சேல்ஸ்",
         "phone_number": "(702) 414-1000",
         "miles_driven": "121k மைல்கள் ஓடி வந்தது",
         "latitude": "35.3833",
@@ -11126,14 +11126,14 @@
       {
         "event_type": "car_dealerships",
         "id": "2",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "விற்பனைக்கான கார்",
-        "price": "$32,483 (சரிசெய்ய முடியாது)",
+        "price": "$32,483",
         "model": "2024 கேம்ரி எஸ்இ எஃப்டபிள்யூடி",
         "type": "செடான்",
         "seller": "நார்த் பேக்கர்ஸ்ஃபீல்டு டொயோட்டா",
         "phone_number": "(661) 615-1100",
-        "miles_driven": "0 மைல்கள் ஓட்டப்பட்டது",
+        "miles_driven": "50 மைல்கள் ஓட்டப்பட்டது",
         "latitude": "35.437811",
         "longitude": "-119.07699",
         "state": "காலிஃபோர்னியா",
@@ -11146,9 +11146,9 @@
       {
         "event_type": "car_dealerships",
         "id": "3",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "விற்பனைக்கான கார்",
-        "price": "$16,846 (சரிசெய்ய முடியாது)",
+        "price": "$16,846",
         "model": "2017 ஆடி க்யூ3 2.0 டிஎஃப்எஸ்ஐ பிரஸ்டீஜ் எஃப்டபிள்யூடி",
         "type": "செடான்",
         "seller": "நரஞ்சோ ஆட்டோ சேல்ஸ்",
@@ -11167,17 +11167,17 @@
       {
         "event_type": "car_dealerships",
         "id": "4",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "விற்பனைக்கான கார்",
-        "price": "$14,995 (சரிசெய்ய முடியாது)",
+        "price": "$14,995",
         "model": "2016 டாட்ஜ் சார்ஜர்",
         "type": "செடான்",
         "seller": "டீல் டைம் ஆட்டோ சேல்ஸ்",
         "phone_number": "(661) 404-4213",
         "miles_driven": "165k மைல்கள் ஓட்டப்பட்டது",
         "street": "1220 ப்ரண்டேஜ் லேன், பேக்கர்ஸ்ஃபீல்டு",
-        "latitude": "35.33811",
-        "longitude": "-119.01687",
+        "latitude": "35.35429",
+        "longitude": "-119.01587",
         "state": "காலிஃபோர்னியா",
         "engine_type": "எரிபொருள்",
         "state_code": "CA",
@@ -11188,7 +11188,7 @@
       {
         "event_type": "tire_services",
         "id": "5",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "பட்டை வாடகைகள்",
         "price": "$199-$399",
         "description": "வாங்குவது புதிதாக வாங்கு, 7 நாட்களுக்கு வாடகைகள்",
@@ -11217,7 +11217,7 @@
       {
         "event_type": "car_dealerships",
         "id": "7",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "வாடிக்கைக்கு கார்",
         "price": "$4,000",
         "model": "2010 மெர்சீடீஸ் E கிளாஸ்",
@@ -11238,7 +11238,7 @@
       {
         "event_type": "tire_services",
         "id": "8",
-        "icon_url": "/svgs/ClothesPattern.svg",
+        "icon_url": "/svgs/SMediaClothes.svg",
         "title": "சர்விஸ் கார்கள்",
         "price": "$50-$100",
         "description": "தேடல் கார் சேவைகள் மற்றும் மாற்றத்துக்கள் கொடுக்கப்படுகின்றன",
@@ -11253,7 +11253,7 @@
       {
         "event_type": "crime",
         "id": "9",
-        "icon_url": "/svgs/Safety.svg",
+        "icon_url": "/svgs/SMediacrime.svg",
         "title": "பாதுகாப்பு எச்சரிக்கை",
         "time": "டிசம்பர் 10, 2023 | காலை 9:30",
         "description": "உள்நுழையாத மூடத்தில் உள்ள சுற்று திறக்கப்பட்டது",
@@ -11267,7 +11267,7 @@
       {
         "event_type": "car_dealerships",
         "id": "10",
-        "icon_url": "/svgs/CarForSale.svg",
+        "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "கார் பராமரிப்பு சேவை",
         "price":"4250",
         "model": "2010 மெர்சீடீஸ் E கிளாஸ்",
@@ -11298,9 +11298,9 @@
         "last_seen": "மார்ச் 3, செயிண்ட் மார்ட்டின்வில், லூசியா",
         "phone": "+1-212-456-7890 ஐ அழைக்கவும்",
         "contact_person": "செயிண்ட் மார்ட்டின் ஷெரிஃப்",
-        "missing_person_img": "",
-        "latitude": "30.1231",
-        "longitude": "91.8295"
+        "missing_person_img": "/svgs/MissingPerson.svg",
+        "latitude": "35.2231",
+        "longitude": "-119.8295"
       },
       {
         "event_type": "missing_persons",
@@ -11333,8 +11333,8 @@
         "phone": "+1-661-327-7111 ஐ அழைக்கவும்",
         "contact_person": "செயிண்ட் மார்ட்டின் ஷெரிஃப்",
         "missing_person_img": "/images/missing_holly.png",
-        "latitude": "39.974062",
-        "longitude": "82.961337"
+        "latitude": "35.174062",
+        "longitude": "-119.061337"
       },
       {
         "event_type": "missing_persons",
@@ -11348,7 +11348,7 @@
         "weight": "100 பவுண்டு",
         "last_seen": "ஜூலை 27, பெசாண்டி ரோடு, லூசியா",
         "phone": "+1-661-861-3110 ஐ அழைக்கவும்",
-        "contact_person": "கேர்ன் சிக்ரெட் விட்னஸ் லைன்",
+        "contact_person": "கேர்ன் சீக்ரெட் விட்னஸ்",
         "missing_person_img": "/images/missing_jessica.png",
         "latitude": "35.393528",
         "longitude": "-119.043732"
@@ -11356,7 +11356,7 @@
       {
         "event_type": "rentals",
         "id": "15",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "வாடகைகள்",
         "min_price_range": "1,935",
         "max_price_range": "2,935",
@@ -11371,7 +11371,7 @@
       {
         "event_type": "rentals",
         "id": "16",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "வாடகைகள்",
         "min_price_range": "1,650",
         "max_price_range": "1,895",
@@ -11386,7 +11386,7 @@
       {
         "event_type": "rentals",
         "id": "17",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "வாடகைகள்",
         "min_price_range": "2,180",
         "max_price_range": "2,300",
@@ -11401,7 +11401,7 @@
       {
         "event_type": "rentals",
         "id": "18",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "வாடகைகள்",
         "min_price_range": "1,765",
         "max_price_range": "2,305",
@@ -11411,12 +11411,12 @@
         "address": "11200 ஹெரிஸ், பேக்கர்ஸ்ஃபீல்ட், சாலிஃபோர்னியா 93311",
         "phone": "1(661)387-2445",
         "latitude": "35.30469",
-        "longitude": "119.12673"
+        "longitude": "-119.12673"
       },
       {
         "event_type": "rentals",
         "id": "19",
-        "icon_url": "",
+        "icon_url": "/svgs/SMediaHomeRent.svg",
         "title": "வாடகைகள்",
         "min_price_range": "1,725",
         "max_price_range": "2,360",
@@ -11425,8 +11425,8 @@
         "review": "11",
         "address": "5601 காஃபீ ரோடு, பேக்கர்ஸ்ஃபீல்ட், சாலிஃபோர்னியா 93308",
         "phone": "1(661)384-7988",
-        "latitude": "35.30469",
-        "longitude": "119.12673"
+        "latitude": "35.40169",
+        "longitude": "-119.15673"
       }
     ]
   }
