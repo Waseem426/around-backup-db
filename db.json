@@ -26,7 +26,7 @@
           {
             "product_name": "Midgrade",
             "cash_price": 4.9,
-            "credit_card_price": 5.0,
+            "credit_card_price": 5,
             "grade": 87
           },
           {
@@ -80,7 +80,7 @@
           {
             "product_name": "Premium",
             "cash_price": 5.9,
-            "credit_card_price": 6.0,
+            "credit_card_price": 6,
             "grade": 91
           }
         ]
@@ -122,7 +122,7 @@
           {
             "product_name": "Premium",
             "cash_price": 5.8,
-            "credit_card_price": 6.0,
+            "credit_card_price": 6,
             "grade": 91
           }
         ]
@@ -139,7 +139,7 @@
         "longitude": -119.0384,
         "open": true,
         "timing": "Open 24 hours",
-        "ratings": 4.0,
+        "ratings": 4,
         "payment_mode": "Cash",
         "logo_url": "/svgs/arcologo.svg",
         "products": [
@@ -235,7 +235,7 @@
           },
           {
             "product_name": "Regular",
-            "cash_price": 5.0,
+            "cash_price": 5,
             "credit_card_price": 5.1,
             "grade": 90
           },
@@ -265,7 +265,7 @@
         "longitude": -119.04978,
         "open": true,
         "timing": "Open 24 hours",
-        "ratings": 4.0,
+        "ratings": 4,
         "payment_mode": "Cash",
         "logo_url": "/svgs/arcologo.svg",
         "products": [
@@ -448,7 +448,7 @@
           {
             "product_name": "मिडग्रेड",
             "cash_price": 4.9,
-            "credit_card_price": 5.0,
+            "credit_card_price": 5,
             "grade": 87
           },
           {
@@ -603,7 +603,7 @@
         "longitude": -119.0384,
         "open": true,
         "timing": "24 घंटे खुला है",
-        "ratings": 4.0,
+        "ratings": 4,
         "payment_mode": "कैश",
         "logo_url": "/svgs/arcologo.svg",
         "products": [
@@ -657,7 +657,7 @@
           },
           {
             "product_name": "रेगुलर",
-            "cash_price": 5.0,
+            "cash_price": 5,
             "credit_card_price": 5.1,
             "grade": 90
           },
@@ -687,7 +687,7 @@
         "longitude": -119.04978,
         "open": true,
         "timing": "24 घंटे खुला है",
-        "ratings": 4.0,
+        "ratings": 4,
         "payment_mode": "कैश",
         "logo_url": "/svgs/arcologo.svg",
         "products": [
@@ -870,7 +870,7 @@
           {
             "product_name": "మిడ్గ్రేడ్",
             "cash_price": 4.9,
-            "credit_card_price": 5.0,
+            "credit_card_price": 5,
             "grade": 87
           },
           {
@@ -924,7 +924,7 @@
           {
             "product_name": "ప్రీమియం",
             "cash_price": 5.9,
-            "credit_card_price": 6.0,
+            "credit_card_price": 6,
             "grade": 91
           }
         ]
@@ -966,7 +966,7 @@
           {
             "product_name": "ప్రీమియం",
             "cash_price": 5.8,
-            "credit_card_price": 6.0,
+            "credit_card_price": 6,
             "grade": 91
           }
         ]
@@ -983,7 +983,7 @@
         "longitude": -119.0384,
         "open": true,
         "timing": "24 గంటల తెరపటిని",
-        "ratings": 4.0,
+        "ratings": 4,
         "payment_mode": "నగదు",
         "logo_url": "/svgs/arcologo.svg",
         "products": [
@@ -1079,7 +1079,7 @@
           },
           {
             "product_name": "రెగ్యులర్",
-            "cash_price": 5.0,
+            "cash_price": 5,
             "credit_card_price": 5.1,
             "grade": 90
           },
@@ -1109,7 +1109,7 @@
         "longitude": -119.04978,
         "open": true,
         "timing": "24 గంటల తెరపటిని",
-        "ratings": 4.0,
+        "ratings": 4,
         "payment_mode": "నగదు",
         "logo_url": "/svgs/arcologo.svg",
         "products": [
@@ -1292,7 +1292,7 @@
           {
             "product_name": "മിഡ്ഗ്രേഡ്",
             "cash_price": 4.9,
-            "credit_card_price": 5.0,
+            "credit_card_price": 5,
             "grade": 87
           },
           {
@@ -1346,7 +1346,7 @@
           {
             "product_name": "പ്രീമിയം",
             "cash_price": 5.9,
-            "credit_card_price": 6.0,
+            "credit_card_price": 6,
             "grade": 91
           }
         ]
@@ -1388,7 +1388,7 @@
           {
             "product_name": "പ്രീമിയം",
             "cash_price": 5.8,
-            "credit_card_price": 6.0,
+            "credit_card_price": 6,
             "grade": 91
           }
         ]
@@ -1405,7 +1405,7 @@
         "longitude": -119.0384,
         "open": true,
         "timing": "24 മണിക്കൂർ തുറന്ന്",
-        "ratings": 4.0,
+        "ratings": 4,
         "payment_mode": "നകം",
         "logo_url": "/svgs/arcologo.svg",
         "products": [
@@ -1501,7 +1501,7 @@
           },
           {
             "product_name": "റെഗ്യുലർ",
-            "cash_price": 5.0,
+            "cash_price": 5,
             "credit_card_price": 5.1,
             "grade": 90
           },
@@ -1531,7 +1531,7 @@
         "longitude": -119.04978,
         "open": true,
         "timing": "24 മണിക്കൂർ തുറന്ന്",
-        "ratings": 4.0,
+        "ratings": 4,
         "payment_mode": "നകം",
         "logo_url": "/svgs/arcologo.svg",
         "products": [
@@ -1714,7 +1714,7 @@
           {
             "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
             "cash_price": 4.9,
-            "credit_card_price": 5.0,
+            "credit_card_price": 5,
             "grade": 87
           },
           {
@@ -1768,7 +1768,7 @@
           {
             "product_name": "ಪ್ರೀಮಿಯಂ",
             "cash_price": 5.9,
-            "credit_card_price": 6.0,
+            "credit_card_price": 6,
             "grade": 91
           }
         ]
@@ -1810,7 +1810,7 @@
           {
             "product_name": "ಪ್ರೀಮಿಯಂ",
             "cash_price": 5.8,
-            "credit_card_price": 6.0,
+            "credit_card_price": 6,
             "grade": 91
           }
         ]
@@ -1827,7 +1827,7 @@
         "longitude": -119.0384,
         "open": true,
         "timing": "24 ಗಂಟೆಗಳ ತೆರೆ",
-        "ratings": 4.0,
+        "ratings": 4,
         "payment_mode": "ನಗದು",
         "logo_url": "/svgs/arcologo.svg",
         "products": [
@@ -1923,7 +1923,7 @@
           },
           {
             "product_name": "ನಿಯಮಿತ",
-            "cash_price": 5.0,
+            "cash_price": 5,
             "credit_card_price": 5.1,
             "grade": 90
           },
@@ -1953,7 +1953,7 @@
         "longitude": -119.04978,
         "open": true,
         "timing": "24 ಗಂಟೆಗಳ ಆಚರಣೆ",
-        "ratings": 4.0,
+        "ratings": 4,
         "payment_mode": "ನಗದು",
         "logo_url": "/svgs/arcologo.svg",
         "products": [
@@ -2136,7 +2136,7 @@
           {
             "product_name": "மிட்கிரேட்",
             "cash_price": 4.9,
-            "credit_card_price": 5.0,
+            "credit_card_price": 5,
             "grade": 87
           },
           {
@@ -2190,7 +2190,7 @@
           {
             "product_name": "பிரீமியம்",
             "cash_price": 5.9,
-            "credit_card_price": 6.0,
+            "credit_card_price": 6,
             "grade": 91
           }
         ]
@@ -2701,7 +2701,7 @@
         "event_start_time": "09:00",
         "event_end_time": "12:00",
         "icon_url": "/svgs/Pornography.svg",
-        "event_price": 15.0
+        "event_price": 15
       },
       {
         "name": "Diggin Dirt",
@@ -2943,7 +2943,7 @@
         "event_start_time": "09:00",
         "event_end_time": "12:00",
         "icon_url": "/svgs/Pornography.svg",
-        "event_price": 15.0
+        "event_price": 15
       },
       {
         "name": "डिगिन डर्ट",
@@ -3185,7 +3185,7 @@
         "event_start_time": "09:00",
         "event_end_time": "12:00",
         "icon_url": "/svgs/Pornography.svg",
-        "event_price": 15.0
+        "event_price": 15
       },
       {
         "name": "డిగిన్ డర్ట్",
@@ -3427,7 +3427,7 @@
         "event_start_time": "09:00",
         "event_end_time": "12:00",
         "icon_url": "/svgs/Pornography.svg",
-        "event_price": 15.0
+        "event_price": 15
       },
       {
         "name": "ഡിഗ്ഗിൻ ഡര്‍ട്ട്",
@@ -3669,7 +3669,7 @@
         "event_start_time": "09:00",
         "event_end_time": "12:00",
         "icon_url": "/svgs/Pornography.svg",
-        "event_price": 15.0
+        "event_price": 15
       },
       {
         "name": "ಡಿಗ್ಗಿನ್ ಡರ್ಟ್",
@@ -3911,7 +3911,7 @@
         "event_start_time": "09:00",
         "event_end_time": "12:00",
         "icon_url": "/svgs/Pornography.svg",
-        "event_price": 15.0
+        "event_price": 15
       },
       {
         "name": "டிகின் டர்ட்",
@@ -9643,7 +9643,7 @@
         "id": "10",
         "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "Car for Sale",
-        "price":"4250",
+        "price": "4250",
         "model": "2010 Mercedes E Class",
         "type": "Sedan",
         "seller": "Best Auto Dealership",
@@ -9969,7 +9969,7 @@
         "id": "10",
         "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "गाड़ी बिक्री के लिए",
-        "price":"4250",
+        "price": "4250",
         "model": "2010 मर्सिडीज ई क्लास",
         "type": "सेडान",
         "seller": "बेस्ट ऑटो डीलरशिप",
@@ -10293,7 +10293,7 @@
         "id": "10",
         "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "అమ్మకానికి కారు",
-        "price":"4250",
+        "price": "4250",
         "model": "2010 మర్సిడీస్ ఈ క్లాస్",
         "type": "సెడాన్",
         "seller": "బెస్ట్ ఆటో డీలర్‌షిప్",
@@ -10617,7 +10617,7 @@
         "id": "10",
         "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "കാർ വിൽപ്പനയ്ക്ക്",
-        "price":"4250",
+        "price": "4250",
         "model": "2010 മെർസിഡസ് ഇ ക്ലാസ്",
         "type": "സെഡാൻ",
         "seller": "ബെസ്റ്റ് ഓട്ടോ ഡിലർഷിപ്പ്",
@@ -10943,7 +10943,7 @@
         "id": "10",
         "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "ಕಾರ್ ಮೆಂಟನ್ಸ್ ಸೇವೆ",
-        "price":"4250",
+        "price": "4250",
         "model": "2010 ಮೆರ್ಸಿಡಿಸ್ ಇ ಕ್ಲಾಸ್",
         "type": "ಸೆಡಾನ್",
         "seller": "ಬೆಸ್ಟ್ ಆಟೋ ಡೀಲರ್‌ಶಿಪ್",
@@ -11269,7 +11269,7 @@
         "id": "10",
         "icon_url": "/svgs/SMediaCarForSale.svg",
         "title": "கார் பராமரிப்பு சேவை",
-        "price":"4250",
+        "price": "4250",
         "model": "2010 மெர்சீடீஸ் E கிளாஸ்",
         "type": "செடன்",
         "seller": "சிறந்த ஆட்டோ டீலர்ஷிப்",
@@ -11429,5 +11429,746 @@
         "longitude": "-119.15673"
       }
     ]
+  },
+  "around_preferencesData": {
+    "Gas Stations": {
+      "en": [
+        {
+          "id": "1",
+          "title": "Show Mobil Gas Stations Nearby Me",
+          "number": "1 available"
+        },
+        {
+          "id": "2",
+          "title": "Show ARCO Gas Stations Nearby Me",
+          "number": "1 available"
+        },
+        {
+          "id": "3",
+          "title": "Show Shell Gas Stations Nearby Me",
+          "number": "1 available"
+        },
+        {
+          "id": "4",
+          "title": "Show Gas Stations Nearby Me",
+          "number": "3 open"
+        },
+        {
+          "id": "5",
+          "title": "Show Gas Stations Nearby Me",
+          "number": "4 open"
+        },
+        {
+          "id": "6",
+          "title": "gas station near home"
+        },
+        {
+          "id": "7",
+          "title": "test 1"
+        },
+        {
+          "id": "8",
+          "title": "TestCase 2"
+        }
+      ],
+      "hi": [
+        {
+          "id": "1",
+          "title": "मेरे पास मोबिल गैस स्टेशन दिखाएं",
+          "number": "1 उपलब्ध"
+        },
+        {
+          "id": "2",
+          "title": "मेरे पास आर्को गैस स्टेशन दिखाएं",
+          "number": "1 उपलब्ध"
+        },
+        {
+          "id": 3,
+          "title": "मेरे पास शेल गैस स्टेशन दिखाएं",
+          "number": "1 उपलब्ध"
+        },
+        {
+          "id": 4,
+          "title": "मेरे पास गैस स्टेशन दिखाएं",
+          "number": "3 खुला है"
+        }
+      ],
+      "te": [
+        {
+          "id": 1,
+          "title": "నా సమీపంలో మోబైల్ గ్యాస్ స్టేషన్‌లను చూపించండి",
+          "number": "1 అందుబాటులో"
+        },
+        {
+          "id": 2,
+          "title": "నా సమీపంలో ఆర్కో గ్యాస్ స్టేషన్‌లను చూపించండి",
+          "number": "1 అందుబాటులో"
+        },
+        {
+          "id": 3,
+          "title": "నా సమీపంలో షెల్ గ్యాస్ స్టేషన్‌లను చూపించండి",
+          "number": "1 అందుబాటులో"
+        },
+        {
+          "id": 4,
+          "title": "నా సమీపంలో గ్యాస్ స్టేషన్‌లను చూపించండి",
+          "number": "3 ఖోలుగా"
+        }
+      ],
+      "ml": [
+        {
+          "id": 1,
+          "title": "എന്റെ പക്ഷം മോബൈൽ ഗാസ് സ്റ്റേഷനുകൾ കാണിക്കുക",
+          "number": "1 ലഭ്യമാണ്"
+        },
+        {
+          "id": 2,
+          "title": "എന്റെ പക്ഷം ആർക്കോ ഗാസ് സ്റ്റേഷനുകൾ കാണിക്കുക",
+          "number": "1 ലഭ്യമാണ്"
+        },
+        {
+          "id": 3,
+          "title": "എന്റെ പക്ഷം ഷെൽ ഗാസ് സ്റ്റേഷനുകൾ കാണിക്കുക",
+          "number": "1 ലഭ്യമാണ്"
+        },
+        {
+          "id": 4,
+          "title": "എന്റെ പക്ഷം ഗാസ് സ്റ്റേഷനുകൾ കാണിക്കുക",
+          "number": "3 തുറക്കുന്നു"
+        }
+      ],
+      "kn": [
+        {
+          "id": 1,
+          "title": "ನನಗೆ ಸಮೀಪದಲ್ಲಿರುವ ಮೊಬೈಲ್ ಗ್ಯಾಸ್ ಸ್ಟೇಷನ್‌ಗಳನ್ನು ತೋರಿಸಿ",
+          "number": "1 ಲಭ್ಯವಿದೆ"
+        },
+        {
+          "id": 2,
+          "title": "ನನಗೆ ಸಮೀಪದಲ್ಲಿರುವ ಆರ್ಕೋ ಗ್ಯಾಸ್ ಸ್ಟೇಷನ್‌ಗಳನ್ನು ತೋರಿಸಿ",
+          "number": "1 ಲಭ್ಯವಿದೆ"
+        },
+        {
+          "id": 3,
+          "title": "ನನಗೆ ಸಮೀಪದಲ್ಲಿರುವ ಷೆಲ್ ಗ್ಯಾಸ್ ಸ್ಟೇಷನ್‌ಗಳನ್ನು ತೋರಿಸಿ",
+          "number": "1 ಲಭ್ಯವಿದೆ"
+        },
+        {
+          "id": 4,
+          "title": "ನನಗೆ ಸಮೀಪದಲ್ಲಿರುವ ಗ್ಯಾಸ್ ಸ್ಟೇಷನ್‌ಗಳನ್ನು ತೋರಿಸಿ",
+          "number": "3 ತೆರೆದಿದೆ"
+        }
+      ],
+      "ta": [
+        {
+          "id": "1",
+          "title": "எனது அருகில் உள்ள மோபைல் காஸ் ஸ்டேஷன்களைக் காண்க",
+          "number": "1 கிடைக்கின்றன"
+        },
+        {
+          "id": "2",
+          "title": "எனது அருகில் உள்ள ARCO காஸ் ஸ்டேஷன்களைக் காண்க",
+          "number": "1 கிடைக்கின்றன"
+        },
+        {
+          "id": "3",
+          "title": "எனது அருகில் உள்ள ஷெல் காஸ் ஸ்டேஷன்களைக் காண்க",
+          "number": "1 கிடைக்கின்றன"
+        },
+        {
+          "id": "4",
+          "title": "எனது அருகில் உள்ள காஸ் ஸ்டேஷன்களைக் காண்க",
+          "number": "3 திறந்தது"
+        }
+      ]
+    },
+    "Events": {
+      "en": [
+        {
+          "id": "1",
+          "title": "Ratings",
+          "number": "4 stars and above"
+        },
+        {
+          "id": "2",
+          "title": "Fitness bootcamp",
+          "number": "2 Ongoing"
+        },
+        {
+          "id": "3",
+          "title": "Ongoing Events Nearby Me",
+          "number": "3 available"
+        },
+        {
+          "id": "4",
+          "title": "Price Under $50",
+          "number": "7 available"
+        },
+        {
+          "id": "5",
+          "title": "concert"
+        },
+        {
+          "id": "6",
+          "title": "Theater"
+        }
+      ],
+      "hi": [
+        {
+          "id": "1",
+          "title": "रेटिंग्स",
+          "number": "4 तारे और उससे ऊपर"
+        },
+        {
+          "id": "2",
+          "title": "फिटनेस बूटकैम्प",
+          "number": "2 जारी"
+        },
+        {
+          "id": "3",
+          "title": "मेरे पास जारी कार्यक्रम",
+          "number": "3 उपलब्ध"
+        },
+        {
+          "id": "4",
+          "title": "$50 के नीचे की कीमत",
+          "number": "7 उपलब्ध"
+        }
+      ],
+      "te": [
+        {
+          "id": "1",
+          "title": "రేటింగ్లు",
+          "number": "4 నక్షత్రాలు మరియు పైన"
+        },
+        {
+          "id": "2",
+          "title": "ఫిట్నెస్ బూట్ క్యాంప్",
+          "number": "2 కొనసాగుతున్నాయి"
+        },
+        {
+          "id": "3",
+          "title": "నా సమీపంలో కొనసాగుతున్న ఈవెంట్‌లు",
+          "number": "3 అందుబాటులో"
+        },
+        {
+          "id": "4",
+          "title": "$50 కి కించితంగా ధర",
+          "number": "7 అందుబాటులో"
+        }
+      ],
+      "ml": [
+        {
+          "id": "1",
+          "title": "റേറ്റിംഗുകൾ",
+          "number": "4 നക്ഷത്രങ്ങൾ മറ്റുള്ളവ"
+        },
+        {
+          "id": "2",
+          "title": "ഫിറ്റ്നസ് ബൂട്ട്ക്യാമ്പ്",
+          "number": "2 പ്രചരിപ്പിക്കാൻ"
+        },
+        {
+          "id": "3",
+          "title": "എന്റെ അരുകിലെ പ്രചരിപ്പിക്കുന്ന ഇവന്റുകൾ",
+          "number": "3 ലഭ്യമാണ്"
+        },
+        {
+          "id": "4",
+          "title": "$50 ക്കുള്ള വില",
+          "number": "7 ലഭ്യമാണ്"
+        }
+      ],
+      "kn": [
+        {
+          "id": "1",
+          "title": "ರೇಟಿಂಗ್‌ಗಳು",
+          "number": "4 ನಕ್ಷತ್ರಗಳು ಮತ್ತು ಮೇಲೆ"
+        },
+        {
+          "id": "2",
+          "title": "ಫಿಟ್‌ನೆಸ್ ಬೂಟ್‌ಕ್ಯಾಂಪ್",
+          "number": "2 ನಡೆಯುತ್ತಿದೆ"
+        },
+        {
+          "id": "3",
+          "title": "ನನ್ನ ಹತ್ತಿರ ನಡೆಯುತ್ತಿರುವ ಈವೆಂಟ್‌ಗಳು",
+          "number": "3 ಲಭ್ಯವಿದೆ"
+        },
+        {
+          "id": "4",
+          "title": "$50 ಕ್ಕಿಂತ ಕಡಿಮೆ ಬೆಲೆ",
+          "number": "7 ಲಭ್ಯವಿದೆ"
+        }
+      ],
+      "ta": [
+        {
+          "id": "1",
+          "title": "மதிப்பீடுகள்",
+          "number": "4 நக்ஷத்திரங்கள் மற்றும் மேலே"
+        },
+        {
+          "id": "2",
+          "title": "உடல் உறுப்பினர் பூட்கேம்பு",
+          "number": "2 செயலில்"
+        },
+        {
+          "id": "3",
+          "title": "எனது அருகில் உள்ள செயல்பாடுகள்",
+          "number": "3 கிடைக்கும்"
+        },
+        {
+          "id": "4",
+          "title": "$50 க்கு கீழே விலை",
+          "number": "7 கிடைக்கும்"
+        }
+      ]
+    },
+    "Unemployment": {
+      "en": [
+        {
+          "id": "1",
+          "title": "Cities which have unemployment rate less than 10%",
+          "number": "13 available"
+        },
+        {
+          "id": "2",
+          "title": "Cities which have unemployment rate less than 20%",
+          "number": "1 available"
+        },
+        {
+          "id": "3",
+          "title": "unemployed"
+        }
+      ],
+      "hi": [
+        {
+          "id": "1",
+          "title": "शहर जो बेरोजगारी दर 10% से कम है",
+          "number": "13 उपलब्ध"
+        },
+        {
+          "id": "2",
+          "title": "शहर जो बेरोजगारी दर 20% से कम है",
+          "number": "1 उपलब्ध"
+        }
+      ],
+      "te": [
+        {
+          "id": "1",
+          "title": "10% కంటే తక్కువ బేర్‌జారి నగరాలు",
+          "number": "13 అందుబాటులో"
+        },
+        {
+          "id": "2",
+          "title": "20% కంటే తక్కువ బేర్‌జారి నగరం",
+          "number": "1 అందుబాటులో"
+        }
+      ],
+      "ml": [
+        {
+          "id": "1",
+          "title": "10% കുറഞ്ഞ ബെരോജാരി നഗരങ്ങൾ",
+          "number": "13 ലഭ്യമാണ്"
+        },
+        {
+          "id": "2",
+          "title": "20% കുറഞ്ഞ ബെരോജാരി നഗരങ്ങൾ",
+          "number": "1 ലഭ്യമാണ്"
+        }
+      ],
+      "kn": [
+        {
+          "id": "1",
+          "title": "10% ಕ್ಕಿಂತ ಕಡಿಮೆ ಬೇರೊಜಾರಿ ನಗರಗಳು",
+          "number": "13 ಲಭ್ಯವಿದೆ"
+        },
+        {
+          "id": "2",
+          "title": "20% ಕ್ಕಿಂತ ಕಡಿಮೆ ಬೇರೊಜಾರಿ ನಗರಗಳು",
+          "number": "1 ಲಭ್ಯವಿದೆ"
+        }
+      ],
+      "ta": [
+        {
+          "id": "1",
+          "title": "10% க்குக் கீழே பெரும்பாலான பேருந்தை கொண்ட நகரங்கள்",
+          "number": "13 கிடைக்கும்"
+        },
+        {
+          "id": "2",
+          "title": "20% க்குக் கீழே பெரும்பாலான பேருந்தை கொண்ட நகரம்",
+          "number": "1 கிடைக்கும்"
+        }
+      ]
+    },
+    "Crime": {
+      "en": [
+        {
+          "id": "1",
+          "title": "Robbery Cases Nearby Me",
+          "number": "3 Recent cases"
+        },
+        {
+          "id": "2",
+          "title": "VUFA Arrests Cases Nearby Me",
+          "number": "3 Recent cases"
+        },
+        {
+          "id": "3",
+          "title": "Agg Assaults Cases Nearby Me",
+          "number": "2 Recent cases"
+        }
+      ],
+      "hi": [
+        {
+          "id": "1",
+          "title": "मेरे पास हत्या के मामले",
+          "number": "3 हाल के मामले"
+        },
+        {
+          "id": "2",
+          "title": "मेरे पास VUFA गिरफ्तारी के मामले",
+          "number": "3 हाल के मामले"
+        },
+        {
+          "id": "3",
+          "title": "मेरे पास तीव्र हमले के मामले",
+          "number": "2 हाल के मामले"
+        }
+      ],
+      "te": [
+        {
+          "id": "1",
+          "title": "నా సమీపంలో దరప్రయోగాల మామలాలు",
+          "number": "3 ఇటీవల మామలాలు"
+        },
+        {
+          "id": "2",
+          "title": "నా సమీపంలో VUFA అరెస్టు మామలాలు",
+          "number": "3 ఇటీవల మామలాలు"
+        },
+        {
+          "id": "3",
+          "title": "నా సమీపంలో తీవ్ర దాడుల మామలాలు",
+          "number": "2 ఇటీవల మామలాలు"
+        }
+      ],
+      "ml": [
+        {
+          "id": "1",
+          "title": "എന്റെ അരുകിലെ ഡക്കോയിൽ കേസുകൾ",
+          "number": "3 സുന്നതികൾ"
+        },
+        {
+          "id": "2",
+          "title": "എന്റെ അരുകിലെ VUFA അറിയിപ്പു കേസുകൾ",
+          "number": "3 സുന്നതികൾ"
+        },
+        {
+          "id": "3",
+          "title": "എന്റെ അരുകിലെ കൂടുതൽ പൊട്ടിച്ചതുകൾ",
+          "number": "2 സുന്നതികൾ"
+        }
+      ],
+      "kn": [
+        {
+          "id": "1",
+          "title": "ನನ್ನ ಸಮೀಪದಲ್ಲಿ ಲೂಟಿ ಕೇಸುಗಳು",
+          "number": "3 ಇತ್ತೀಚಿನ ಕೇಸುಗಳು"
+        },
+        {
+          "id": "2",
+          "title": "ನನ್ನ ಸಮೀಪದಲ್ಲಿ VUFA ಅರೆಸ್ಟು ಕೇಸುಗಳು",
+          "number": "3 ಇತ್ತೀಚಿನ ಕೇಸುಗಳು"
+        },
+        {
+          "id": "3",
+          "title": "ನನ್ನ ಸಮೀಪದಲ್ಲಿ ಗಂಭೀರ ದಾಳಿ ಕೇಸುಗಳು",
+          "number": "2 ಇತ್ತೀಚಿನ ಕೇಸುಗಳು"
+        }
+      ],
+      "ta": [
+        {
+          "id": "1",
+          "title": "எனது அருகில் கல்லறை வழக்குகள்",
+          "number": "3 சமீபத்திய வழக்குகள்"
+        },
+        {
+          "id": "2",
+          "title": "எனது அருகில் VUFA கைதுகள் வழக்குகள்",
+          "number": "3 சமீபத்திய வழக்குகள்"
+        },
+        {
+          "id": "3",
+          "title": "எனது அருகில் கோப்பு தாக்குகள் வழக்குகள்",
+          "number": "2 சமீபத்திய வழக்குகள்"
+        }
+      ]
+    },
+    "Earthquake": {
+      "en": [
+        {
+          "id": "1",
+          "title": "Earthquake less than 8 magnitude",
+          "number": "5 recent earthquakes"
+        },
+        {
+          "id": "2",
+          "title": "Earthquake less than 10km depth",
+          "number": "6 earthquakes"
+        }
+      ],
+      "hi": [
+        {
+          "id": "1",
+          "title": "8 तीव्रता से कम भूकंप",
+          "number": "5 हाल के भूकंप"
+        },
+        {
+          "id": "2",
+          "title": "10 किमी गहराई से कम भूकंप",
+          "number": "6 भूकंप"
+        }
+      ],
+      "te": [
+        {
+          "id": "1",
+          "title": "8 మాత్రాలు కనిపించే భూకంపం",
+          "number": "5 ఇటీవల భూకంపాలు"
+        },
+        {
+          "id": "2",
+          "title": "10km గహివించిన భూకంపం",
+          "number": "6 భూకంపాలు"
+        }
+      ],
+      "ml": [
+        {
+          "id": "1",
+          "title": "8 ശക്തിയിലുള്ള ഭൂകമ്പം",
+          "number": "5 സുന്നതികൾ"
+        },
+        {
+          "id": "2",
+          "title": "10km ആഴത്തിലുള്ള ഭൂകമ്പം",
+          "number": "6 ഭൂകമ്പങ്ങൾ"
+        }
+      ],
+      "kn": [
+        {
+          "id": "1",
+          "title": "8 ಗಾಂಭೀರ್ಯದ ಭೂಕಂಪ",
+          "number": "5 ಇಟೀವಲಿ ಭೂಕಂಪಗಳು"
+        },
+        {
+          "id": "2",
+          "title": "10 ಕಿಮೀ ಆಳಕ್ಕಿಂತ ಕಡಿಮೆ ಭೂಕಂಪ",
+          "number": "6 ಭೂಕಂಪಗಳು"
+        }
+      ],
+      "ta": [
+        {
+          "id": "1",
+          "title": "8 மதிப்புக்குக் குறைந்த பூமியாக்கம்",
+          "number": "5 சமீபத்திய பூமியாக்கங்கள்"
+        },
+        {
+          "id": "2",
+          "title": "10 கிமீ ஆழம் குறைந்த பூமியாக்கம்",
+          "number": "6 பூமியாக்கங்கள்"
+        }
+      ]
+    },
+    "Social Media": {
+      "en": [
+        {
+          "id": "1",
+          "title": "Tire Rentals",
+          "number": "2 event"
+        },
+        {
+          "id": "2",
+          "title": "Car Maintenance Service",
+          "number": "1 event"
+        },
+        {
+          "id": "3",
+          "title": "Adult Shows",
+          "number": "2 shows"
+        },
+        {
+          "id": "4",
+          "title": "Car Resale",
+          "number": "2 cars"
+        }
+      ],
+      "hi": [
+        {
+          "id": "1",
+          "title": "टायर किराया",
+          "number": "2 आयोजन"
+        },
+        {
+          "id": "2",
+          "title": "कार रखरखाव सेवा",
+          "number": "1 आयोजन"
+        },
+        {
+          "id": "3",
+          "title": "वयस्क शो",
+          "number": "2 शो"
+        },
+        {
+          "id": "4",
+          "title": "कार पुनर्विक्रय",
+          "number": "2 कारें"
+        }
+      ],
+      "te": [
+        {
+          "id": "1",
+          "title": "టైర్ రెంటల్స్",
+          "number": "2 ఈవెంట్"
+        },
+        {
+          "id": "2",
+          "title": "కారు అభ్యంతర సేవ",
+          "number": "1 ఈవెంట్"
+        },
+        {
+          "id": "3",
+          "title": "పెళ్లి షోలు",
+          "number": "2 షోలు"
+        },
+        {
+          "id": "4",
+          "title": "కారు పునరుత్పాదన",
+          "number": "2 కార్లు"
+        }
+      ],
+      "ml": [
+        {
+          "id": "1",
+          "title": "ടയറുകൾ വാടകയ്ക്ക്",
+          "number": "2 ഇവന്റ്"
+        },
+        {
+          "id": "2",
+          "title": "കാർ പരിപാലന സേവ",
+          "number": "1 ഇവന്റ്"
+        },
+        {
+          "id": "3",
+          "title": "പെൺഷനിലെ ഷോകൾ",
+          "number": "2 ഷോകൾ"
+        },
+        {
+          "id": "4",
+          "title": "കാർ പുനരിക്കൽ",
+          "number": "2 കാർകൾ"
+        }
+      ],
+      "kn": [
+        {
+          "id": "1",
+          "title": "ಟೈರ್ ರೆಂಟಲ್ಸ್",
+          "number": "2 ಈವೆಂಟ್‌ಗಳು"
+        },
+        {
+          "id": "2",
+          "title": "ಕಾರ್ ಮೆಯಿಂಟನೆನ್ಸ್ ಸೇವೆ",
+          "number": "1 ಈವೆಂಟ್"
+        },
+        {
+          "id": "3",
+          "title": "ಪ್ರೌಢ ಷೋಗಳು",
+          "number": "2 ಷೋಗಳು"
+        },
+        {
+          "id": "4",
+          "title": "ಕಾರು ಪುನರಾಯಾತ",
+          "number": "2 ಕಾರುಗಳು"
+        }
+      ],
+      "ta": [
+        {
+          "id": "1",
+          "title": "டையர் வாட்கைக்கு",
+          "number": "2 நிகழ்வு"
+        },
+        {
+          "id": "2",
+          "title": "கார் பராமரிப்பு சேவை",
+          "number": "1 நிகழ்வு"
+        },
+        {
+          "id": "3",
+          "title": "பெண் காட்சிகள்",
+          "number": "2 காட்சிகள்"
+        },
+        {
+          "id": "4",
+          "title": "கார் மற்றும் விற்பனை",
+          "number": "2 கார்கள்"
+        }
+      ]
+    },
+    "Temperature": {
+      "en": [],
+      "hi": [],
+      "te": [],
+      "ml": [],
+      "kn": [],
+      "ta": []
+    },
+    "Rain": {
+      "en": [],
+      "hi": [],
+      "te": [],
+      "ml": [],
+      "kn": [],
+      "ta": []
+    },
+    "Wind": {
+      "en": [],
+      "hi": [],
+      "te": [],
+      "ml": [],
+      "kn": [],
+      "ta": []
+    },
+    "Snow": {
+      "en": [],
+      "hi": [],
+      "te": [],
+      "ml": [],
+      "kn": [],
+      "ta": []
+    },
+    "Air Quality": {
+      "en": [],
+      "hi": [],
+      "te": [],
+      "ml": [],
+      "kn": [],
+      "ta": []
+    },
+    "Network": {
+      "en": [],
+      "hi": [],
+      "te": [],
+      "ml": [],
+      "kn": [],
+      "ta": []
+    },
+    "Radar": {
+      "en": [],
+      "hi": [],
+      "te": [],
+      "ml": [],
+      "kn": [],
+      "ta": []
+    }
   }
 }
