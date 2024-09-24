@@ -11207,7 +11207,8 @@
       "language": "en",
       "id": "1",
       "measurementUnit": "120 AQI",
-      "longitude": -119.0143
+      "longitude": -119.0143,
+      "state_code": "CA"
     },
     {
       "latitude": 35.3489,
@@ -11373,7 +11374,8 @@
       "language": "hi",
       "id": "2",
       "measurementUnit": "120 AQI",
-      "longitude": -119.0143
+      "longitude": -119.0143,
+      "state_code": "CA"
     },
     {
       "latitude": 35.3489,
@@ -11539,7 +11541,8 @@
       "language": "gu",
       "id": "3",
       "measurementUnit": "120 AQI",
-      "longitude": -119.0143
+      "longitude": -119.0143,
+      "state_code": "CA"
     },
     {
       "latitude": 35.3489,
@@ -11705,7 +11708,8 @@
       "language": "kn",
       "id": "4",
       "measurementUnit": "120 AQI",
-      "longitude": -119.0143
+      "longitude": -119.0143,
+      "state_code": "CA"
     },
     {
       "latitude": 35.3489,
@@ -11871,7 +11875,8 @@
       "language": "ta",
       "id": "5",
       "measurementUnit": "120 AQI",
-      "longitude": -119.0143
+      "longitude": -119.0143,
+      "state_code": "CA"
     },
     {
       "latitude": 35.3489,
@@ -12037,7 +12042,8 @@
       "language": "te",
       "id": "6",
       "measurementUnit": "120 AQI",
-      "longitude": -119.0143
+      "longitude": -119.0143,
+      "state_code": "CA"
     },
     {
       "latitude": 35.3489,
@@ -12203,7 +12209,8 @@
       "language": "ml",
       "id": "7",
       "measurementUnit": "120 AQI",
-      "longitude": -119.0143
+      "longitude": -119.0143,
+      "state_code": "CA"
     },
     {
       "latitude": 23.0225,
@@ -12369,7 +12376,8 @@
       "language": "en",
       "id": "8",
       "measurementUnit": "85 AQI",
-      "longitude": 72.5714
+      "longitude": 72.5714,
+      "state_code": "GJ"
     },
     {
       "latitude": 21.1702,
@@ -12535,7 +12543,8 @@
       "language": "en",
       "id": "9",
       "measurementUnit": "45 AQI",
-      "longitude": 72.8311
+      "longitude": 72.8311,
+      "state_code": "GJ"
     },
     {
       "latitude": 22.3072,
@@ -12701,7 +12710,8 @@
       "language": "en",
       "id": "10",
       "measurementUnit": "105 AQI",
-      "longitude": 73.1812
+      "longitude": 73.1812,
+      "state_code": "GJ"
     },
     {
       "latitude": 22.3039,
@@ -12867,7 +12877,8 @@
       "language": "en",
       "id": "11",
       "measurementUnit": "125 AQI",
-      "longitude": 70.8022
+      "longitude": 70.8022,
+      "state_code": "GJ"
     },
     {
       "latitude": 21.7645,
@@ -13033,7 +13044,8 @@
       "language": "en",
       "id": "12",
       "measurementUnit": "150 AQI",
-      "longitude": 72.1519
+      "longitude": 72.1519,
+      "state_code": "GJ"
     },
     {
       "latitude": 22.4707,
@@ -13199,7 +13211,8 @@
       "language": "en",
       "id": "13",
       "measurementUnit": "90 AQI",
-      "longitude": 70.0577
+      "longitude": 70.0577,
+      "state_code": "GJ"
     },
     {
       "latitude": 23.2156,
@@ -13365,7 +13378,8 @@
       "language": "en",
       "id": "14",
       "measurementUnit": "55 AQI",
-      "longitude": 72.6369
+      "longitude": 72.6369,
+      "state_code": "GJ"
     },
     {
       "latitude": 22.5561,
@@ -13531,7 +13545,8 @@
       "language": "en",
       "id": "15",
       "measurementUnit": "40 AQI",
-      "longitude": 72.9558
+      "longitude": 72.9558,
+      "state_code": "GJ"
     },
     {
       "latitude": 23.0225,
@@ -13697,7 +13712,8 @@
       "language": "gu",
       "id": "16",
       "measurementUnit": "85 AQI",
-      "longitude": 72.5714
+      "longitude": 72.5714,
+      "state_code": "GJ"
     },
     {
       "latitude": 21.1702,
@@ -13863,7 +13879,8 @@
       "language": "gu",
       "id": "17",
       "measurementUnit": "45 AQI",
-      "longitude": 72.8311
+      "longitude": 72.8311,
+      "state_code": "GJ"
     },
     {
       "latitude": 22.3072,
@@ -14029,7 +14046,8 @@
       "language": "gu",
       "id": "18",
       "measurementUnit": "105 AQI",
-      "longitude": 73.1812
+      "longitude": 73.1812,
+      "state_code": "GJ"
     },
     {
       "latitude": 22.3039,
@@ -14195,7 +14213,8 @@
       "language": "gu",
       "id": "19",
       "measurementUnit": "125 AQI",
-      "longitude": 70.8022
+      "longitude": 70.8022,
+      "state_code": "GJ"
     },
     {
       "latitude": 21.7645,
@@ -14361,7 +14380,8 @@
       "language": "gu",
       "id": "20",
       "measurementUnit": "150 AQI",
-      "longitude": 72.1519
+      "longitude": 72.1519,
+      "state_code": "GJ"
     },
     {
       "latitude": 22.4707,
@@ -14527,7 +14547,8 @@
       "language": "gu",
       "id": "21",
       "measurementUnit": "90 AQI",
-      "longitude": 70.0577
+      "longitude": 70.0577,
+      "state_code": "GJ"
     },
     {
       "latitude": 23.2156,
@@ -14693,7 +14714,8 @@
       "language": "gu",
       "id": "22",
       "measurementUnit": "55 AQI",
-      "longitude": 72.6369
+      "longitude": 72.6369,
+      "state_code": "GJ"
     },
     {
       "latitude": 22.5561,
@@ -14859,7 +14881,8 @@
       "language": "gu",
       "id": "23",
       "measurementUnit": "40 AQI",
-      "longitude": 72.9558
+      "longitude": 72.9558,
+      "state_code": "GJ"
     }
   ],
   "around_networksData": [
@@ -20806,5 +20829,1443 @@
       "kn": [],
       "ta": []
     }
-  }
+  },
+  "around_pharmacyData": [
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "Medplus Pharmacy",
+      "brand_name": "Medplus",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_24hrs": true,
+      "phone": "9876541234",
+      "street": "Prahlad Nagar",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380015",
+      "latitude": 23.017987,
+      "longitude": 72.526345,
+      "rating": "4.7",
+      "store_id": "pharmacy_5678",
+      "services": [
+        "Prescription Medicines",
+        "Over-the-Counter Drugs",
+        "Health Supplements",
+        "Medical Equipment"
+      ],
+      "delivery_available": true,
+      "distance_from_city_center_km": 6.3,
+      "language": "en",
+      "manager_name": "Suresh Patel",
+      "established_year": 2005,
+      "area_landmark": "Near Iscon Mega Mall",
+      "email": "contact@medpluspharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "Guardian Pharmacy",
+      "brand_name": "Guardian",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_24hrs": false,
+      "phone": "9823456789",
+      "street": "Satellite Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380015",
+      "latitude": 23.030421,
+      "longitude": 72.514289,
+      "rating": "4.2",
+      "store_id": "pharmacy_9101",
+      "services": [
+        "Prescription Medicines",
+        "Health Supplements",
+        "Personal Care Products"
+      ],
+      "delivery_available": false,
+      "distance_from_city_center_km": 8.0,
+      "language": "en",
+      "manager_name": "Anita Mehta",
+      "established_year": 2010,
+      "area_landmark": "Opposite AMA Center",
+      "email": "contact@guardianpharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "Netmeds Pharmacy",
+      "brand_name": "Netmeds",
+      "open_time": "09:00",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "9876504321",
+      "street": "CG Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380006",
+      "latitude": 23.027453,
+      "longitude": 72.562758,
+      "rating": "4.6",
+      "store_id": "pharmacy_1122",
+      "services": [
+        "Prescription Medicines",
+        "Over-the-Counter Drugs",
+        "Health Supplements"
+      ],
+      "delivery_available": true,
+      "distance_from_city_center_km": 4.5,
+      "language": "en",
+      "manager_name": "Harsh Shah",
+      "established_year": 2012,
+      "area_landmark": "Near Law Garden",
+      "email": "contact@netmeds.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "1mg Pharmacy",
+      "brand_name": "1mg",
+      "open_time": "08:00",
+      "close_time": "23:00",
+      "is_24hrs": false,
+      "phone": "9967123456",
+      "street": "Navrangpura",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380009",
+      "latitude": 23.045667,
+      "longitude": 72.558898,
+      "rating": "4.3",
+      "store_id": "pharmacy_3345",
+      "services": [
+        "Prescription Medicines",
+        "Over-the-Counter Drugs",
+        "Personal Care Products"
+      ],
+      "delivery_available": false,
+      "distance_from_city_center_km": 5.8,
+      "language": "en",
+      "manager_name": "Bhavin Patel",
+      "established_year": 2011,
+      "area_landmark": "Opposite HL College",
+      "email": "support@1mgpharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "Apollo Pharmacy",
+      "brand_name": "Apollo",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_24hrs": true,
+      "phone": "9988776655",
+      "street": "Drive-In Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380052",
+      "latitude": 23.039521,
+      "longitude": 72.543245,
+      "rating": "4.9",
+      "store_id": "pharmacy_7789",
+      "services": [
+        "Prescription Medicines",
+        "Over-the-Counter Drugs",
+        "Health Supplements",
+        "Personal Care Products",
+        "Medical Equipment"
+      ],
+      "delivery_available": true,
+      "distance_from_city_center_km": 3.0,
+      "language": "en",
+      "manager_name": "Rohit Singh",
+      "established_year": 2008,
+      "area_landmark": "Near Drive-In Cinema",
+      "email": "support@apollopharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "Zydus Pharmacy",
+      "brand_name": "Zydus",
+      "open_time": "09:00",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "8765432109",
+      "street": "Ashram Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380009",
+      "latitude": 23.02892,
+      "longitude": 72.571432,
+      "rating": "4.4",
+      "store_id": "pharmacy_9988",
+      "services": ["Prescription Medicines", "Health Supplements"],
+      "delivery_available": true,
+      "distance_from_city_center_km": 2.0,
+      "language": "en",
+      "manager_name": "Rajesh Thakur",
+      "established_year": 2015,
+      "area_landmark": "Opposite Income Tax Office",
+      "email": "contact@zyduspharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "Medlife Pharmacy",
+      "brand_name": "Medlife",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_24hrs": true,
+      "phone": "9988773344",
+      "street": "Memnagar",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380052",
+      "latitude": 23.049215,
+      "longitude": 72.545789,
+      "rating": "4.8",
+      "store_id": "pharmacy_4433",
+      "services": [
+        "Prescription Medicines",
+        "Over-the-Counter Drugs",
+        "Health Supplements",
+        "Personal Care Products"
+      ],
+      "delivery_available": false,
+      "distance_from_city_center_km": 7.0,
+      "language": "en",
+      "manager_name": "Ritesh Jain",
+      "established_year": 2010,
+      "area_landmark": "Opposite Memnagar Fire Station",
+      "email": "contact@medlifepharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "Wellness Forever Pharmacy",
+      "brand_name": "Wellness Forever",
+      "open_time": "07:00",
+      "close_time": "23:00",
+      "is_24hrs": false,
+      "phone": "9898988989",
+      "street": "Vastrapur",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380015",
+      "latitude": 23.039222,
+      "longitude": 72.540012,
+      "rating": "4.5",
+      "store_id": "pharmacy_5566",
+      "services": [
+        "Prescription Medicines",
+        "Over-the-Counter Drugs",
+        "Medical Equipment"
+      ],
+      "delivery_available": true,
+      "distance_from_city_center_km": 5.2,
+      "language": "en",
+      "manager_name": "Pooja Mehta",
+      "established_year": 2013,
+      "area_landmark": "Near Alpha One Mall",
+      "email": "support@wellnessforeverpharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "Apollo Pharmacy",
+      "brand_name": "Apollo",
+      "open_time": "09:00",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "9933445566",
+      "street": "Maninagar",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380008",
+      "latitude": 22.992343,
+      "longitude": 72.601938,
+      "rating": "4.2",
+      "store_id": "pharmacy_6543",
+      "services": [
+        "Prescription Medicines",
+        "Health Supplements",
+        "Personal Care Products"
+      ],
+      "delivery_available": false,
+      "distance_from_city_center_km": 9.0,
+      "language": "en",
+      "manager_name": "Kiran Verma",
+      "established_year": 2006,
+      "area_landmark": "Near Kankaria Lake",
+      "email": "maninagar@apollopharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "Care Pharmacy",
+      "brand_name": "Care",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_24hrs": true,
+      "phone": "9827123456",
+      "street": "Naranpura",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380013",
+      "latitude": 23.055667,
+      "longitude": 72.561231,
+      "rating": "4.4",
+      "store_id": "pharmacy_7785",
+      "services": [
+        "Prescription Medicines",
+        "Over-the-Counter Drugs",
+        "Medical Equipment"
+      ],
+      "delivery_available": true,
+      "distance_from_city_center_km": 6.5,
+      "language": "en",
+      "manager_name": "Manoj Sharma",
+      "established_year": 2017,
+      "area_landmark": "Near Ankur Cross Roads",
+      "email": "support@carepharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "મેડપ્લસ ફાર્મસી",
+      "brand_name": "મેડપ્લસ",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_24hrs": true,
+      "phone": "9876541234",
+      "street": "Prahlad Nagar",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380015",
+      "latitude": 23.017987,
+      "longitude": 72.526345,
+      "rating": "4.7",
+      "store_id": "pharmacy_5678",
+      "services": [
+        "પ્રિસ્ક્રિપ્શન દવાઓ",
+        "ઓવર-દ-કાઉન્ટર દવાઓ",
+        "હેલ્થ સપ્લીમેન્ટ્સ",
+        "મેડિકલ સાધનો"
+      ],
+      "delivery_available": true,
+      "distance_from_city_center_km": 6.3,
+      "language": "gu",
+      "manager_name": "સુરેશ પટેલ",
+      "established_year": 2005,
+      "area_landmark": "Near Iscon Mega Mall",
+      "email": "contact@medpluspharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "ગાર્ડિયન ફાર્મસી",
+      "brand_name": "ગાર્ડિયન",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_24hrs": false,
+      "phone": "9823456789",
+      "street": "Satellite Road",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380015",
+      "latitude": 23.030421,
+      "longitude": 72.514289,
+      "rating": "4.2",
+      "store_id": "pharmacy_9101",
+      "services": [
+        "પ્રિસ્ક્રિપ્શન દવાઓ",
+        "હેલ્થ સપ્લીમેન્ટ્સ",
+        "પર્સનલ કેર પ્રોડક્ટ્સ"
+      ],
+      "delivery_available": false,
+      "distance_from_city_center_km": 8.0,
+      "language": "gu",
+      "manager_name": "અનિતા મહેતા",
+      "established_year": 2010,
+      "area_landmark": "Opposite AMA Center",
+      "email": "contact@guardianpharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "નેટમેડ્સ ફાર્મસી",
+      "brand_name": "નેટમેડ્સ",
+      "open_time": "09:00",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "9876504321",
+      "street": "CG Road",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380006",
+      "latitude": 23.027453,
+      "longitude": 72.562758,
+      "rating": "4.6",
+      "store_id": "pharmacy_1122",
+      "services": [
+        "પ્રિસ્ક્રિપ્શન દવાઓ",
+        "ઓવર-દ-કાઉન્ટર દવાઓ",
+        "હેલ્થ સપ્લીમેન્ટ્સ"
+      ],
+      "delivery_available": true,
+      "distance_from_city_center_km": 4.5,
+      "language": "gu",
+      "manager_name": "હર્ષ શાહ",
+      "established_year": 2012,
+      "area_landmark": "Near Law Garden",
+      "email": "contact@netmeds.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "1એમજી ફાર્મસી",
+      "brand_name": "1એમજી",
+      "open_time": "08:00",
+      "close_time": "23:00",
+      "is_24hrs": false,
+      "phone": "9967123456",
+      "street": "Navrangpura",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380009",
+      "latitude": 23.045667,
+      "longitude": 72.558898,
+      "rating": "4.3",
+      "store_id": "pharmacy_3345",
+      "services": [
+        "પ્રિસ્ક્રિપ્શન દવાઓ",
+        "ઓવર-દ-કાઉન્ટર દવાઓ",
+        "પર્સનલ કેર પ્રોડક્ટ્સ"
+      ],
+      "delivery_available": false,
+      "distance_from_city_center_km": 5.8,
+      "language": "gu",
+      "manager_name": "ભવિન પટેલ",
+      "established_year": 2011,
+      "area_landmark": "Opposite HL College",
+      "email": "support@1mgpharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "અપોલો ફાર્મસી",
+      "brand_name": "અપોલો",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_24hrs": true,
+      "phone": "9988776655",
+      "street": "Drive-In Road",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380052",
+      "latitude": 23.039521,
+      "longitude": 72.543245,
+      "rating": "4.9",
+      "store_id": "pharmacy_7789",
+      "services": [
+        "પ્રિસ્ક્રિપ્શન દવાઓ",
+        "ઓવર-દ-કાઉન્ટર દવાઓ",
+        "હેલ્થ સપ્લીમેન્ટ્સ",
+        "પર્સનલ કેર પ્રોડક્ટ્સ",
+        "મેડિકલ સાધનો"
+      ],
+      "delivery_available": true,
+      "distance_from_city_center_km": 3.0,
+      "language": "gu",
+      "manager_name": "રોહિત સિંહ",
+      "established_year": 2008,
+      "area_landmark": "Near Drive-In Cinema",
+      "email": "support@apollopharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "ઝાઇડસ ફાર્મસી",
+      "brand_name": "ઝાઇડસ",
+      "open_time": "09:00",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "8765432109",
+      "street": "Ashram Road",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380009",
+      "latitude": 23.02892,
+      "longitude": 72.571432,
+      "rating": "4.4",
+      "store_id": "pharmacy_9988",
+      "services": ["પ્રિસ્ક્રિપ્શન દવાઓ", "હેલ્થ સપ્લીમેન્ટ્સ"],
+      "delivery_available": true,
+      "distance_from_city_center_km": 2.0,
+      "language": "gu",
+      "manager_name": "રાજેશ ઠાકુર",
+      "established_year": 2015,
+      "area_landmark": "Opposite Income Tax Office",
+      "email": "contact@zyduspharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "મેડલાઇફ ફાર્મસી",
+      "brand_name": "મેડલાઇફ",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_24hrs": true,
+      "phone": "9988773344",
+      "street": "Memnagar",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380052",
+      "latitude": 23.049215,
+      "longitude": 72.545789,
+      "rating": "4.8",
+      "store_id": "pharmacy_4433",
+      "services": [
+        "પ્રિસ્ક્રિપ્શન દવાઓ",
+        "ઓવર-દ-કાઉન્ટર દવાઓ",
+        "હેલ્થ સપ્લીમેન્ટ્સ",
+        "પર્સનલ કેર પ્રોડક્ટ્સ"
+      ],
+      "delivery_available": false,
+      "distance_from_city_center_km": 7.0,
+      "language": "gu",
+      "manager_name": "રિતેશ જૈન",
+      "established_year": 2010,
+      "area_landmark": "Opposite Memnagar Fire Station",
+      "email": "contact@medlifepharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "વેલનેસ ફોરએવર ફાર્મસી",
+      "brand_name": "વેલનેસ ફોરએવર",
+      "open_time": "07:00",
+      "close_time": "23:00",
+      "is_24hrs": false,
+      "phone": "9898988989",
+      "street": "Vastrapur",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380015",
+      "latitude": 23.039222,
+      "longitude": 72.540012,
+      "rating": "4.5",
+      "store_id": "pharmacy_5566",
+      "services": ["પ્રિસ્ક્રિપ્શન દવાઓ", "ઓવર-દ-કાઉન્ટર દવાઓ", "મેડિકલ સાધનો"],
+      "delivery_available": true,
+      "distance_from_city_center_km": 5.2,
+      "language": "gu",
+      "manager_name": "પૂજા મહેતા",
+      "established_year": 2013,
+      "area_landmark": "Near Alpha One Mall",
+      "email": "support@wellnessforeverpharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "અપોલો ફાર્મસી",
+      "brand_name": "અપોલો",
+      "open_time": "09:00",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "9933445566",
+      "street": "Maninagar",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380008",
+      "latitude": 22.992343,
+      "longitude": 72.601938,
+      "rating": "4.2",
+      "store_id": "pharmacy_6543",
+      "services": [
+        "પ્રિસ્ક્રિપ્શન દવાઓ",
+        "હેલ્થ સપ્લીમેન્ટ્સ",
+        "પર્સનલ કેર પ્રોડક્ટ્સ"
+      ],
+      "delivery_available": false,
+      "distance_from_city_center_km": 9.0,
+      "language": "gu",
+      "manager_name": "કિરણ વર્મા",
+      "established_year": 2006,
+      "area_landmark": "Near Kankaria Lake",
+      "email": "maninagar@apollopharmacy.com"
+    },
+    {
+      "icon_url": "/images/pharmacyLogo.png",
+      "store_name": "કેર ફાર્મસી",
+      "brand_name": "કેર",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_24hrs": true,
+      "phone": "9827123456",
+      "street": "Naranpura",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380013",
+      "latitude": 23.055667,
+      "longitude": 72.561231,
+      "rating": "4.4",
+      "store_id": "pharmacy_7785",
+      "services": ["પ્રિસ્ક્રિપ્શન દવાઓ", "ઓવર-દ-કાઉન્ટર દવાઓ", "મેડિકલ સાધનો"],
+      "delivery_available": true,
+      "distance_from_city_center_km": 6.5,
+      "language": "gu",
+      "manager_name": "મનોજ શર્મા",
+      "established_year": 2017,
+      "area_landmark": "Near Ankur Cross Roads",
+      "email": "support@carepharmacy.com"
+    }
+  ],
+  "around_kiranaData": [
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "Patel Kirana Store",
+      "owner_name": "Mahesh Patel",
+      "open_time": "07:00",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "9823456789",
+      "street": "Vastrapur Main Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380015",
+      "latitude": 23.030313,
+      "longitude": 72.516274,
+      "rating": "4.3",
+      "store_id": "kirana_5678",
+      "services": [
+        "Groceries",
+        "Daily Essentials",
+        "Spices and Condiments",
+        "Snacks",
+        "Beverages",
+        "Cleaning Supplies"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 5.0,
+      "language": "en",
+      "area_landmark": "Near Vastrapur Lake",
+      "email": "contact@patelkirana.com",
+      "established_year": 1995,
+      "payment_methods": ["Cash", "Credit/Debit Cards", "UPI", "Paytm"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "Diwali Discount",
+          "discount_percentage": 10,
+          "start_date": "2024-10-15",
+          "end_date": "2024-11-01"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "Sharma Kirana Mart",
+      "owner_name": "Rakesh Sharma",
+      "open_time": "08:00",
+      "close_time": "22:30",
+      "is_24hrs": false,
+      "phone": "9876543210",
+      "street": "Satellite Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380015",
+      "latitude": 23.027934,
+      "longitude": 72.511965,
+      "rating": "4.5",
+      "store_id": "kirana_6789",
+      "services": [
+        "Groceries",
+        "Daily Essentials",
+        "Snacks",
+        "Beverages",
+        "Frozen Foods"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 6.0,
+      "language": "en",
+      "area_landmark": "Opposite AMA Center",
+      "email": "sharma@kiranamart.com",
+      "established_year": 2000,
+      "payment_methods": ["Cash", "UPI", "Paytm"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "New Year Sale",
+          "discount_percentage": 15,
+          "start_date": "2024-12-25",
+          "end_date": "2025-01-05"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "Jain Supermarket",
+      "owner_name": "Anil Jain",
+      "open_time": "06:30",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "9812345678",
+      "street": "CG Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380006",
+      "latitude": 23.0278,
+      "longitude": 72.56259,
+      "rating": "4.6",
+      "store_id": "kirana_7890",
+      "services": [
+        "Groceries",
+        "Daily Essentials",
+        "Spices",
+        "Dry Fruits",
+        "Household Items"
+      ],
+      "delivery_available": false,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 4.0,
+      "language": "en",
+      "area_landmark": "Near Law Garden",
+      "email": "jain@supermarket.com",
+      "established_year": 1988,
+      "payment_methods": ["Cash", "Credit/Debit Cards", "UPI"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "Summer Sale",
+          "discount_percentage": 12,
+          "start_date": "2024-05-01",
+          "end_date": "2024-05-31"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "Desai Kirana Store",
+      "owner_name": "Rajesh Desai",
+      "open_time": "07:00",
+      "close_time": "21:00",
+      "is_24hrs": false,
+      "phone": "9823167890",
+      "street": "Navrangpura Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380009",
+      "latitude": 23.043214,
+      "longitude": 72.55789,
+      "rating": "4.2",
+      "store_id": "kirana_8901",
+      "services": [
+        "Groceries",
+        "Daily Essentials",
+        "Snacks",
+        "Spices",
+        "Cleaning Supplies"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 5.2,
+      "language": "en",
+      "area_landmark": "Near HL College",
+      "email": "desai@kiranastore.com",
+      "established_year": 1990,
+      "payment_methods": ["Cash", "UPI", "Paytm"],
+      "parking_available": false,
+      "seasonal_offers": [
+        {
+          "offer_name": "Winter Sale",
+          "discount_percentage": 8,
+          "start_date": "2024-12-01",
+          "end_date": "2024-12-31"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "Mehta Kirana Bhandar",
+      "owner_name": "Vikram Mehta",
+      "open_time": "08:00",
+      "close_time": "23:00",
+      "is_24hrs": false,
+      "phone": "9900990099",
+      "street": "Drive-In Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380052",
+      "latitude": 23.035567,
+      "longitude": 72.543298,
+      "rating": "4.7",
+      "store_id": "kirana_1234",
+      "services": [
+        "Groceries",
+        "Daily Essentials",
+        "Snacks",
+        "Beverages",
+        "Personal Care Products"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 6.0,
+      "language": "en",
+      "area_landmark": "Near Drive-In Cinema",
+      "email": "mehta@kiranabhandar.com",
+      "established_year": 2005,
+      "payment_methods": ["Cash", "Credit/Debit Cards", "UPI", "Google Pay"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "Independence Day Sale",
+          "discount_percentage": 10,
+          "start_date": "2024-08-10",
+          "end_date": "2024-08-20"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "Raj Kirana House",
+      "owner_name": "Raj Malhotra",
+      "open_time": "07:30",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "9811223344",
+      "street": "Memnagar Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380052",
+      "latitude": 23.04678,
+      "longitude": 72.546123,
+      "rating": "4.4",
+      "store_id": "kirana_5671",
+      "services": [
+        "Groceries",
+        "Daily Essentials",
+        "Spices",
+        "Beverages",
+        "Household Items"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 4.8,
+      "language": "en",
+      "area_landmark": "Opposite Memnagar Fire Station",
+      "email": "raj@kiranahouse.com",
+      "established_year": 1998,
+      "payment_methods": ["Cash", "UPI", "Paytm"],
+      "parking_available": false,
+      "seasonal_offers": [
+        {
+          "offer_name": "Monsoon Discount",
+          "discount_percentage": 5,
+          "start_date": "2024-07-01",
+          "end_date": "2024-07-31"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "Bhagat Kirana Mart",
+      "owner_name": "Amit Bhagat",
+      "open_time": "06:30",
+      "close_time": "21:30",
+      "is_24hrs": false,
+      "phone": "9876677889",
+      "street": "Ashram Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380009",
+      "latitude": 23.029821,
+      "longitude": 72.570123,
+      "rating": "4.3",
+      "store_id": "kirana_1134",
+      "services": [
+        "Groceries",
+        "Daily Essentials",
+        "Cleaning Supplies",
+        "Snacks",
+        "Beverages"
+      ],
+      "delivery_available": false,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 3.5,
+      "language": "en",
+      "area_landmark": "Near Income Tax Office",
+      "email": "bhagat@kiranamart.com",
+      "established_year": 2002,
+      "payment_methods": ["Cash", "Credit/Debit Cards", "UPI"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "Republic Day Offer",
+          "discount_percentage": 7,
+          "start_date": "2024-01-20",
+          "end_date": "2024-01-30"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "Verma General Store",
+      "owner_name": "Sunil Verma",
+      "open_time": "07:00",
+      "close_time": "23:00",
+      "is_24hrs": true,
+      "phone": "9898988989",
+      "street": "Maninagar Main Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380008",
+      "latitude": 22.990678,
+      "longitude": 72.599823,
+      "rating": "4.5",
+      "store_id": "kirana_3345",
+      "services": [
+        "Groceries",
+        "Daily Essentials",
+        "Snacks",
+        "Beverages",
+        "Household Items"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 7.0,
+      "language": "en",
+      "area_landmark": "Near Kankaria Lake",
+      "email": "verma@generalstore.com",
+      "established_year": 2005,
+      "payment_methods": ["Cash", "UPI", "Google Pay"],
+      "parking_available": false,
+      "seasonal_offers": [
+        {
+          "offer_name": "Christmas Sale",
+          "discount_percentage": 12,
+          "start_date": "2024-12-20",
+          "end_date": "2024-12-31"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "Shah Kirana Corner",
+      "owner_name": "Pankaj Shah",
+      "open_time": "06:30",
+      "close_time": "21:00",
+      "is_24hrs": false,
+      "phone": "9823123456",
+      "street": "Bopal Main Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380058",
+      "latitude": 23.040123,
+      "longitude": 72.495678,
+      "rating": "4.1",
+      "store_id": "kirana_4456",
+      "services": [
+        "Groceries",
+        "Daily Essentials",
+        "Spices",
+        "Snacks",
+        "Cleaning Supplies"
+      ],
+      "delivery_available": false,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 10.0,
+      "language": "en",
+      "area_landmark": "Near Bopal Lake",
+      "email": "shah@kiranacorner.com",
+      "established_year": 1992,
+      "payment_methods": ["Cash", "UPI", "Paytm"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "Festival Bonanza",
+          "discount_percentage": 10,
+          "start_date": "2024-09-10",
+          "end_date": "2024-09-20"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "Soni General Store",
+      "owner_name": "Ramesh Soni",
+      "open_time": "07:30",
+      "close_time": "22:30",
+      "is_24hrs": false,
+      "phone": "9811123456",
+      "street": "Thaltej Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "zip_code": "380059",
+      "latitude": 23.050123,
+      "longitude": 72.523456,
+      "rating": "4.6",
+      "store_id": "kirana_5567",
+      "services": [
+        "Groceries",
+        "Daily Essentials",
+        "Beverages",
+        "Snacks",
+        "Cleaning Supplies"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 9.0,
+      "language": "en",
+      "area_landmark": "Opposite Shalby Hospital",
+      "email": "soni@generalstore.com",
+      "established_year": 1998,
+      "payment_methods": ["Cash", "UPI", "Paytm", "Google Pay"],
+      "parking_available": false,
+      "seasonal_offers": [
+        {
+          "offer_name": "Holi Discount",
+          "discount_percentage": 8,
+          "start_date": "2024-03-10",
+          "end_date": "2024-03-20"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "પટેલ કિરાણા સ્ટોર",
+      "owner_name": "મહેશ પટેલ",
+      "open_time": "07:00",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "9823456789",
+      "street": "વસ્ત્રાપુર મેન રોડ",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380015",
+      "latitude": 23.030313,
+      "longitude": 72.516274,
+      "rating": "4.3",
+      "store_id": "kirana_5678",
+      "services": [
+        "કિરાણાની ચીજો",
+        "દૈનિક આવશ્યકતાઓ",
+        "મસાલા અને મીઠાઈ",
+        "નાસ્તા",
+        "પીણાં",
+        "સાફ સફાઈની વસ્તુઓ"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 5.0,
+      "language": "gu",
+      "area_landmark": "વસ્ત્રાપુર તળાવ નજીક",
+      "email": "contact@patelkirana.com",
+      "established_year": 1995,
+      "payment_methods": ["Cash", "Credit/Debit Cards", "UPI", "Paytm"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "દિવાળી ડિસ્કાઉન્ટ",
+          "discount_percentage": 10,
+          "start_date": "2024-10-15",
+          "end_date": "2024-11-01"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "શર્મા કિરાણા માર્ટ",
+      "owner_name": "રાકેશ શર્મા",
+      "open_time": "08:00",
+      "close_time": "22:30",
+      "is_24hrs": false,
+      "phone": "9876543210",
+      "street": "સેટેલાઈટ રોડ",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380015",
+      "latitude": 23.027934,
+      "longitude": 72.511965,
+      "rating": "4.5",
+      "store_id": "kirana_6789",
+      "services": [
+        "કિરાણાની ચીજો",
+        "દૈનિક આવશ્યકતાઓ",
+        "નાસ્તા",
+        "પીણાં",
+        "ફ્રોઝન ફૂડ"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 6.0,
+      "language": "gu",
+      "area_landmark": "એએમએ સેન્ટર સામે",
+      "email": "sharma@kiranamart.com",
+      "established_year": 2000,
+      "payment_methods": ["Cash", "UPI", "Paytm"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "નવા વર્ષની સેલ",
+          "discount_percentage": 15,
+          "start_date": "2024-12-25",
+          "end_date": "2025-01-05"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "જૈન સુપરમાર્કેટ",
+      "owner_name": "અનિલ જૈન",
+      "open_time": "06:30",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "9812345678",
+      "street": "સીજી રોડ",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380006",
+      "latitude": 23.0278,
+      "longitude": 72.56259,
+      "rating": "4.6",
+      "store_id": "kirana_7890",
+      "services": [
+        "કિરાણાની ચીજો",
+        "દૈનિક આવશ્યકતાઓ",
+        "મસાલા",
+        "સુકા મેવો",
+        "ઘરગથ્થુ ચીજો"
+      ],
+      "delivery_available": false,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 4.0,
+      "language": "gu",
+      "area_landmark": "લૉ ગાર્ડન પાસે",
+      "email": "jain@supermarket.com",
+      "established_year": 1988,
+      "payment_methods": ["Cash", "Credit/Debit Cards", "UPI"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "સમર સેલ",
+          "discount_percentage": 12,
+          "start_date": "2024-05-01",
+          "end_date": "2024-05-31"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "દેસાઈ કિરાણા સ્ટોર",
+      "owner_name": "રાજેશ દેસાઈ",
+      "open_time": "07:00",
+      "close_time": "21:00",
+      "is_24hrs": false,
+      "phone": "9823167890",
+      "street": "નવરંગપુરા રોડ",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380009",
+      "latitude": 23.043214,
+      "longitude": 72.55789,
+      "rating": "4.2",
+      "store_id": "kirana_8901",
+      "services": [
+        "કિરાણાની ચીજો",
+        "દૈનિક આવશ્યકતાઓ",
+        "નાસ્તા",
+        "મસાલા",
+        "સાફ સફાઈની વસ્તુઓ"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 5.2,
+      "language": "gu",
+      "area_landmark": "એચએલ કોલેજ પાસે",
+      "email": "desai@kiranastore.com",
+      "established_year": 1990,
+      "payment_methods": ["Cash", "UPI", "Paytm"],
+      "parking_available": false,
+      "seasonal_offers": [
+        {
+          "offer_name": "શિયાળાની સેલ",
+          "discount_percentage": 8,
+          "start_date": "2024-12-01",
+          "end_date": "2024-12-31"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "મેહતા કિરાણા ભંડાર",
+      "owner_name": "વિક્રમ મહેતા",
+      "open_time": "08:00",
+      "close_time": "23:00",
+      "is_24hrs": false,
+      "phone": "9900990099",
+      "street": "ડ્રાઇવ-ઈન રોડ",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380052",
+      "latitude": 23.035567,
+      "longitude": 72.543298,
+      "rating": "4.7",
+      "store_id": "kirana_1234",
+      "services": [
+        "કિરાણાની ચીજો",
+        "દૈનિક આવશ્યકતાઓ",
+        "નાસ્તા",
+        "પીણાં",
+        "પર્સનલ કેર પ્રોડક્ટ્સ"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 6.0,
+      "language": "gu",
+      "area_landmark": "ડ્રાઇવ-ઈન સિનેમા પાસે",
+      "email": "mehta@kiranabhandar.com",
+      "established_year": 2005,
+      "payment_methods": ["Cash", "Credit/Debit Cards", "UPI", "Google Pay"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "સ્વતંત્રતા દિવસ સેલ",
+          "discount_percentage": 10,
+          "start_date": "2024-08-10",
+          "end_date": "2024-08-20"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "રાજ કિરાણા હાઉસ",
+      "owner_name": "રાજ મલ્હોત્રા",
+      "open_time": "07:30",
+      "close_time": "22:00",
+      "is_24hrs": false,
+      "phone": "9811223344",
+      "street": "મેમનગર રોડ",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380052",
+      "latitude": 23.04678,
+      "longitude": 72.546123,
+      "rating": "4.4",
+      "store_id": "kirana_5671",
+      "services": [
+        "કિરાણાની ચીજો",
+        "દૈનિક આવશ્યકતાઓ",
+        "મસાલા",
+        "પીણાં",
+        "ઘરગથ્થુ ચીજો"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 4.8,
+      "language": "gu",
+      "area_landmark": "મેમનગર ફાયર સ્ટેશન સામે",
+      "email": "raj@kiranahouse.com",
+      "established_year": 1998,
+      "payment_methods": ["Cash", "UPI", "Paytm"],
+      "parking_available": false,
+      "seasonal_offers": [
+        {
+          "offer_name": "મોન્સૂન ડિસ્કાઉન્ટ",
+          "discount_percentage": 5,
+          "start_date": "2024-07-01",
+          "end_date": "2024-07-31"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "ભગત કિરાણા માર્ટ",
+      "owner_name": "અમિત ભગત",
+      "open_time": "06:30",
+      "close_time": "21:30",
+      "is_24hrs": false,
+      "phone": "9876677889",
+      "street": "આશ્રમ રોડ",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380009",
+      "latitude": 23.029821,
+      "longitude": 72.570123,
+      "rating": "4.3",
+      "store_id": "kirana_1134",
+      "services": [
+        "કિરાણાની ચીજો",
+        "દૈનિક આવશ્યકતાઓ",
+        "સાફ સફાઈની વસ્તુઓ",
+        "નાસ્તા",
+        "પીણાં"
+      ],
+      "delivery_available": false,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 3.5,
+      "language": "gu",
+      "area_landmark": "આયકર કાર્યાલય પાસે",
+      "email": "bhagat@kiranamart.com",
+      "established_year": 2002,
+      "payment_methods": ["Cash", "Credit/Debit Cards", "UPI"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "ગણતંત્ર દિવસ ઓફર",
+          "discount_percentage": 7,
+          "start_date": "2024-01-20",
+          "end_date": "2024-01-30"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "વર્મા જનરલ સ્ટોર",
+      "owner_name": "સુનીલ વર્મા",
+      "open_time": "07:00",
+      "close_time": "23:00",
+      "is_24hrs": true,
+      "phone": "9898988989",
+      "street": "મણિનગર મેન રોડ",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380008",
+      "latitude": 22.990678,
+      "longitude": 72.599823,
+      "rating": "4.5",
+      "store_id": "kirana_3345",
+      "services": [
+        "કિરાણાની ચીજો",
+        "દૈનિક આવશ્યકતાઓ",
+        "નાસ્તા",
+        "પીણાં",
+        "ઘરગથ્થુ ચીજો"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 7.0,
+      "language": "gu",
+      "area_landmark": "કાંકરીયા તળાવ પાસે",
+      "email": "verma@generalstore.com",
+      "established_year": 2005,
+      "payment_methods": ["Cash", "UPI", "Google Pay"],
+      "parking_available": false,
+      "seasonal_offers": [
+        {
+          "offer_name": "ક્રિસમસ સેલ",
+          "discount_percentage": 12,
+          "start_date": "2024-12-20",
+          "end_date": "2024-12-31"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "શાહ કિરાણા કોર્નર",
+      "owner_name": "પંકજ શાહ",
+      "open_time": "06:30",
+      "close_time": "21:00",
+      "is_24hrs": false,
+      "phone": "9823123456",
+      "street": "બોપલ મેન રોડ",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380058",
+      "latitude": 23.040123,
+      "longitude": 72.495678,
+      "rating": "4.1",
+      "store_id": "kirana_4456",
+      "services": [
+        "કિરાણાની ચીજો",
+        "દૈનિક આવશ્યકતાઓ",
+        "મસાલા",
+        "નાસ્તા",
+        "સાફ સફાઈની વસ્તુઓ"
+      ],
+      "delivery_available": false,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 10.0,
+      "language": "gu",
+      "area_landmark": "બોપલ તળાવ નજીક",
+      "email": "shah@kiranacorner.com",
+      "established_year": 1992,
+      "payment_methods": ["Cash", "UPI", "Paytm"],
+      "parking_available": true,
+      "seasonal_offers": [
+        {
+          "offer_name": "ફેસ્ટિવલ બોનાન્ઝા",
+          "discount_percentage": 10,
+          "start_date": "2024-09-10",
+          "end_date": "2024-09-20"
+        }
+      ]
+    },
+    {
+      "icon_url": "/images/kiranaStoreLogo.png",
+      "store_name": "સોની જનરલ સ્ટોર",
+      "owner_name": "રમેશ સોની",
+      "open_time": "07:30",
+      "close_time": "22:30",
+      "is_24hrs": false,
+      "phone": "9811123456",
+      "street": "થલતેજ રોડ",
+      "city": "અમદાવાદ",
+      "state": "ગુજરાત",
+      "state_code": "GJ",
+      "zip_code": "380059",
+      "latitude": 23.050123,
+      "longitude": 72.523456,
+      "rating": "4.6",
+      "store_id": "kirana_5567",
+      "services": [
+        "કિરાણાની ચીજો",
+        "દૈનિક આવશ્યકતાઓ",
+        "પીણાં",
+        "નાસ્તા",
+        "સાફ સફાઈની વસ્તુઓ"
+      ],
+      "delivery_available": true,
+      "accepts_online_payments": true,
+      "distance_from_city_center_km": 9.0,
+      "language": "gu",
+      "area_landmark": "શાલ્બી હોસ્પિટલ સામે",
+      "email": "soni@generalstore.com",
+      "established_year": 1998,
+      "payment_methods": ["Cash", "UPI", "Paytm", "Google Pay"],
+      "parking_available": false,
+      "seasonal_offers": [
+        {
+          "offer_name": "હોલી ડિસ્કાઉન્ટ",
+          "discount_percentage": 8,
+          "start_date": "2024-03-10",
+          "end_date": "2024-03-20"
+        }
+      ]
+    }
+  ]
 }
