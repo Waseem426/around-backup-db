@@ -20828,6 +20828,228 @@
       "ml": [],
       "kn": [],
       "ta": []
+    },
+    "Pharmacy": {
+      "en": [
+        {
+          "id": "1",
+          "title": "Open Pharmacies Nearby",
+          "number": "4 open"
+        },
+        {
+          "id": "2",
+          "title": "24/7 Pharmacies Nearby",
+          "number": "3 open"
+        }
+      ],
+      "hi": [
+        {
+          "id": "1",
+          "title": "मेरे पास खुली फार्मेसियां",
+          "number": "4 खुली हैं"
+        },
+        {
+          "id": "2",
+          "title": "मेरे पास 24/7 फार्मेसियां",
+          "number": "3 खुली हैं"
+        }
+      ],
+      "te": [
+        {
+          "id": "1",
+          "title": "నా సమీపంలో తెరిచిన ఫార్మసీలు",
+          "number": "4 అందుబాటులో ఉన్నాయి"
+        },
+        {
+          "id": "2",
+          "title": "నా సమీపంలో 24/7 ఫార్మసీలు",
+          "number": "3 అందుబాటులో ఉన్నాయి"
+        }
+      ],
+      "ml": [
+        {
+          "id": "1",
+          "title": "എന്റെ സമീപത്തുള്ള തുറന്ന ഫാർമസികൾ",
+          "number": "4 ലഭ്യമാണ്"
+        },
+        {
+          "id": "2",
+          "title": "എന്റെ സമീപത്തുള്ള 24/7 ഫാർമസികൾ",
+          "number": "3 ലഭ്യമാണ്"
+        }
+      ],
+      "kn": [
+        {
+          "id": "1",
+          "title": "ನನ್ನ ಹತ್ತಿರ ತೆರೆದ ಫಾರ್ಮಸಿಗಳು",
+          "number": "4 ಲಭ್ಯವಿದೆ"
+        },
+        {
+          "id": "2",
+          "title": "ನನ್ನ ಹತ್ತಿರ 24/7 ಫಾರ್ಮಸಿಗಳು",
+          "number": "3 ಲಭ್ಯವಿದೆ"
+        }
+      ],
+      "ta": [
+        {
+          "id": "1",
+          "title": "என் அருகிலுள்ள திறந்த மருந்தகங்கள்",
+          "number": "4 கிடைக்கின்றன"
+        },
+        {
+          "id": "2",
+          "title": "என் அருகிலுள்ள 24/7 மருந்தகங்கள்",
+          "number": "3 கிடைக்கின்றன"
+        }
+      ]
+    },
+    "Kirana Store": {
+      "en": [
+        {
+          "id": "1",
+          "title": "Local Kirana Stores Nearby",
+          "number": "5 available"
+        },
+        {
+          "id": "2",
+          "title": "24/7 Kirana Stores Nearby",
+          "number": "2 open"
+        }
+      ],
+      "hi": [
+        {
+          "id": "1",
+          "title": "मेरे पास स्थानीय किराना स्टोर",
+          "number": "5 उपलब्ध"
+        },
+        {
+          "id": "2",
+          "title": "मेरे पास 24/7 किराना स्टोर",
+          "number": "2 खुले"
+        }
+      ],
+      "te": [
+        {
+          "id": "1",
+          "title": "నా సమీపంలో లోకల్ కిరాణా స్టోర్స్",
+          "number": "5 అందుబాటులో ఉన్నాయి"
+        },
+        {
+          "id": "2",
+          "title": "నా సమీపంలో 24/7 కిరాణా స్టోర్స్",
+          "number": "2 తెరవబడ్డాయి"
+        }
+      ],
+      "ml": [
+        {
+          "id": "1",
+          "title": "എന്റെ അടുത്തുള്ള നാട്ടുകാരൻ സ്റ്റോറുകൾ",
+          "number": "5 ലഭ്യമാണ്"
+        },
+        {
+          "id": "2",
+          "title": "എന്റെ അടുത്തുള്ള 24/7 നാട്ടുകാരൻ സ്റ്റോറുകൾ",
+          "number": "2 തുറക്കുന്നു"
+        }
+      ],
+      "kn": [
+        {
+          "id": "1",
+          "title": "ನನ್ನ ಹತ್ತಿರದ ಸ್ಥಳೀಯ ಕಿರಾಣಿ ಅಂಗಡಿಗಳು",
+          "number": "5 ಲಭ್ಯವಿದೆ"
+        },
+        {
+          "id": "2",
+          "title": "ನನ್ನ ಹತ್ತಿರ 24/7 ಕಿರಾಣಿ ಅಂಗಡಿಗಳು",
+          "number": "2 ತೆರೆಯಲಾಗಿದೆ"
+        }
+      ],
+      "ta": [
+        {
+          "id": "1",
+          "title": "என் அருகிலுள்ள உள்நாட்டு கிரானா கடைகள்",
+          "number": "5 கிடைக்கின்றன"
+        },
+        {
+          "id": "2",
+          "title": "என் அருகிலுள்ள 24/7 கிரானா கடைகள்",
+          "number": "2 திறந்துள்ளது"
+        }
+      ]
+    },
+    "Airport": {
+      "en": [
+        {
+          "id": "1",
+          "title": "Airports Nearby Me",
+          "number": "2 within 50 miles"
+        },
+        {
+          "id": "2",
+          "title": "International Airports Nearby",
+          "number": "1 available"
+        }
+      ],
+      "hi": [
+        {
+          "id": "1",
+          "title": "मेरे पास हवाई अड्डे",
+          "number": "2 50 मील के अंदर"
+        },
+        {
+          "id": "2",
+          "title": "मेरे पास अंतर्राष्ट्रीय हवाई अड्डे",
+          "number": "1 उपलब्ध"
+        }
+      ],
+      "te": [
+        {
+          "id": "1",
+          "title": "నా సమీపంలోని విమానాశ్రయాలు",
+          "number": "50 మైళ్ళలో 2"
+        },
+        {
+          "id": "2",
+          "title": "నా సమీపంలోని అంతర్జాతీయ విమానాశ్రయాలు",
+          "number": "1 అందుబాటులో ఉంది"
+        }
+      ],
+      "ml": [
+        {
+          "id": "1",
+          "title": "എന്റെ സമീപത്തുള്ള വിമാനത്താവളങ്ങൾ",
+          "number": "50 മൈലിൽ 2"
+        },
+        {
+          "id": "2",
+          "title": "എന്റെ സമീപത്തുള്ള അന്താരാഷ്ട്ര വിമാനത്താവളം",
+          "number": "1 ലഭ്യമാണ്"
+        }
+      ],
+      "kn": [
+        {
+          "id": "1",
+          "title": "ನನ್ನ ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣಗಳು",
+          "number": "50 ಮೈಲಿಗಳಲ್ಲಿ 2"
+        },
+        {
+          "id": "2",
+          "title": "ನನ್ನ ಹತ್ತಿರದ ಅಂತಾರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ",
+          "number": "1 ಲಭ್ಯವಿದೆ"
+        }
+      ],
+      "ta": [
+        {
+          "id": "1",
+          "title": "என் அருகிலுள்ள விமான நிலையங்கள்",
+          "number": "50 மைல்களில் 2"
+        },
+        {
+          "id": "2",
+          "title": "என் அருகிலுள்ள பன்னாட்டு விமான நிலையம்",
+          "number": "1 கிடைக்கின்றன"
+        }
+      ]
     }
   },
   "around_pharmacyData": [
@@ -22266,6 +22488,4126 @@
           "end_date": "2024-03-20"
         }
       ]
+    }
+  ],
+  "Airports": [
+    {
+      "staff_id": "S001",
+      "first_name": "John",
+      "last_name": "Doe",
+      "hire_date": "2018-06-15",
+      "type": "Staff",
+      "employment_status": "Active",
+      "department": "Ground Operations",
+      "purge_id": "P001",
+      "latitude": 51.443104,
+      "longitude": -0.473506
+    },
+    {
+      "staff_id": "S002",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "hire_date": "2020-03-21",
+      "type": "Staff",
+      "employment_status": "On Leave",
+      "department": "Cargo Handling",
+      "purge_id": "P002",
+      "latitude": 51.503052,
+      "longitude": -0.494349
+    },
+    {
+      "staff_id": "S003",
+      "first_name": "Emily",
+      "last_name": "Clark",
+      "hire_date": "2019-08-09",
+      "type": "Staff",
+      "employment_status": "Active",
+      "department": "Passenger Services",
+      "purge_id": "P003",
+      "latitude": 51.463104,
+      "longitude": -0.453506
+    },
+    {
+      "staff_id": "S004",
+      "first_name": "Mark",
+      "last_name": "Johnson",
+      "hire_date": "2017-11-01",
+      "type": "Staff",
+      "employment_status": "Retired",
+      "department": "Security",
+      "purge_id": "P004",
+      "latitude": 51.523052,
+      "longitude": -0.474349
+    },
+    {
+      "staff_id": "S005",
+      "first_name": "Lucy",
+      "last_name": "Adams",
+      "hire_date": "2021-01-15",
+      "type": "Staff",
+      "employment_status": "Active",
+      "department": "Maintenance",
+      "purge_id": "P005",
+      "latitude": 51.483104,
+      "longitude": -0.463506
+    },
+    {
+      "baggage_handling_id": "BHS001",
+      "service_type": "Manual",
+      "daily_capacity": 500,
+      "efficiency_rating": 95.5,
+      "service_id": "SRV001",
+      "purge_id": "P006",
+      "type": "Baggage",
+      "latitude": 51.465273,
+      "longitude": -0.450123
+    },
+    {
+      "baggage_handling_id": "BHS002",
+      "service_type": "Automated",
+      "daily_capacity": 700,
+      "efficiency_rating": 89.2,
+      "service_id": "SRV002",
+      "purge_id": "P007",
+      "type": "Baggage",
+      "latitude": 51.472015,
+      "longitude": -0.480534
+    },
+    {
+      "baggage_handling_id": "BHS003",
+      "service_type": "Manual",
+      "daily_capacity": 600,
+      "efficiency_rating": 92.4,
+      "service_id": "SRV003",
+      "purge_id": "P008",
+      "type": "Baggage",
+      "latitude": 51.475273,
+      "longitude": -0.455123
+    },
+    {
+      "baggage_handling_id": "BHS004",
+      "service_type": "Automated",
+      "daily_capacity": 850,
+      "efficiency_rating": 90.7,
+      "service_id": "SRV004",
+      "purge_id": "P009",
+      "type": "Baggage",
+      "latitude": 51.482015,
+      "longitude": -0.485534
+    },
+    {
+      "baggage_handling_id": "BHS005",
+      "service_type": "Manual",
+      "daily_capacity": 550,
+      "efficiency_rating": 87.9,
+      "service_id": "SRV005",
+      "purge_id": "P010",
+      "type": "Baggage",
+      "latitude": 51.475273,
+      "longitude": -0.460123
+    },
+    {
+      "aircraft_id": "AC001",
+      "purge_id": "P011",
+      "aircraft_type": "Boeing 737",
+      "aircraft_capacity": 180,
+      "type": "Aircraft",
+      "latitude": 51.443104,
+      "longitude": -0.473506
+    },
+    {
+      "aircraft_id": "AC002",
+      "purge_id": "P012",
+      "aircraft_type": "Airbus A320",
+      "aircraft_capacity": 150,
+      "type": "Aircraft",
+      "latitude": 51.503052,
+      "longitude": -0.494349
+    },
+    {
+      "aircraft_id": "AC003",
+      "purge_id": "P013",
+      "aircraft_type": "Boeing 747",
+      "aircraft_capacity": 416,
+      "type": "Aircraft",
+      "latitude": 51.453104,
+      "longitude": -0.483506
+    },
+    {
+      "aircraft_id": "AC004",
+      "purge_id": "P014",
+      "aircraft_type": "Airbus A380",
+      "aircraft_capacity": 575,
+      "type": "Aircraft",
+      "latitude": 51.513052,
+      "longitude": -0.474349
+    },
+    {
+      "aircraft_id": "AC005",
+      "purge_id": "P015",
+      "aircraft_type": "Boeing 787",
+      "aircraft_capacity": 242,
+      "type": "Aircraft",
+      "latitude": 51.473104,
+      "longitude": -0.463506
+    }
+  ],
+  "updated_stations": [
+    {
+      "name": "Fastrip",
+      "address": "2200, Niles St Bakersfield, CA-93306",
+      "state": "California",
+      "country": "USA",
+      "phone": "(661) 872-6519",
+      "hours": "24",
+      "comment": 10,
+      "latitude": 35.37655,
+      "longitude": -118.96679,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.9,
+      "payment_mode": "Cash",
+      "logo_url": "/images/fastripLogo2.jpg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.4,
+          "credit_card_price": 6.5,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 4.9,
+          "credit_card_price": 5,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.1,
+          "credit_card_price": 5.2,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Chevron",
+      "address": "1131 Oak St, Bakersfield, CA-93304",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-324-7621",
+      "hours": "24",
+      "comment": 16,
+      "latitude": 35.368191,
+      "longitude": -119.039124,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.2,
+      "payment_mode": "Cash",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.7,
+          "credit_card_price": 5.8,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.3,
+          "credit_card_price": 5.4,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.9,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Chevron Bakersfield",
+      "address": "11101 CA-178, Bakersfield, CA 93306",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-366-4886",
+      "hours": "24",
+      "comment": 225,
+      "latitude": 35.39804,
+      "longitude": -118.87999,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.1,
+      "payment_mode": "Cash",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "ARCO",
+      "address": "3125 CA Ave, Bakersfield, CA-93304",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-634-0150",
+      "hours": "24",
+      "comment": 359,
+      "latitude": 35.3682,
+      "longitude": -119.0384,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4,
+      "payment_mode": "Cash",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "ARCO",
+      "address": "6450 White Ln, Bakersfield, CA-93309",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-398-0393",
+      "hours": "24",
+      "comment": 162,
+      "latitude": 35.32811,
+      "longitude": -119.07588,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.1,
+      "payment_mode": "Cash",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "ARCO",
+      "address": " 3220 Ming, Bakersfield, CA-93304",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-398-0303",
+      "hours": "24",
+      "comment": 203,
+      "latitude": 35.34377,
+      "longitude": -119.03726,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.9,
+      "payment_mode": "Cash",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5,
+          "credit_card_price": 5.1,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "ARCO",
+      "address": "4203 Ming, Bakersfield, CA-93309",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-831-7309",
+      "hours": "24",
+      "comment": 166,
+      "latitude": 35.34292,
+      "longitude": -119.04978,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4,
+      "payment_mode": "Cash",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Shell",
+      "address": "4815 Panama, Bakersfield, CA-93313",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-412-4956",
+      "hours": "24",
+      "comment": 77,
+      "latitude": 35.29973,
+      "longitude": -119.05551,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.8,
+      "payment_mode": "Cash",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Shell",
+      "address": "4050 Gosford, Bakersfield, CA-93309",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-833-4002",
+      "hours": "24",
+      "comment": 23,
+      "latitude": 35.3223,
+      "longitude": -119.09199,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.1,
+      "payment_mode": "Cash",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Shell",
+      "address": "5300 Olive Dr, Bakersfield, CA-93308",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-399-8889",
+      "hours": "24",
+      "comment": 52,
+      "latitude": 35.41767,
+      "longitude": -119.05983,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.8,
+      "payment_mode": "Cash",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Indian Oil",
+      "address": "Gopi Talav, Surat - 395003",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-261-2345678",
+      "hours": "24",
+      "comment": 12,
+      "latitude": 21.1702,
+      "longitude": 72.8311,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.6,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 92.5,
+          "credit_card_price": 93.5,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 89.24,
+          "credit_card_price": 90.2,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 98,
+          "credit_card_price": 99,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 94.27,
+          "credit_card_price": 95.37,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "HP",
+      "address": "Adajan, Surat - 395009",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-261-3456789",
+      "hours": "24",
+      "comment": 15,
+      "latitude": 21.1785,
+      "longitude": 72.8195,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.5,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 92.6,
+          "credit_card_price": 93.6,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 89.24,
+          "credit_card_price": 90.24,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 98.1,
+          "credit_card_price": 99,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 94.27,
+          "credit_card_price": 95.27,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "BP",
+      "address": "Station Road, Surat - 395002",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-261-4567890",
+      "hours": "24",
+      "comment": 18,
+      "latitude": 21.175,
+      "longitude": 72.825,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.7,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/BharatPetroleumLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 92.5,
+          "credit_card_price": 92,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 89.24,
+          "credit_card_price": 91.2,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 98,
+          "credit_card_price": 100,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 94.27,
+          "credit_card_price": 96.27,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Indian Oil",
+      "address": "Varachha, Surat - 395006",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-261-5678901",
+      "hours": "24",
+      "comment": 20,
+      "latitude": 21.178,
+      "longitude": 72.8205,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.6,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 92.5,
+          "credit_card_price": 94.5,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 89.24,
+          "credit_card_price": 90.24,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 98,
+          "credit_card_price": 100,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 94.27,
+          "credit_card_price": 96.27,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "HP",
+      "address": "Piplod, Surat - 395007",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-261-6789012",
+      "hours": "24",
+      "comment": 23,
+      "latitude": 21.17,
+      "longitude": 72.8255,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.5,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 92.6,
+          "credit_card_price": 93.6,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 89.24,
+          "credit_card_price": 90.24,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 98.1,
+          "credit_card_price": 99.1,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 94.27,
+          "credit_card_price": 95.27,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "BP",
+      "address": "Rander Road, Surat - 395005",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-261-7890123",
+      "hours": "24",
+      "comment": 26,
+      "latitude": 21.176,
+      "longitude": 72.822,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.8,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/BharatPetroleumLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 92.5,
+          "credit_card_price": 94.5,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 89.24,
+          "credit_card_price": 91.24,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 98,
+          "credit_card_price": 100,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 94.27,
+          "credit_card_price": 96.27,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Indian Oil",
+      "address": "City Center, Surat - 395002",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-261-8901234",
+      "hours": "24",
+      "comment": 17,
+      "latitude": 21.168,
+      "longitude": 72.83,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.4,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 92.5,
+          "credit_card_price": 93.5,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 89.24,
+          "credit_card_price": 91.24,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 98,
+          "credit_card_price": 99,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 94.27,
+          "credit_card_price": 96.27,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "HP",
+      "address": "Udhna, Surat - 394210",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-261-9012345",
+      "hours": "24",
+      "comment": 21,
+      "latitude": 21.1725,
+      "longitude": 72.829,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.6,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 92.6,
+          "credit_card_price": 94.6,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 89.24,
+          "credit_card_price": 90.24,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 98.1,
+          "credit_card_price": 99.1,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 94.27,
+          "credit_card_price": 95.27,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Indian Oil",
+      "address": "Ashram Road, Ahmedabad - 380009",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-79-25634856",
+      "hours": "24",
+      "comment": 15,
+      "latitude": 23.03,
+      "longitude": 72.5807,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.8,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 93.75,
+          "credit_card_price": 94.75,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 90.2,
+          "credit_card_price": 91.2,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 102.5,
+          "credit_card_price": 103.5,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 97.75,
+          "credit_card_price": 99.75,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "HP",
+      "address": "CG Road, Ahmedabad - 380009",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-79-25678901",
+      "hours": "24",
+      "comment": 18,
+      "latitude": 23.0345,
+      "longitude": 72.585,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.5,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 93.85,
+          "credit_card_price": 95.85,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 90.2,
+          "credit_card_price": 92.2,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 102.6,
+          "credit_card_price": 102.6,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 97.75,
+          "credit_card_price": 99.75,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "BP",
+      "address": "Vastrapur, Ahmedabad - 380015",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-79-25634567",
+      "hours": "24",
+      "comment": 20,
+      "latitude": 23.0355,
+      "longitude": 72.592,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.6,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/BharatPetroleumLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 93.75,
+          "credit_card_price": 95.75,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 90.2,
+          "credit_card_price": 91.2,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 102.5,
+          "credit_card_price": 103.5,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 97.75,
+          "credit_card_price": 97.75,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Indian Oil",
+      "address": "S.P Stadium, Ahmedabad - 380013",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-79-25645678",
+      "hours": "24",
+      "comment": 22,
+      "latitude": 23.047,
+      "longitude": 72.589,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.7,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 93.75,
+          "credit_card_price": 94.75,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 90.2,
+          "credit_card_price": 91.2,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 102.5,
+          "credit_card_price": 103.5,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 97.75,
+          "credit_card_price": 98.75,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "HP",
+      "address": "Satellite, Ahmedabad - 380015",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-79-25656789",
+      "hours": "24",
+      "comment": 25,
+      "latitude": 23.0445,
+      "longitude": 72.5905,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.5,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 93.85,
+          "credit_card_price": 94.85,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 90.2,
+          "credit_card_price": 92.2,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 102.6,
+          "credit_card_price": 105.2,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 97.75,
+          "credit_card_price": 99.75,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "BP",
+      "address": "Ahm Airport, Ahmedabad - 380003",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-79-25667890",
+      "hours": "24",
+      "comment": 27,
+      "latitude": 23.075,
+      "longitude": 72.631,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.8,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/BharatPetroleumLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 93.75,
+          "credit_card_price": 94.75,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 90.2,
+          "credit_card_price": 92.3,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 102.5,
+          "credit_card_price": 103.5,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 97.75,
+          "credit_card_price": 99.75,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "Indian Oil",
+      "address": "Maninagar, Ahmedabad - 380008",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-79-25678901",
+      "hours": "24",
+      "comment": 19,
+      "latitude": 23.035,
+      "longitude": 72.58,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.6,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 93.75,
+          "credit_card_price": 95.75,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 90.2,
+          "credit_card_price": 91.2,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 102.5,
+          "credit_card_price": 103.5,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 97.75,
+          "credit_card_price": 97.75,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "HP",
+      "address": "Paldi, Ahmedabad - 380007",
+      "state": "Gujarat",
+      "country": "India",
+      "phone": "+91-79-25689012",
+      "hours": "24",
+      "comment": 22,
+      "latitude": 23.0245,
+      "longitude": 72.5695,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.7,
+      "payment_mode": "Cash, Credit Card, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "Diesel Premium",
+          "cash_price": 93.85,
+          "credit_card_price": 95.85,
+          "grade": "P"
+        },
+        {
+          "product_name": "Diesel Regular",
+          "cash_price": 90.2,
+          "credit_card_price": 91.2,
+          "grade": "R"
+        },
+        {
+          "product_name": "Petrol Premium",
+          "cash_price": 102.6,
+          "credit_card_price": 103.6,
+          "grade": 87
+        },
+        {
+          "product_name": "Petrol Regular",
+          "cash_price": 97.75,
+          "credit_card_price": 98.75,
+          "grade": 91
+        }
+      ],
+      "language": "en"
+    },
+    {
+      "name": "फास्टरिप",
+      "address": "2200, नाइल्स स्ट्रीट, बेकर्सफील्ड, सीए-93306",
+      "state": "कैलिफोर्निया",
+      "country": "यूएसएयूएसए",
+      "phone": "(661) 872-6519",
+      "hours": "24",
+      "comment": 10,
+      "latitude": 35.37655,
+      "longitude": -118.96679,
+      "open": true,
+      "timing": "24 घंटे खुला है",
+      "ratings": 4.9,
+      "payment_mode": "नकद",
+      "logo_url": "/images/fastripLogo2.jpg",
+      "products": [
+        {
+          "product_name": "डीजल",
+          "cash_price": 6.4,
+          "credit_card_price": 6.5,
+          "grade": "डी"
+        },
+        {
+          "product_name": "मिडग्रेड",
+          "cash_price": 4.9,
+          "credit_card_price": 5,
+          "grade": 87
+        },
+        {
+          "product_name": "रेगुलर",
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 90
+        },
+        {
+          "product_name": "प्रीमियम",
+          "cash_price": 5.1,
+          "credit_card_price": 5.2,
+          "grade": 91
+        }
+      ],
+      "language": "hi"
+    },
+    {
+      "name": "शेवरॉन",
+      "address": "1131 ओक सेंट, बेकर्सफील्ड, सीए-93304",
+      "state": "कैलिफोर्निया",
+      "country": "यूएसए",
+      "phone": "+1 661-324-7621",
+      "hours": "24",
+      "comment": 16,
+      "latitude": 35.368191,
+      "longitude": -119.039124,
+      "open": true,
+      "timing": "24 घंटे खुला है",
+      "ratings": 3.2,
+      "payment_mode": "नकद",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "डीज़ल",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": "डी"
+        },
+        {
+          "product_name": "मिडग्रेड",
+          "cash_price": 5.7,
+          "credit_card_price": 5.8,
+          "grade": 87
+        },
+        {
+          "product_name": "नियमित",
+          "cash_price": 5.3,
+          "credit_card_price": 5.4,
+          "grade": 90
+        },
+        {
+          "product_name": "अधिमूल्य",
+          "cash_price": 5.9,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "hi"
+    },
+    {
+      "name": "शेवरॉन बेकर्सफील्ड",
+      "address": "11101 सीए-178, बेकर्सफील्ड, सीए 93306",
+      "state": "कैलिफोर्निया",
+      "country": "यूएसए",
+      "phone": "+1 661-366-4886",
+      "hours": "24",
+      "comment": 225,
+      "latitude": 35.39804,
+      "longitude": -118.87999,
+      "open": true,
+      "timing": "24 घंटे खुला है",
+      "ratings": 4.1,
+      "payment_mode": "नकद",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "डीज़ल",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "डी"
+        },
+        {
+          "product_name": "मिडग्रेड",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 87
+        },
+        {
+          "product_name": "नियमित",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 90
+        },
+        {
+          "product_name": "अधिमूल्य",
+          "cash_price": 5.8,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "hi"
+    },
+    {
+      "name": "आर्को",
+      "address": "3125 सीए एवेन्यू, बेकर्सफील्ड, सीए-93304",
+      "state": "कैलिफोर्निया",
+      "country": "यूएसए",
+      "phone": "+1 661-634-0150",
+      "hours": "24",
+      "comment": 359,
+      "latitude": 35.3682,
+      "longitude": -119.0384,
+      "open": true,
+      "timing": "24 घंटे खुला है",
+      "ratings": 4,
+      "payment_mode": "नकद",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "डीज़ल",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "डी"
+        },
+        {
+          "product_name": "मिडग्रेड",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "नियमित",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "अधिमूल्य",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ],
+      "language": "hi"
+    },
+    {
+      "name": "आर्को",
+      "address": "3125 सीए एवेन्यू, बेकर्सफील्ड, सीए-93304",
+      "state": "कैलिफोर्निया",
+      "country": "यूएसएयूएसए",
+      "phone": "+1 661-634-0150",
+      "hours": "24",
+      "comment": 359,
+      "latitude": 35.3682,
+      "longitude": -119.0384,
+      "open": true,
+      "timing": "24 घंटे खुला है",
+      "ratings": 4,
+      "payment_mode": "कैश",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "डीजल",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "डी"
+        },
+        {
+          "product_name": "मिडग्रेड",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "रेगुलर",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "प्रीमियम",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ],
+      "language": "hi"
+    },
+    {
+      "name": "आर्को",
+      "address": "3220 मिंग, बेकर्सफील्ड, सीए-93304",
+      "state": "कैलिफोर्निया",
+      "country": "यूएसएयूएसए",
+      "phone": "+1 661-398-0303",
+      "hours": "24",
+      "comment": 203,
+      "latitude": 35.34377,
+      "longitude": -119.03726,
+      "open": true,
+      "timing": "24 घंटे खुला है",
+      "ratings": 3.9,
+      "payment_mode": "कैश",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "डीजल",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "डी"
+        },
+        {
+          "product_name": "रेगुलर",
+          "cash_price": 5,
+          "credit_card_price": 5.1,
+          "grade": 90
+        },
+        {
+          "product_name": "मिडग्रेड",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "प्रीमियम",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "hi"
+    },
+    {
+      "name": "आर्को",
+      "address": "4203 मिंग, बेकर्सफील्ड, सीए-93309",
+      "state": "कैलिफोर्निया",
+      "country": "यूएसएयूएसए",
+      "phone": "+1 661-831-7309",
+      "hours": "24",
+      "comment": 166,
+      "latitude": 35.34292,
+      "longitude": -119.04978,
+      "open": true,
+      "timing": "24 घंटे खुला है",
+      "ratings": 4,
+      "payment_mode": "कैश",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "डीजल",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "डी"
+        },
+        {
+          "product_name": "रेगुलर",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "मिडग्रेड",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "प्रीमियम",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "hi"
+    },
+    {
+      "name": "शेल",
+      "address": "4815 पनामा, बेकर्सफील्ड, सीए-93313",
+      "state": "कैलिफोर्निया",
+      "country": "यूएसएयूएसए",
+      "phone": "+1 661-412-4956",
+      "hours": "24",
+      "comment": 77,
+      "latitude": 35.29973,
+      "longitude": -119.05551,
+      "open": true,
+      "timing": "24 घंटे खुला है",
+      "ratings": 3.8,
+      "payment_mode": "कैश",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "डीजल",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "डी"
+        },
+        {
+          "product_name": "रेगुलर",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "मिडग्रेड",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "प्रीमियम",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "hi"
+    },
+    {
+      "name": "शेल",
+      "address": "4050 गोसफोर्ड, बेकर्सफील्ड, सीए-93309",
+      "state": "कैलिफोर्निया",
+      "country": "यूएसएयूएसए",
+      "phone": "+1 661-833-4002",
+      "hours": "24",
+      "comment": 23,
+      "latitude": 35.3223,
+      "longitude": -119.09199,
+      "open": true,
+      "timing": "24 घंटे खुला है",
+      "ratings": 3.1,
+      "payment_mode": "कैश",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "डीजल",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "डी"
+        },
+        {
+          "product_name": "रेगुलर",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "मिडग्रेड",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "प्रीमियम",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "hi"
+    },
+    {
+      "name": "शैल",
+      "address": "5300 ऑलिव ड्राइव, बेकर्सफील्ड, सीए-93308",
+      "state": "कैलिफोर्निया",
+      "country": "यूएसएयूएसए",
+      "phone": "+1 661-399-8889",
+      "hours": "24",
+      "comment": 52,
+      "latitude": 35.41767,
+      "longitude": -119.05983,
+      "open": true,
+      "timing": "24 घंटे खुला है",
+      "ratings": 3.8,
+      "payment_mode": "कैश",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "डीजल",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "डी"
+        },
+        {
+          "product_name": "रेगुलर",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "मिडग्रेड",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "प्रीमियम",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "hi"
+    },
+    {
+      "name": "ఫాస్ట్రిప్",
+      "address": "2200, నైల్స్ స్ట్రీట్, బేకర్స్‌ఫీల్డ్, CA-93306",
+      "state": "కాలిఫోర్నియా",
+      "country": "యు.ఎస్.ఎ",
+      "phone": "(661) 872-6519",
+      "hours": "24",
+      "comment": 10,
+      "latitude": 35.37655,
+      "longitude": -118.96679,
+      "open": true,
+      "timing": "24 గంటల తెరపటిని",
+      "ratings": 4.9,
+      "payment_mode": "నగదు",
+      "logo_url": "/images/fastripLogo2.jpg",
+      "products": [
+        {
+          "product_name": "డీజిల్",
+          "cash_price": 6.4,
+          "credit_card_price": 6.5,
+          "grade": "డి"
+        },
+        {
+          "product_name": "మిడ్గ్రేడ్",
+          "cash_price": 4.9,
+          "credit_card_price": 5,
+          "grade": 87
+        },
+        {
+          "product_name": "రెగ్యులర్",
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 90
+        },
+        {
+          "product_name": "ప్రీమియం",
+          "cash_price": 5.1,
+          "credit_card_price": 5.2,
+          "grade": 91
+        }
+      ],
+      "language": "te"
+    },
+    {
+      "name": "చేవ్రాన్",
+      "address": "1131 ఓక్ స్ట్రీట్, బేకర్స్‌ఫీల్డ్, CA-93304",
+      "state": "కాలిఫోర్నియా",
+      "country": "యు.ఎస్.ఎ",
+      "phone": "+1 661-324-7621",
+      "hours": "24",
+      "comment": 16,
+      "latitude": 35.368191,
+      "longitude": -119.039124,
+      "open": true,
+      "timing": "24 గంటల తెరపటిని",
+      "ratings": 3.2,
+      "payment_mode": "నగదు",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "డీజిల్",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": "డి"
+        },
+        {
+          "product_name": "మిడ్గ్రేడ్",
+          "cash_price": 5.7,
+          "credit_card_price": 5.8,
+          "grade": 87
+        },
+        {
+          "product_name": "రెగ్యులర్",
+          "cash_price": 5.3,
+          "credit_card_price": 5.4,
+          "grade": 90
+        },
+        {
+          "product_name": "ప్రీమియం",
+          "cash_price": 5.9,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "te"
+    },
+    {
+      "name": "చేవ్రాన్ బేకర్స్‌ఫీల్డ్",
+      "address": "11101 CA-178, బేకర్స్‌ఫీల్డ్, CA 93306",
+      "state": "కాలిఫోర్నియా",
+      "country": "యు.ఎస్.ఎ",
+      "phone": "+1 661-366-4886",
+      "hours": "24",
+      "comment": 225,
+      "latitude": 35.39804,
+      "longitude": -118.87999,
+      "open": true,
+      "timing": "24 గంటల తెరపటిని",
+      "ratings": 4.1,
+      "payment_mode": "నగదు",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "డీజిల్",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "డి"
+        },
+        {
+          "product_name": "మిడ్గ్రేడ్",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 87
+        },
+        {
+          "product_name": "రెగ్యులర్",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 90
+        },
+        {
+          "product_name": "ప్రీమియం",
+          "cash_price": 5.8,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "te"
+    },
+    {
+      "name": "ఆర్కో",
+      "address": "3125 CA అవెన్యూ, బేకర్స్‌ఫీల్డ్, CA-93304",
+      "state": "కాలిఫోర్నియా",
+      "country": "యుఎస్‌ఎ",
+      "phone": "+1 661-634-0150",
+      "hours": "24",
+      "comment": 359,
+      "latitude": 35.3682,
+      "longitude": -119.0384,
+      "open": true,
+      "timing": "24 గంటల తెరపటిని",
+      "ratings": 4,
+      "payment_mode": "నగదు",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "డీజిల్",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "డి"
+        },
+        {
+          "product_name": "మిడ్గ్రేడ్",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "రెగ్యులర్",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "ప్రీమియం",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ],
+      "language": "te"
+    },
+    {
+      "name": "ఆర్కో",
+      "address": "6450 వైట్ లేన్, బేకర్స్‌ఫీల్డ్, CA-93309",
+      "state": "కాలిఫోర్నియా",
+      "country": "యుఎస్‌ఎ",
+      "phone": "+1 661-398-0393",
+      "hours": "24",
+      "comment": 162,
+      "latitude": 35.32811,
+      "longitude": -119.07588,
+      "open": true,
+      "timing": "24 గంటల తెరపటిని",
+      "ratings": 4.1,
+      "payment_mode": "నగదు",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "డీజిల్",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "డి"
+        },
+        {
+          "product_name": "మిడ్గ్రేడ్",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "రెగ్యులర్",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "ప్రీమియం",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ],
+      "language": "te"
+    },
+    {
+      "name": "ఆర్కో",
+      "address": " 3220 మింగ్, బేకర్స్‌ఫీల్డ్, CA-93304",
+      "state": "కాలిఫోర్నియా",
+      "country": "యుఎస్‌ఎ",
+      "phone": "+1 661-398-0303",
+      "hours": "24",
+      "comment": 203,
+      "latitude": 35.34377,
+      "longitude": -119.03726,
+      "open": true,
+      "timing": "24 గంటల తెరపటిని",
+      "ratings": 3.9,
+      "payment_mode": "నగదు",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "డీజిల్",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "డి"
+        },
+        {
+          "product_name": "రెగ్యులర్",
+          "cash_price": 5,
+          "credit_card_price": 5.1,
+          "grade": 90
+        },
+        {
+          "product_name": "మిడ్గ్రేడ్",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "ప్రీమియం",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "te"
+    },
+    {
+      "name": "ఆర్కో",
+      "address": "4203 మింగ్, బేకర్స్‌ఫీల్డ్, CA-93309",
+      "state": "కాలిఫోర్నియా",
+      "country": "యుఎస్‌ఎ",
+      "phone": "+1 661-831-7309",
+      "hours": "24",
+      "comment": 166,
+      "latitude": 35.34292,
+      "longitude": -119.04978,
+      "open": true,
+      "timing": "24 గంటల తెరపటిని",
+      "ratings": 4,
+      "payment_mode": "నగదు",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "డీజిల్",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "డి"
+        },
+        {
+          "product_name": "రెగ్యులర్",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "మిడ్గ్రేడ్",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "ప్రీమియం",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "te"
+    },
+    {
+      "name": "షెల్",
+      "address": "4815 పనామా, బేకర్స్ఫీల్డ్, CA-93313",
+      "state": "కాలిఫోర్నియా",
+      "country": "యుఎస్‌ఎ",
+      "phone": "+1 661-412-4956",
+      "hours": "24",
+      "comment": 77,
+      "latitude": 35.29973,
+      "longitude": -119.05551,
+      "open": true,
+      "timing": "24 గంటల తెరపటిని",
+      "ratings": 3.8,
+      "payment_mode": "నగదు",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "డీజిల్",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "డి"
+        },
+        {
+          "product_name": "నియమిత",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "మధ్యమాస్థ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "ప్రీమియం",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "te"
+    },
+    {
+      "name": "షెల్",
+      "address": "4050 గోస్ఫోర్డ్, బేకర్స్ఫీల్డ్, CA-93309",
+      "state": "కాలిఫోర్నియా",
+      "country": "యుఎస్‌ఎ",
+      "phone": "+1 661-833-4002",
+      "hours": "24",
+      "comment": 23,
+      "latitude": 35.3223,
+      "longitude": -119.09199,
+      "open": true,
+      "timing": "24 గంటల తెరపటిని",
+      "ratings": 3.1,
+      "payment_mode": "నగదు",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "డీజిల్",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "డి"
+        },
+        {
+          "product_name": "నియమిత",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "మధ్యమాస్థ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "ప్రీమియం",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "te"
+    },
+    {
+      "name": "షెల్",
+      "address": "5300 ఆలివ్ డిర్, బేకర్స్ఫీల్డ్, CA-93308",
+      "state": "కాలిఫోర్నియా",
+      "country": "యుఎస్‌ఎ",
+      "phone": "+1 661-399-8889",
+      "hours": "24",
+      "comment": 52,
+      "latitude": 35.41767,
+      "longitude": -119.05983,
+      "open": true,
+      "timing": "24 గంటల తెరపటిని",
+      "ratings": 3.8,
+      "payment_mode": "నగదు",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "డీజిల్",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "డి"
+        },
+        {
+          "product_name": "నియమిత",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "మధ్యమాస్థ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "ప్రీమియం",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "te"
+    },
+    {
+      "name": "ഫാസ്റ്റ്റ്രിപ്പ്",
+      "address": "2200, നൈൽസ് സ്ട്രീറ്റ്, ബേക്കർസ്‌ഫീൽഡ്, CA-93306",
+      "state": "കാലിഫോർണിയ",
+      "country": "യു.എസ്.എ",
+      "phone": "(661) 872-6519",
+      "hours": "24",
+      "comment": 10,
+      "latitude": 35.37655,
+      "longitude": -118.96679,
+      "open": true,
+      "timing": "24 മണിക്കൂർ തുറന്ന്",
+      "ratings": 4.9,
+      "payment_mode": "നകം",
+      "logo_url": "/images/fastripLogo2.jpg",
+      "products": [
+        {
+          "product_name": "ഡീസൽ",
+          "cash_price": 6.4,
+          "credit_card_price": 6.5,
+          "grade": "ഡി"
+        },
+        {
+          "product_name": "മിഡ്ഗ്രേഡ്",
+          "cash_price": 4.9,
+          "credit_card_price": 5,
+          "grade": 87
+        },
+        {
+          "product_name": "റെഗ്യുലർ",
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 90
+        },
+        {
+          "product_name": "പ്രീമിയം",
+          "cash_price": 5.1,
+          "credit_card_price": 5.2,
+          "grade": 91
+        }
+      ],
+      "language": "ml"
+    },
+    {
+      "name": "ചെവ്റൺ",
+      "address": "1131 ഓക്ക് സ്റ്റ്രീറ്റ്, ബേക്കർസ്‌ഫീൽഡ്, CA-93304",
+      "state": "കാലിഫോർണിയ",
+      "country": "യു.എസ്.എ",
+      "phone": "+1 661-324-7621",
+      "hours": "24",
+      "comment": 16,
+      "latitude": 35.368191,
+      "longitude": -119.039124,
+      "open": true,
+      "timing": "24 മണിക്കൂർ തുറന്ന്",
+      "ratings": 3.2,
+      "payment_mode": "നകം",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "ഡീസൽ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": "ഡി"
+        },
+        {
+          "product_name": "മിഡ്ഗ്രേഡ്",
+          "cash_price": 5.7,
+          "credit_card_price": 5.8,
+          "grade": 87
+        },
+        {
+          "product_name": "റെഗ്യുലർ",
+          "cash_price": 5.3,
+          "credit_card_price": 5.4,
+          "grade": 90
+        },
+        {
+          "product_name": "പ്രീമിയം",
+          "cash_price": 5.9,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "ml"
+    },
+    {
+      "name": "ചെവ്റൺ ബേക്കർസ്‌ഫീൽഡ്",
+      "address": "11101 CA-178, ബേക്കർസ്‌ഫീൽഡ്, CA 93306",
+      "state": "കാലിഫോർണിയ",
+      "country": "യു.എസ്.എ",
+      "phone": "+1 661-366-4886",
+      "hours": "24",
+      "comment": 225,
+      "latitude": 35.39804,
+      "longitude": -118.87999,
+      "open": true,
+      "timing": "24 മണിക്കൂർ തുറന്ന്",
+      "ratings": 4.1,
+      "payment_mode": "നകം",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "ഡീസൽ",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ഡി"
+        },
+        {
+          "product_name": "മിഡ്ഗ്രേഡ്",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 87
+        },
+        {
+          "product_name": "റെഗ്യുലർ",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 90
+        },
+        {
+          "product_name": "പ്രീമിയം",
+          "cash_price": 5.8,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "ml"
+    },
+    {
+      "name": "ആർക്കോ",
+      "address": "3125 കെ.എ അവെ, ബേക്കർസ്‌ഫീൽഡ്, CA-93304",
+      "state": "കാലിഫോർണിയ",
+      "country": "യു.എസ്.എ",
+      "phone": "+1 661-634-0150",
+      "hours": "24",
+      "comment": 359,
+      "latitude": 35.3682,
+      "longitude": -119.0384,
+      "open": true,
+      "timing": "24 മണിക്കൂർ തുറന്ന്",
+      "ratings": 4,
+      "payment_mode": "നകം",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "ഡീസൽ",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ഡി"
+        },
+        {
+          "product_name": "മിഡ്ഗ്രേഡ്",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "റെഗ്യുലർ",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "പ്രീമിയം",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ],
+      "language": "ml"
+    },
+    {
+      "name": "ആർക്കോ",
+      "address": "6450 വൈറ്റ് ലേൺ, ബേക്കർസ്‌ഫീൽഡ്, CA-93309",
+      "state": "കാലിഫോർണിയ",
+      "country": "യു.എസ്.എ",
+      "phone": "+1 661-398-0393",
+      "hours": "24",
+      "comment": 162,
+      "latitude": 35.32811,
+      "longitude": -119.07588,
+      "open": true,
+      "timing": "24 മണിക്കൂർ തുറന്ന്",
+      "ratings": 4.1,
+      "payment_mode": "നകം",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "ഡീസൽ",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ഡി"
+        },
+        {
+          "product_name": "മിഡ്ഗ്രേഡ്",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "റെഗ്യുലർ",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "പ്രീമിയം",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ],
+      "language": "ml"
+    },
+    {
+      "name": "ആർക്കോ",
+      "address": "3220 മിംഗ്, ബേക്കർസ്‌ഫീൽഡ്, CA-93304",
+      "state": "കാലിഫോർണിയ",
+      "country": "യു.എസ്.എ",
+      "phone": "+1 661-398-0303",
+      "hours": "24",
+      "comment": 203,
+      "latitude": 35.34377,
+      "longitude": -119.03726,
+      "open": true,
+      "timing": "24 മണിക്കൂർ തുറന്ന്",
+      "ratings": 3.9,
+      "payment_mode": "നകം",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "ഡീസൽ",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ഡി"
+        },
+        {
+          "product_name": "റെഗ്യുലർ",
+          "cash_price": 5,
+          "credit_card_price": 5.1,
+          "grade": 90
+        },
+        {
+          "product_name": "മിഡ്ഗ്രേഡ്",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "പ്രീമിയം",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "ml"
+    },
+    {
+      "name": "ആർക്കോ",
+      "address": "4203 മിംഗ്, ബേക്കർസ്‌ഫീൽഡ്, CA-93309",
+      "state": "കാലിഫോർണിയ",
+      "country": "യു.എസ്.എ",
+      "phone": "+1 661-831-7309",
+      "hours": "24",
+      "comment": 166,
+      "latitude": 35.34292,
+      "longitude": -119.04978,
+      "open": true,
+      "timing": "24 മണിക്കൂർ തുറന്ന്",
+      "ratings": 4,
+      "payment_mode": "നകം",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "ഡീസൽ",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ഡി"
+        },
+        {
+          "product_name": "റെഗ്യുലർ",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "മിഡ്ഗ്രേഡ്",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "പ്രീമിയം",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "ml"
+    },
+    {
+      "name": "ഷെൽ",
+      "address": "4815 പനാമ, ബേക്കർസ്‌ഫീൽഡ്, CA-93313",
+      "state": "കാലിഫോർണിയ",
+      "country": "യു.എസ്.എ",
+      "phone": "+1 661-412-4956",
+      "hours": "24",
+      "comment": 77,
+      "latitude": 35.29973,
+      "longitude": -119.05551,
+      "open": true,
+      "timing": "24 മണിക്കൂർ തുറന്ന്",
+      "ratings": 3.8,
+      "payment_mode": "നകം",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "ഡീസൽ",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ഡി"
+        },
+        {
+          "product_name": "റെഗ്യുലർ",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "മിഡ്ഗ്രേഡ്",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "പ്രീമിയം",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "ml"
+    },
+    {
+      "name": "ഷെൽ",
+      "address": "4050 ഗോസ്ഫോർഡ്, ബേക്കർസ്‌ഫീൽഡ്, CA-93309",
+      "state": "കാലിഫോർണിയ",
+      "country": "യു.എസ്.എ",
+      "phone": "+1 661-833-4002",
+      "hours": "24",
+      "comment": 23,
+      "latitude": 35.3223,
+      "longitude": -119.09199,
+      "open": true,
+      "timing": "24 മണിക്കൂർ തുറന്ന്",
+      "ratings": 3.1,
+      "payment_mode": "നകം",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "ഡീസൽ",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ഡി"
+        },
+        {
+          "product_name": "റെഗ്യുലർ",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "മിഡ്ഗ്രേഡ്",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "പ്രീമിയം",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "ml"
+    },
+    {
+      "name": "ഷെൽ",
+      "address": "5300 ഓലിവ് ഡ്രൈവ്, ബേക്കർസ്‌ഫീൽഡ്, CA-93308",
+      "state": "കാലിഫോർണിയ",
+      "country": "യു.എസ്.എ",
+      "phone": "+1 661-399-8889",
+      "hours": "24",
+      "comment": 52,
+      "latitude": 35.41767,
+      "longitude": -119.05983,
+      "open": true,
+      "timing": "24 മണിക്കൂർ തുറന്ന്",
+      "ratings": 3.8,
+      "payment_mode": "നകം",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "ഡീസൽ",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ഡി"
+        },
+        {
+          "product_name": "റെഗ്യുലർ",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "മിഡ്ഗ്രേഡ്",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "പ്രീമിയം",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "ml"
+    },
+    {
+      "name": "ಫಾಸ್ಟ್ರಿಪ್",
+      "address": "2200, ನೈಲ್ಸ್ ಸ್ಟ್ರೀಟ್, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ-93306",
+      "state": "ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ",
+      "country": "ಯುಎಸ್‌ಎ",
+      "phone": "(661) 872-6519",
+      "hours": "24",
+      "comment": 10,
+      "latitude": 35.37655,
+      "longitude": -118.96679,
+      "open": true,
+      "timing": "24 ಗಂಟೆಗಳ ತೆರೆ",
+      "ratings": 4.9,
+      "payment_mode": "ನಗದು",
+      "logo_url": "/images/fastripLogo2.jpg",
+      "products": [
+        {
+          "product_name": "ಡೀಜಲ್",
+          "cash_price": 6.4,
+          "credit_card_price": 6.5,
+          "grade": "ಡಿ"
+        },
+        {
+          "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
+          "cash_price": 4.9,
+          "credit_card_price": 5,
+          "grade": 87
+        },
+        {
+          "product_name": "ನಿಯಮಿತ",
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 90
+        },
+        {
+          "product_name": "ಪ್ರೀಮಿಯಂ",
+          "cash_price": 5.1,
+          "credit_card_price": 5.2,
+          "grade": 91
+        }
+      ],
+      "language": "kn"
+    },
+    {
+      "name": "ಚೆವ್ರಾನ್",
+      "address": "1131 ಓಕ್ ಸ್ಟ್ರೀಟ್, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ-93304",
+      "state": "ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ",
+      "country": "ಯುಎಸ್‌ಎ",
+      "phone": "+1 661-324-7621",
+      "hours": "24",
+      "comment": 16,
+      "latitude": 35.368191,
+      "longitude": -119.039124,
+      "open": true,
+      "timing": "24 ಗಂಟೆಗಳ ತೆರೆ",
+      "ratings": 3.2,
+      "payment_mode": "ನಗದು",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "ಡೀಜಲ್",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": "ಡಿ"
+        },
+        {
+          "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
+          "cash_price": 5.7,
+          "credit_card_price": 5.8,
+          "grade": 87
+        },
+        {
+          "product_name": "ನಿಯಮಿತ",
+          "cash_price": 5.3,
+          "credit_card_price": 5.4,
+          "grade": 90
+        },
+        {
+          "product_name": "ಪ್ರೀಮಿಯಂ",
+          "cash_price": 5.9,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "kn"
+    },
+    {
+      "name": "ಚೆವ್ರಾನ್ ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್",
+      "address": "11101 ಸಿಎ-178, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ 93306",
+      "state": "ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ",
+      "country": "ಯುಎಸ್‌ಎ",
+      "phone": "+1 661-366-4886",
+      "hours": "24",
+      "comment": 225,
+      "latitude": 35.39804,
+      "longitude": -118.87999,
+      "open": true,
+      "timing": "24 ಗಂಟೆಗಳ ತೆರೆ",
+      "ratings": 4.1,
+      "payment_mode": "ನಗದು",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "ಡೀಜಲ್",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ಡಿ"
+        },
+        {
+          "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 87
+        },
+        {
+          "product_name": "ನಿಯಮಿತ",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 90
+        },
+        {
+          "product_name": "ಪ್ರೀಮಿಯಂ",
+          "cash_price": 5.8,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "kn"
+    },
+    {
+      "name": "ಅರ್ಕೋ",
+      "address": "3125 ಕೆ ಎ ಅವೆ, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ-93304",
+      "state": "ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ",
+      "country": "ಯುಎಸ್‌ಎ",
+      "phone": "+1 661-634-0150",
+      "hours": "24",
+      "comment": 359,
+      "latitude": 35.3682,
+      "longitude": -119.0384,
+      "open": true,
+      "timing": "24 ಗಂಟೆಗಳ ತೆರೆ",
+      "ratings": 4,
+      "payment_mode": "ನಗದು",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "ಡೀಜಲ್",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ಡಿ"
+        },
+        {
+          "product_name": "ನಿಯಮಿತ",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "ಪ್ರೀಮಿಯಂ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "kn"
+    },
+    {
+      "name": "ಅರ್ಕೋ",
+      "address": "6450 ವೈಟ್ ಎಲ್‌ಎನ್, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ-93309",
+      "state": "ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ",
+      "country": "ಯುಎಸ್‌ಎ",
+      "phone": "+1 661-398-0393",
+      "hours": "24",
+      "comment": 162,
+      "latitude": 35.32811,
+      "longitude": -119.07588,
+      "open": true,
+      "timing": "24 ಗಂಟೆಗಳ ತೆರೆ",
+      "ratings": 4.1,
+      "payment_mode": "ನಗದು",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "ಡೀಜಲ್",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "ಡಿ"
+        },
+        {
+          "product_name": "ನಿಯಮಿತ",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "ಪ್ರೀಮಿಯಂ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "kn"
+    },
+    {
+      "name": "ಆರ್ಕೋ",
+      "address": "3220 ಮಿಂಗ್, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, CA-93304",
+      "state": "ಕೆಲಿಫೋರ್ನಿಯಾ",
+      "country": "ಅಮೇರಿಕಾ",
+      "phone": "+1 661-398-0303",
+      "hours": "24",
+      "comment": 203,
+      "latitude": 35.34377,
+      "longitude": -119.03726,
+      "open": true,
+      "timing": "24 ಗಂಟೆಗಳ ಆಚರಣೆ",
+      "ratings": 3.9,
+      "payment_mode": "ನಗದು",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "ಡಿಜಲ್",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "ನಿಯಮಿತ",
+          "cash_price": 5,
+          "credit_card_price": 5.1,
+          "grade": 90
+        },
+        {
+          "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "ಪ್ರೀಮಿಯಂ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "kn"
+    },
+    {
+      "name": "ಆರ್ಕೋ",
+      "address": "4203 ಮಿಂಗ್, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, CA-93309",
+      "state": "ಕೆಲಿಫೋರ್ನಿಯಾ",
+      "country": "ಅಮೇರಿಕಾ",
+      "phone": "+1 661-831-7309",
+      "hours": "24",
+      "comment": 166,
+      "latitude": 35.34292,
+      "longitude": -119.04978,
+      "open": true,
+      "timing": "24 ಗಂಟೆಗಳ ಆಚರಣೆ",
+      "ratings": 4,
+      "payment_mode": "ನಗದು",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "ಡಿಜಲ್",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "ನಿಯಮಿತ",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "ಪ್ರೀಮಿಯಂ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "kn"
+    },
+    {
+      "name": "ಷೆಲ್",
+      "address": "4815 ಪನಾಮಾ, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, CA-93313",
+      "state": "ಕೆಲಿಫೋರ್ನಿಯಾ",
+      "country": "ಅಮೇರಿಕಾ",
+      "phone": "+1 661-412-4956",
+      "hours": "24",
+      "comment": 77,
+      "latitude": 35.29973,
+      "longitude": -119.05551,
+      "open": true,
+      "timing": "24 ಗಂಟೆಗಳ ಆಚರಣೆ",
+      "ratings": 3.8,
+      "payment_mode": "ನಗದು",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "ಡಿಜಲ್",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "ನಿಯಮಿತ",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "ಪ್ರೀಮಿಯಂ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "kn"
+    },
+    {
+      "name": "ಷೆಲ್",
+      "address": "4050 ಗೋಸ್‌ಫೋರ್ಡ್, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, CA-93309",
+      "state": "ಕೆಲಿಫೋರ್ನಿಯಾ",
+      "country": "ಅಮೇರಿಕಾ",
+      "phone": "+1 661-833-4002",
+      "hours": "24",
+      "comment": 23,
+      "latitude": 35.3223,
+      "longitude": -119.09199,
+      "open": true,
+      "timing": "24 ಗಂಟೆಗಳ ಆಚರಣೆ",
+      "ratings": 3.1,
+      "payment_mode": "ನಗದು",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "ಡಿಜಲ್",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "ನಿಯಮಿತ",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "ಪ್ರೀಮಿಯಂ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "kn"
+    },
+    {
+      "name": "ಷೆಲ್",
+      "address": "5300 ಆಲಿವ್ ಡಿಎರ್, ಬೇಕರ್ಸ್‌ಫೀಲ್ಡ್, CA-93308",
+      "state": "ಕೆಲಿಫೋರ್ನಿಯಾ",
+      "country": "ಅಮೇರಿಕಾ",
+      "phone": "+1 661-399-8889",
+      "hours": "24",
+      "comment": 52,
+      "latitude": 35.41767,
+      "longitude": -119.05983,
+      "open": true,
+      "timing": "24 ಗಂಟೆಗಳ ಆಚರಣೆ",
+      "ratings": 3.8,
+      "payment_mode": "ನಗದು",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "ಡಿಜಲ್",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "ನಿಯಮಿತ",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "ಮಿಡ್‌ಗ್ರೇಡ್",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "ಪ್ರೀಮಿಯಂ",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "kn"
+    },
+    {
+      "name": "ஃபாஸ்ட்ரிப்",
+      "address": "2200, நைல்ஸ் தெரு, பேக்கர்ஸ்ஃபீல்ட், CA-93306",
+      "state": "கலிபோர்னியா",
+      "country": "யு.எஸ்.எ",
+      "phone": "(661) 872-6519",
+      "hours": "24",
+      "comment": 10,
+      "latitude": 35.37655,
+      "longitude": -118.96679,
+      "open": true,
+      "timing": "24 மணிநேர திறந்தது",
+      "ratings": 4.9,
+      "payment_mode": "பணம்",
+      "logo_url": "/images/fastripLogo2.jpg",
+      "products": [
+        {
+          "product_name": "டீசல்",
+          "cash_price": 6.4,
+          "credit_card_price": 6.5,
+          "grade": "டி"
+        },
+        {
+          "product_name": "மிட்கிரேட்",
+          "cash_price": 4.9,
+          "credit_card_price": 5,
+          "grade": 87
+        },
+        {
+          "product_name": "ரெகுலர்",
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 90
+        },
+        {
+          "product_name": "பிரீமியம்",
+          "cash_price": 5.1,
+          "credit_card_price": 5.2,
+          "grade": 91
+        }
+      ],
+      "language": "ta"
+    },
+    {
+      "name": "செவ்ரான்",
+      "address": "1131 ஓக் தெரு, பேக்கர்ஸ்ஃபீல்ட், CA-93304",
+      "state": "கலிபோர்னியா",
+      "country": "யு.எஸ்.எ",
+      "phone": "+1 661-324-7621",
+      "hours": "24",
+      "comment": 16,
+      "latitude": 35.368191,
+      "longitude": -119.039124,
+      "open": true,
+      "timing": "24 மணிநேர திறந்தது",
+      "ratings": 3.2,
+      "payment_mode": "பணம்",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "டீசல்",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": "டி"
+        },
+        {
+          "product_name": "மிட்கிரேட்",
+          "cash_price": 5.7,
+          "credit_card_price": 5.8,
+          "grade": 87
+        },
+        {
+          "product_name": "ரெகுலர்",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "பிரீமியம்",
+          "cash_price": 5.9,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "ta"
+    },
+    {
+      "name": "செவ்ரான் பேக்கர்ஸ்ஃபீல்ட்",
+      "address": "11101 CA-178, பேக்கர்ஸ்ஃபீல்ட், CA 93306",
+      "state": "கலிபோர்னியா",
+      "country": "அமெரிக்கா",
+      "phone": "+1 661-366-4886",
+      "hours": "24",
+      "comment": 225,
+      "latitude": 35.39804,
+      "longitude": -118.87999,
+      "open": true,
+      "timing": "24 மணிநேரமும் திறந்திருக்கும்",
+      "ratings": 4.1,
+      "payment_mode": "பணம்",
+      "logo_url": "/svgs/chevronlogo.svg",
+      "products": [
+        {
+          "product_name": "டீசல்",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "டி"
+        },
+        {
+          "product_name": "இடைநிலை",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 87
+        },
+        {
+          "product_name": "வழக்கமான",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 90
+        },
+        {
+          "product_name": "பிரீமியம்",
+          "cash_price": 5.8,
+          "credit_card_price": 6,
+          "grade": 91
+        }
+      ],
+      "language": "ta"
+    },
+    {
+      "name": "ஆர்கோ",
+      "address": "3125 CA Ave, Bakersfield, CA-93304",
+      "state": "கலிபோர்னியா",
+      "country": "அமெரிக்கா",
+      "phone": "+1 661-634-0150",
+      "hours": "24",
+      "comment": 359,
+      "latitude": 35.3682,
+      "longitude": -119.0384,
+      "open": true,
+      "timing": "24 மணிநேரமும் திறந்திருக்கும்",
+      "ratings": 4,
+      "payment_mode": "பணம்",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "டீசல்",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "டி"
+        },
+        {
+          "product_name": "இடைநிலை",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "வழக்கமான",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "பிரீமியம்",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ],
+      "language": "ta"
+    },
+    {
+      "name": "ஆர்கோ",
+      "address": "6450 White Ln, Bakersfield, CA-93309",
+      "state": "கலிபோர்னியா",
+      "country": "அமெரிக்கா",
+      "phone": "+1 661-398-0393",
+      "hours": "24",
+      "comment": 162,
+      "latitude": 35.32811,
+      "longitude": -119.07588,
+      "open": true,
+      "timing": "24 மணிநேரமும் திறந்திருக்கும்",
+      "ratings": 4.1,
+      "payment_mode": "பணம்",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "டீசல்",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "டி"
+        },
+        {
+          "product_name": "இடைநிலை",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
+        },
+        {
+          "product_name": "வழக்கமான",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "பிரீமியம்",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ],
+      "language": "ta"
+    },
+    {
+      "name": "ஆர்கோ",
+      "address": " 3220 மிங், பேக்கர்ஸ்ஃபீல்ட், CA-93304",
+      "state": "கலிபோர்னியா",
+      "country": "அமெரிக்கா",
+      "phone": "+1 661-398-0303",
+      "hours": "24",
+      "comment": 203,
+      "latitude": 35.34377,
+      "longitude": -119.03726,
+      "open": true,
+      "timing": "24 மணிநேரமும் திறந்திருக்கும்",
+      "ratings": 3.9,
+      "payment_mode": "பணம்",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "டீசல்",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "டி"
+        },
+        {
+          "product_name": "வழக்கமான",
+          "cash_price": 5,
+          "credit_card_price": 5.1,
+          "grade": 90
+        },
+        {
+          "product_name": "இடைநிலை",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "பிரீமியம்",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "ta"
+    },
+    {
+      "name": "ஆர்கோ",
+      "address": "4203 மிங், பேக்கர்ஸ்ஃபீல்ட், CA-93309",
+      "state": "கலிபோர்னியா",
+      "country": "அமெரிக்கா",
+      "phone": "+1 661-831-7309",
+      "hours": "24",
+      "comment": 166,
+      "latitude": 35.34292,
+      "longitude": -119.04978,
+      "open": true,
+      "timing": "24 மணிநேரமும் திறந்திருக்கும்",
+      "ratings": 4,
+      "payment_mode": "பணம்",
+      "logo_url": "/svgs/arcologo.svg",
+      "products": [
+        {
+          "product_name": "டீசல்",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "டி"
+        },
+        {
+          "product_name": "வழக்கமான",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
+        },
+        {
+          "product_name": "இடைநிலை",
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
+        },
+        {
+          "product_name": "பிரீமியம்",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "ta"
+    },
+    {
+      "name": "ஷெல்",
+      "address": "4815 பனாமா, பேக்கர்ஸ்ஃபீல்ட், CA-93313",
+      "state": "கலிபோர்னியா",
+      "country": "அமெரிக்கா",
+      "phone": "+1 661-412-4956",
+      "hours": "24",
+      "comment": 77,
+      "latitude": 35.29973,
+      "longitude": -119.05551,
+      "open": true,
+      "timing": "24 மணிநேரமும் திறந்திருக்கும்",
+      "ratings": 3.8,
+      "payment_mode": "பணம்",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "டீசல்",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "டி"
+        },
+        {
+          "product_name": "வழக்கமான",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "இடைநிலை",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "பிரீமியம்",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "ta"
+    },
+    {
+      "name": "ஷெல்",
+      "address": "4050 Gosford, Bakersfield, CA-93309",
+      "state": "கலிபோர்னியா",
+      "country": "அமெரிக்கா",
+      "phone": "+1 661-833-4002",
+      "hours": "24",
+      "comment": 23,
+      "latitude": 35.3223,
+      "longitude": -119.09199,
+      "open": true,
+      "timing": "24 மணிநேரமும் திறந்திருக்கும்",
+      "ratings": 3.1,
+      "payment_mode": "பணம்",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "டீசல்",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "டி"
+        },
+        {
+          "product_name": "வழக்கமான",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "இடைநிலை",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "பிரீமியம்",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "ta"
+    },
+    {
+      "name": "ஷெல்",
+      "address": "5300 ஆலிவ் டாக்டர், பேக்கர்ஸ்ஃபீல்ட், CA-93308",
+      "state": "கலிபோர்னியா",
+      "country": "அமெரிக்கா",
+      "phone": "+1 661-399-8889",
+      "hours": "24",
+      "comment": 52,
+      "latitude": 35.41767,
+      "longitude": -119.05983,
+      "open": true,
+      "timing": "24 மணிநேரமும் திறந்திருக்கும்",
+      "ratings": 3.8,
+      "payment_mode": "பணம்",
+      "logo_url": "/svgs/shellLogo.svg",
+      "products": [
+        {
+          "product_name": "டீசல்",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "டி"
+        },
+        {
+          "product_name": "வழக்கமான",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "இடைநிலை",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "பிரீமியம்",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ],
+      "language": "ta"
+    },
+    {
+      "name": "ઈન્ડિયન ઓઈલ",
+      "address": "ગોપી તલાવ, સુરત - 395003",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-261-2345678",
+      "hours": "24",
+      "comment": 12,
+      "latitude": 21.1702,
+      "longitude": 72.8311,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.6,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 92.5,
+          "credit_card_price": 93.5,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 89.24,
+          "credit_card_price": 90.2,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 98,
+          "credit_card_price": 99,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 94.27,
+          "credit_card_price": 95.37,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "એચપી",
+      "address": "અડાજણ, સુરત - 395009",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-261-3456789",
+      "hours": "24",
+      "comment": 15,
+      "latitude": 21.1785,
+      "longitude": 72.8195,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.5,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 92.6,
+          "credit_card_price": 93.6,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 89.24,
+          "credit_card_price": 90.24,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 98.1,
+          "credit_card_price": 99,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 94.27,
+          "credit_card_price": 95.27,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "બી.પી",
+      "address": "સ્ટેશન રોડ, સુરત - 395002",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-261-4567890",
+      "hours": "24",
+      "comment": 18,
+      "latitude": 21.175,
+      "longitude": 72.825,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.7,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/BharatPetroleumLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 92.5,
+          "credit_card_price": 92,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 89.24,
+          "credit_card_price": 91.2,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 98,
+          "credit_card_price": 100,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 94.27,
+          "credit_card_price": 96.27,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "ઈન્ડિયન ઓઈલ",
+      "address": "વરાછા, સુરત - 395006",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-261-5678901",
+      "hours": "24",
+      "comment": 20,
+      "latitude": 21.178,
+      "longitude": 72.8205,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.6,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 92.5,
+          "credit_card_price": 94.5,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 89.24,
+          "credit_card_price": 90.24,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 98,
+          "credit_card_price": 100,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 94.27,
+          "credit_card_price": 96.27,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "એચપી",
+      "address": "પીપલોદ, સુરત - 395007",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-261-6789012",
+      "hours": "24",
+      "comment": 23,
+      "latitude": 21.17,
+      "longitude": 72.8255,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.5,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 92.6,
+          "credit_card_price": 93.6,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 89.24,
+          "credit_card_price": 90.24,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 98.1,
+          "credit_card_price": 99.1,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 94.27,
+          "credit_card_price": 95.27,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "બી.પી",
+      "address": "રાંદેર રોડ, સુરત - 395005",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-261-7890123",
+      "hours": "24",
+      "comment": 26,
+      "latitude": 21.176,
+      "longitude": 72.822,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.8,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/BharatPetroleumLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 92.5,
+          "credit_card_price": 94.5,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 89.24,
+          "credit_card_price": 91.24,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 98,
+          "credit_card_price": 100,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 94.27,
+          "credit_card_price": 96.27,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "ઈન્ડિયન ઓઈલ",
+      "address": "સિટી સેન્ટર, સુરત - 395002",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-261-8901234",
+      "hours": "24",
+      "comment": 17,
+      "latitude": 21.168,
+      "longitude": 72.83,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.4,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 92.5,
+          "credit_card_price": 93.5,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 89.24,
+          "credit_card_price": 91.24,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 98,
+          "credit_card_price": 99,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 94.27,
+          "credit_card_price": 96.27,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "એચપી",
+      "address": "ઉધના, સુરત - 394210",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-261-9012345",
+      "hours": "24",
+      "comment": 21,
+      "latitude": 21.1725,
+      "longitude": 72.829,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.6,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 92.6,
+          "credit_card_price": 94.6,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 89.24,
+          "credit_card_price": 90.24,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 98.1,
+          "credit_card_price": 99.1,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 94.27,
+          "credit_card_price": 95.27,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "ઈન્ડિયન ઓઈલ",
+      "address": "આશ્રમ રોડ, અમદાવાદ - 380009",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-79-25634856",
+      "hours": "24",
+      "comment": 15,
+      "latitude": 23.03,
+      "longitude": 72.5807,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.8,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 93.75,
+          "credit_card_price": 94.75,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 90.2,
+          "credit_card_price": 91.2,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 102.5,
+          "credit_card_price": 103.5,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 97.75,
+          "credit_card_price": 99.75,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "એચપી",
+      "address": "સીજી રોડ, અમદાવાદ - 380009",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-79-25678901",
+      "hours": "24",
+      "comment": 18,
+      "latitude": 23.0345,
+      "longitude": 72.585,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.5,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 93.85,
+          "credit_card_price": 95.85,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 90.2,
+          "credit_card_price": 92.2,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 102.6,
+          "credit_card_price": 102.6,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 97.75,
+          "credit_card_price": 99.75,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "બી.પી",
+      "address": "વસ્ત્રાપુર, અમદાવાદ - 380015",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-79-25634567",
+      "hours": "24",
+      "comment": 20,
+      "latitude": 23.0355,
+      "longitude": 72.592,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.6,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/BharatPetroleumLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 93.75,
+          "credit_card_price": 95.75,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 90.2,
+          "credit_card_price": 91.2,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 102.5,
+          "credit_card_price": 103.5,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 97.75,
+          "credit_card_price": 97.75,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "ઈન્ડિયન ઓઈલ",
+      "address": "સ પ સ્ટેડિયમ, અમદાવાદ - 380013",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-79-25645678",
+      "hours": "24",
+      "comment": 22,
+      "latitude": 23.047,
+      "longitude": 72.589,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.7,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 93.75,
+          "credit_card_price": 94.75,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 90.2,
+          "credit_card_price": 91.2,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 102.5,
+          "credit_card_price": 103.5,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 97.75,
+          "credit_card_price": 98.75,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "એચપી",
+      "address": "સેટેલાઇટ, અમદાવાદ - 380015",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-79-25656789",
+      "hours": "24",
+      "comment": 25,
+      "latitude": 23.0445,
+      "longitude": 72.5905,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.5,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 93.85,
+          "credit_card_price": 94.85,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 90.2,
+          "credit_card_price": 92.2,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 102.6,
+          "credit_card_price": 105.2,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 97.75,
+          "credit_card_price": 99.75,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "બી.પી",
+      "address": "અમદાવાદ એરપોર્ટ, અમદાવાદ - 380003",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-79-25667890",
+      "hours": "24",
+      "comment": 27,
+      "latitude": 23.075,
+      "longitude": 72.631,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.8,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/BharatPetroleumLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 93.75,
+          "credit_card_price": 94.75,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 90.2,
+          "credit_card_price": 92.3,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 102.5,
+          "credit_card_price": 103.5,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 97.75,
+          "credit_card_price": 99.75,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "ઈન્ડિયન ઓઈલ",
+      "address": "મણિનગર, અમદાવાદ - 380008",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-79-25678901",
+      "hours": "24",
+      "comment": 19,
+      "latitude": 23.035,
+      "longitude": 72.58,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.6,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/IndianOilLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 93.75,
+          "credit_card_price": 95.75,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 90.2,
+          "credit_card_price": 91.2,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 102.5,
+          "credit_card_price": 103.5,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 97.75,
+          "credit_card_price": 97.75,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
+    },
+    {
+      "name": "એચપી",
+      "address": "પાલડી, અમદાવાદ - 380007",
+      "state": "ગુજરાત",
+      "country": "ભારત",
+      "phone": "+91-79-25689012",
+      "hours": "24",
+      "comment": 22,
+      "latitude": 23.0245,
+      "longitude": 72.5695,
+      "open": true,
+      "timing": "24 કલાક ખુલ્લું",
+      "ratings": 4.7,
+      "payment_mode": "રોકડ, ક્રેડિટ કાર્ડ, UPI",
+      "logo_url": "/images/HPLogo.png",
+      "products": [
+        {
+          "product_name": "ડીઝલ પ્રીમિયમ",
+          "cash_price": 93.85,
+          "credit_card_price": 95.85,
+          "grade": "પી"
+        },
+        {
+          "product_name": "ડીઝલ નિયમિત",
+          "cash_price": 90.2,
+          "credit_card_price": 91.2,
+          "grade": "આર"
+        },
+        {
+          "product_name": "પેટ્રોલ પ્રીમિયમ",
+          "cash_price": 102.6,
+          "credit_card_price": 103.6,
+          "grade": 87
+        },
+        {
+          "product_name": "પેટ્રોલ નિયમિત",
+          "cash_price": 97.75,
+          "credit_card_price": 98.75,
+          "grade": 91
+        }
+      ],
+      "language": "gu"
     }
   ]
 }
